@@ -11,7 +11,7 @@
 	holder = 190103 #Ajatashatru
 }
 846.1.1={
-	liege=k_bengal
+#	liege=k_bengal
 }
 866.1.1= {
 	holder = 190104 #Udayin
@@ -20,7 +20,7 @@
 	liege=d_tirabhukti
 }
 870.1.1={
-	liege=k_bengal
+#	liege=k_bengal
 }
 882.1.1= {
 	holder = 190105 #Bimbisara
@@ -45,7 +45,7 @@
 	liege=d_tirabhukti
 }
 1097.1.1={
-	liege=k_bihar
+#	liege=k_bihar
 }
 1100.1.1={
 	holder = 191068 #Kahnuradeva Rashtrakuta
@@ -58,7 +58,7 @@
 }
 1161.1.1={
 	holder = 191536 #Sumudraditya
-	liege = k_bengal #Senas
+#	liege = k_bengal #Senas
 }
 1180.1.1={
 	holder = 191537 #Srideva
@@ -68,7 +68,7 @@
 }
 1203.10.1={
 	holder = 170252 #Muhammad Bakhtiyar
-	liege = k_bihar
+#	liege = k_bihar
 }
 1206.1.1={
 	holder = 170253 #Muhammad Shiran
@@ -136,5 +136,5 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-	liege = k_bihar
+#	liege = k_bihar
 }

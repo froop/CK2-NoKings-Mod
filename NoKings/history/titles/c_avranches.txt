@@ -1,6 +1,6 @@
 #county of Mortain
 740.1.1 = {
-	liege="k_france"
+#	liege="k_france"
 	holder = 91474 #Wildo, historical placeholder
 }
 853.1.1={
@@ -86,6 +86,6 @@
 	holder=455811 #Louis de France
 }
 1319.5.19={
-	liege="k_navarra"
+#	liege="k_navarra"
 	holder=455810 #Philippe d'Évreux
 }

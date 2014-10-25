@@ -31,7 +31,7 @@ holder=30303 #Adalbero von Bremen
 
 1123.1.29=
 {
-liege="e_hre"
+#liege="e_hre"
 }
 
 

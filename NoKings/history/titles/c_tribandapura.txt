@@ -12,7 +12,7 @@
 	holder = 170155 #Jagdev Tomar
 }
 820.1.1={
-	liege=k_kosala
+#	liege=k_kosala
 }
 834.11.3={
 	holder = 170156 #Narpal Tomar
@@ -28,11 +28,11 @@
 	liege=d_lahore
 }
 1192.1.1={
-	liege=k_delhi
+#	liege=k_delhi
 	holder = 170190 #Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1210.11.4={
 	holder = 170191 #Aram

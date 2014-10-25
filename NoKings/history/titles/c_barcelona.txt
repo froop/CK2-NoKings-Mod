@@ -1,6 +1,6 @@
 769.1.1={
 	holder=200049 # Suleyman al-Arabi
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 780.1.1={
 	holder=200051 # Matruch al-Arabi
@@ -85,7 +85,7 @@
 	holder=210500 # Alfons II de barcelona
 }
 1164.1.1={
-	liege=k_aragon
+#	liege=k_aragon
 }
 1195.4.25={
 	holder=210501 # Pere II de Barcelona

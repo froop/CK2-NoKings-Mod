@@ -112,7 +112,7 @@ holder=200604 # Sverker den Yngre, son of 200602 - Karl Sverkersson
 
 1337.1.1=
 {
-liege="k_sweden"
+#liege="k_sweden"
 }
 1337.1.1=
 {

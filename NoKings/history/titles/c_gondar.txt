@@ -17,7 +17,7 @@
 # Solomonid
 
 808.1.1={
-	liege="k_abyssinia"
+#	liege="k_abyssinia"
 	holder=145993
 }
 820.1.1={

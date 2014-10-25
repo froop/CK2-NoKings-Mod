@@ -1,5 +1,5 @@
 1060.1.1={
-	liege="k_orthodox"
+#	liege="k_orthodox"
 }
 1064.1.1={
 	holder=41304
@@ -68,7 +68,7 @@
 	holder=145017
 }
 1204.5.16={
-	liege="k_venice"
+#	liege="k_venice"
 	holder=145062
 }
 1211.7.1={
@@ -87,7 +87,7 @@
 	holder=145067
 }
 1261.7.25={
-	liege="k_orthodox"
+#	liege="k_orthodox"
 	holder=145025
 }
 1265.5.28={

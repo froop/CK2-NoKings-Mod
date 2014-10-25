@@ -62,7 +62,7 @@ holder=125170
 holder=472814
 }
 1238.3.4={
-liege="e_golden_horde"
+#liege="e_golden_horde"
 }
 1277.9.16={
 holder=472824

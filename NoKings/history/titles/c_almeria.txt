@@ -1,6 +1,6 @@
 766.1.1={
 	holder=200229 # Yusuf Nefudid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 799.1.1={
 	holder=73681 # al-Hakam I Umayyad
@@ -65,7 +65,7 @@
 }
 1091.11.1={
 	holder=224017 # Ya'qub Malaqid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1118.1.1={
 	holder=73261 # Ibrahim Hishamid
@@ -81,11 +81,11 @@
 }
 1147.1.1={
 	holder=207500 # Alfonso VII de Borgoña
-	liege=k_castille
+#	liege=k_castille
 }
 1153.1.1={
 	holder=224015 # Ya'qub Bilalid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1178.1.1={
 	holder=224016 # Abd al-Malik Gharnatid

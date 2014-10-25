@@ -1,6 +1,6 @@
 500.1.1 = {
 	holder=160021
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	vice_royalty = yes
 }
 530.1.1=
@@ -59,7 +59,7 @@ holder=70473
 838.1.1=
 {
 holder=70471
-liege="k_georgia"
+#liege="k_georgia"
 }
 873.1.1=
 {
@@ -111,7 +111,7 @@ holder=9952
 }
 1027.8.16=
 {
-liege="k_georgia"
+#liege="k_georgia"
 #law = succ_primogeniture
 #law = cognatic_succession
 }

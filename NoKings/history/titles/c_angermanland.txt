@@ -28,7 +28,7 @@ holder=200002
 }
 1229.1.1=
 {
-liege="k_sweden"
+#liege="k_sweden"
 	holder=200507 # Erik 'den Läspe och Halte'
 }
 1229.11.29={

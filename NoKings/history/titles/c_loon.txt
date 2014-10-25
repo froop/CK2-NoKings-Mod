@@ -1,9 +1,9 @@
 721.1.1={
 	holder = 91000 #Robert Capet
-	liege = k_france
+#	liege = k_france
 }
 817.1.1={
-	liege = "k_lotharingia"
+#	liege = "k_lotharingia"
 }
 841.1.1={
 	holder = 7815

@@ -1,6 +1,6 @@
 330.1.1=
 {
-liege="e_byzantium"
+#liege="e_byzantium"
 vice_royalty = yes
 }
 752.1.1=
@@ -46,7 +46,7 @@ holder=145812
 } 
 1066.1.1=
 {
-liege="e_byzantium"
+#liege="e_byzantium"
 vice_royalty = yes
 }
 1057.1.1=
@@ -73,7 +73,7 @@ holder = 215028
 #4th crusade
 1204.5.16=
 {
-liege="k_venice"
+#liege="k_venice"
 vice_royalty = no
 }
 1204.5.16=

@@ -1,5 +1,5 @@
 763.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 763.1.1={
 	holder = 190323 #Engelbert
@@ -20,7 +20,7 @@
 	holder = 70627
 }
 1090.5.12={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1098.1.1={
 	holder = 1316 #Heinrich IV 

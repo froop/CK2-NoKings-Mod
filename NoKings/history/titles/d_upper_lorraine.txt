@@ -1,5 +1,5 @@
 942.1.1={
-	liege=k_germany
+#	liege=k_germany
 	#law = agnatic_succession
 	#law = succ_primogeniture
 }
@@ -34,7 +34,7 @@
 	holder=11002 #Friedrich II Wigeriche
 }
 1024.7.13={
-	liege = e_hre
+#	liege = e_hre
 }
 1026.1.1={
 	holder = 7974 #Friedrich III Wigeriche

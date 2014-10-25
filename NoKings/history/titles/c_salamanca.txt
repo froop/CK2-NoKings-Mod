@@ -1,6 +1,6 @@
 758.1.1={
 	holder=200032 # Suleyman Suleymanid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 789.1.1={
 	holder=73680 # Hisham I Umayyad
@@ -17,11 +17,11 @@
 }
 869.1.1={
 	holder=70019 # Alfonso III de Cantabria
-	liege=k_asturias
+#	liege=k_asturias
 }
 910.12.20={
 	holder=70020 # García I de Cantabria
-	liege=k_leon
+#	liege=k_leon
 }
 914.1.19={
 	holder=70021 # Ordoño II de León

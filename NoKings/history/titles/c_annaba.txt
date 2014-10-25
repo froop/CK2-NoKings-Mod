@@ -23,7 +23,7 @@ holder=155040
 }
 1152.1.1=
 {
-liege="k_sicily"
+#liege="k_sicily"
 }
 1152.1.1=
 {
@@ -67,7 +67,7 @@ holder=155042
 }
 1223.1.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1229.1.1=
 {

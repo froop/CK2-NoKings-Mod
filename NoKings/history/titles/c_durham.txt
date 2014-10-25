@@ -11,7 +11,7 @@ holder=131601
 }
 1071.1.1=
 {
-liege="k_england"
+#liege="k_england"
 }
 1071.1.1=
 {
@@ -30,7 +30,7 @@ holder=129019 #Geoffrey Rufus
 }
 1141.5.1=
 {
-liege="k_scotland"
+#liege="k_scotland"
 }
 1141.5.11=
 {
@@ -38,7 +38,7 @@ holder=129020 #William Cumin
 }
 1143.1.1=
 {
-liege="k_england"
+#liege="k_england"
 }
 1143.3.14=
 {

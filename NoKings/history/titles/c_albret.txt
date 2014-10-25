@@ -5,7 +5,7 @@
 	liege=0
 }
 744.1.1={
-	liege=k_france
+#	liege=k_france
 }
 759.1.1={
 	holder = 190484 #Loup
@@ -60,13 +60,13 @@
 	holder=138187 #Mathe de Matha de Bigorre
 }
 1252.3.1={
-	liege="k_castille"
+#	liege="k_castille"
 }
 1254.1.1={
-	liege="k_england"	
+#	liege="k_england"	
 }
 1290.4.26={
-	liege="k_france"
+#	liege="k_france"
 }
 1272.1.1={
 	holder=138163 #Constance de Montcada

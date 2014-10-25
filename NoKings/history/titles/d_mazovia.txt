@@ -11,7 +11,7 @@
 	holder = 82252
 }
 987.1.1={
-	liege="k_poland"
+#	liege="k_poland"
 	#law = agnatic_succession
 	#law = succ_seniority
 }

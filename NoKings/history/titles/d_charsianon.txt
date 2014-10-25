@@ -1,5 +1,5 @@
 330.1.1={
-	liege = "e_byzantium"
+#	liege = "e_byzantium"
 	vice_royalty = yes
 }
 767.1.1={
@@ -24,7 +24,7 @@
 }
 1074.1.1=
 {
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	vice_royalty = yes
 	holder=1742
 }
@@ -34,7 +34,7 @@
 }
 1336.1.1=
 {
-	liege=k_eretnid
+#	liege=k_eretnid
 	vice_royalty = no
 	holder=71864
 }

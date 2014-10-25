@@ -1,5 +1,5 @@
 328.1.1={
-	liege="k_abyssinia"
+#	liege="k_abyssinia"
 	holder = 166186
 }
 348.1.1={

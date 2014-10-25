@@ -1,5 +1,5 @@
 665.1.1 = {
-	liege = e_arabia
+#	liege = e_arabia
 }
 
 751.1.1={
@@ -23,7 +23,7 @@
 #}
 851.1.1={
 	holder=74037 # al-Salt bin Malik
-	liege = e_arabia
+#	liege = e_arabia
 }
 #886.1.1={
 #	holder =  # Rashid bin Al-Nadhar

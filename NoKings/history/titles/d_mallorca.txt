@@ -50,7 +50,7 @@
 }
 1230.1.1={
 	holder=460600 # Jaume I de Barcelona
-	liege=k_aragon
+#	liege=k_aragon
 	law=agnatic_succession
 	law=succ_primogeniture
 }
@@ -60,7 +60,7 @@
 	law=cognatic_succession
 }
 1285.1.1={
-	liege=k_aragon
+#	liege=k_aragon
 }
 1295.1.1={
 	liege=0

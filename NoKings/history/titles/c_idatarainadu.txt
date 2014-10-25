@@ -36,7 +36,7 @@
 #End of Ruler Placeholder until something better#
 1120.1.1={
 	holder = 74577
-	liege = k_karnata
+#	liege = k_karnata
 }
 1141.1.1={
 	holder = 74578
@@ -56,7 +56,7 @@
 }
 1273.1.1={
 	holder = 74583
-	liege = k_karnata
+#	liege = k_karnata
 }
 #Ruler Placeholder until something better#
 1291.1.1={
@@ -71,5 +71,5 @@
 	holder = 74401
 }
 1337.1.1={
-	liege = e_deccan
+#	liege = e_deccan
 }

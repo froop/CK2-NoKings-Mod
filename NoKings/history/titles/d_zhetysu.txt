@@ -53,7 +53,7 @@
 	holder=188857 # Muhammad
 }
 1220.2.1={
-	liege="e_mongol_empire"
+#	liege="e_mongol_empire"
 	holder=34852
 }
 1225.1.1={
@@ -63,7 +63,7 @@
 	holder=34911
 }
 1227.12.2={
-	liege=k_khiva #Chagatai Khanate
+#	liege=k_khiva #Chagatai Khanate
 	holder = 93062
 }
 1242.1.1={

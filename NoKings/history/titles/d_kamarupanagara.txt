@@ -1,6 +1,6 @@
 350.1.1={
 	holder=190054 #Pusyavarman
-	liege=k_kamarupa
+#	liege=k_kamarupa
 }
 374.1.1={
 	holder=190055 #Samudravarman
@@ -102,18 +102,18 @@
 	holder=190082 #Jayapala
 }
 1075.1.1={
-	liege=k_bengal
+#	liege=k_bengal
 	holder=191561 #Timgyadeva, Pala governor
 }
 1110.1.1={
-	liege=k_kamarupa #Timgyadeva declares independence
+#	liege=k_kamarupa #Timgyadeva declares independence
 }
 1126.1.1={
 	holder=191562#Vaidyadeva, Pala governor
-	liege=k_bengal
+#	liege=k_bengal
 }
 1138.1.1={
-	liege=k_kamarupa	#Vaidyadeva declares independence
+#	liege=k_kamarupa	#Vaidyadeva declares independence
 }
 1145.1.1={
 	holder=191563 #Rayarideva

@@ -2,7 +2,7 @@
 	holder = 6392
 }
 841.1.1={
-	liege = "k_lotharingia"
+#	liege = "k_lotharingia"
 }
 865.1.1={
 	holder = 167770
@@ -31,7 +31,7 @@
 }
 1190.8.21=
 {
-liege="e_hre"
+#liege="e_hre"
 }
 1207.10.22=
 {

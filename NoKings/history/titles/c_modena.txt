@@ -1,11 +1,11 @@
 761.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 761.1.1={
 	holder = 190322 #Lambert
 }
 855.9.20={
-	liege="k_italy"
+#	liege="k_italy"
 }
 855.9.20={
 	holder=30228 #Louis II
@@ -37,7 +37,7 @@
 }
 1152.1.1={
 	holder=7595
-	liege = e_hre
+#	liege = e_hre
 }
 1160.1.1={
 	holder=7596
@@ -49,7 +49,7 @@
 	holder=212501
 }
 1187.1.1={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1187.1.1={
 	holder=213012

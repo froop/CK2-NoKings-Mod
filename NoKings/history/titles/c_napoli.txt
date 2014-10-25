@@ -1,5 +1,5 @@
 536.1.1={
-	liege = "e_byzantium"
+#	liege = "e_byzantium"
 }
 661.1.1={
 	holder = 145865
@@ -123,7 +123,7 @@
 	holder=30824 #Sergios VII of Napoli
 }
 1130.12.25={
-	liege="k_sicily"
+#	liege="k_sicily"
 }
 1139.4.1 = {
 	holder = 211502 #Roger I
@@ -162,7 +162,7 @@
 	holder = 455406 #Charles I d'Anjou
 }
 1282.8.30={
-	liege="k_naples"
+#	liege="k_naples"
 }
 1285.1.7={
 	holder =461710 #Charles II

@@ -46,7 +46,7 @@
 	holder=109610 # Sisnando Davides
 }
 1071.1.18={
-	liege=k_spanish_galicia
+#	liege=k_spanish_galicia
 }
 1092.1.1={
 	holder=108500 # Alfonso VI Jimena
@@ -62,7 +62,7 @@
 	holder=209503 # Afonso I de Bourgogne
 }
 1139.7.29={
-	liege=k_portugal
+#	liege=k_portugal
 }
 1185.12.6={
 	holder=209500 # Sancho I de Bourgogne

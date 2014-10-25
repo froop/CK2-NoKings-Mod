@@ -11,7 +11,7 @@
 	holder = 190231 #Lantfrid II
 }
 751.1.1={
-	liege = k_lotharingia
+#	liege = k_lotharingia
 	holder = 190234 #Hnabi
 }
 788.1.1={
@@ -28,7 +28,7 @@
 	holder=90105 # Charles the Fat
 }
 876.8.28={
-	liege=k_germany
+#	liege=k_germany
 	holder = 7991
 }
 1066.1.1=
@@ -93,7 +93,7 @@ liege=d_swabia
 }
 1268.10.29=
 {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1268.10.29=
 {

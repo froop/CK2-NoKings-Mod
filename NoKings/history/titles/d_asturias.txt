@@ -1,6 +1,6 @@
 900.1.1={
 	holder=70030 # Fruela II de Cantabria
-	liege=k_asturias
+#	liege=k_asturias
 }
 910.12.20={
 	holder=0

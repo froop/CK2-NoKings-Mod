@@ -1,12 +1,12 @@
 560.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	vice_royalty = yes
 }
 752.1.1={
 	holder=145851
 }
 801.1.1={
-	liege=k_khazaria
+#	liege=k_khazaria
 	vice_royalty = no
 	holder=74013
 }
@@ -50,7 +50,7 @@
 	holder=146194
 }
 1016.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	vice_royalty = yes
 	holder=0
 }
@@ -84,7 +84,7 @@
 }
 1204.4.1=
 {
-	liege="k_trebizond"
+#	liege="k_trebizond"
 	vice_royalty = no
 	holder=215519
 }

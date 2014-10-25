@@ -1,6 +1,6 @@
 1066.1.1={
 	holding_dynasty = 13075 # Ziani - makes this a FAMILY_PALACE type Holding
-	liege="k_venice"
+#	liege="k_venice"
 	holder = 182000
 }
 

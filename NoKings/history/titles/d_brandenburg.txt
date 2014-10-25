@@ -15,11 +15,11 @@
 }
 929.1.1 = {
 	holder = 168562
-	liege = k_germany
+#	liege = k_germany
 	de_jure_liege = k_germany
 }
 962.2.2={
-	liege = e_hre	
+#	liege = e_hre	
 }
 965.5.20={
 	holder=168524

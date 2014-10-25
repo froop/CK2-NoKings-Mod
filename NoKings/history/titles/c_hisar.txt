@@ -61,13 +61,13 @@
 	holder = 170289
 }
 1192.1.1={
-	liege=k_delhi
+#	liege=k_delhi
 }
 1195.1.1={
 	holder = 170290
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1237.1.1={
 	holder = 170291

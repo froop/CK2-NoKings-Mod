@@ -83,7 +83,7 @@
 	holder = 159458 # Donyarth/Dumnarth/Dyfnarth of Cornwall
 }
 875.1.1={
-	liege = "k_england"
+#	liege = "k_england"
 	holder = 159459 # Eluid
 }
 889.1.1={
@@ -97,7 +97,7 @@
 	holder = 159466 #Conan
 }
 940.1.1={
-	liege = "k_england"
+#	liege = "k_england"
 	holder = 159462 #Rolope
 }
 950.1.1={

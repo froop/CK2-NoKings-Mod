@@ -1,5 +1,5 @@
 540.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 }
 560.1.1={
 	liege="d_cherson"
@@ -8,7 +8,7 @@
 	holder=145851
 }
 839.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	holder=145932
 }
 871.1.1={

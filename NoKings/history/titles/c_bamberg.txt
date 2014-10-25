@@ -1,5 +1,5 @@
 637.1.1={
-	liege=k_germany
+#	liege=k_germany
 }
 637.1.1={
 	holder = 190388 #Hruodis
@@ -17,7 +17,7 @@
 	holder = 190392 #Thuringus
 }
 769.1.1={
-	liege = k_france
+#	liege = k_france
 }
 770.1.1={
 	holder = 190393 #Ado
@@ -26,7 +26,7 @@
 	holder = 0
 }
 839.1.1={
-	liege=k_germany
+#	liege=k_germany
 }
 839.1.1={
 	holder = 7910
@@ -74,7 +74,7 @@
 	holder = 462736
 }
 1317.1.1 = {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1317.1.1={
 	holder = 462740

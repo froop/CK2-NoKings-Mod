@@ -33,7 +33,7 @@
 	holder = 83588 #Áed of the Macheths
 }
 1129.7.1={
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 1129.7.1={
 	holder = 83589 #Máel-Coluim Macheth

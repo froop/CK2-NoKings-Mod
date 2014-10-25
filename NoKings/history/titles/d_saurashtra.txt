@@ -1,6 +1,6 @@
 502.1.1={
 	holder = 191645 #Dronasimha
-	liege=k_gujarat
+#	liege=k_gujarat
 }
 525.1.1={
 	holder = 191646 #Dhruvasena
@@ -46,17 +46,17 @@
 }
 745.1.1={
 	holder = 188063 # Vanaraja Capa
-	liege = k_malwa
+#	liege = k_malwa
 }
 756.1.1={
 	liege = 0	#Capas assert independence during weak Pratihara rulers
 }
 780.1.1={
 	holder = 188064 # Yogaraja
-	liege=k_malwa
+#	liege=k_malwa
 }
 815.1.1={
-	liege = k_kosala
+#	liege = k_kosala
 }
 820.1.1={
 	holder = 188066 # Ratnaditya
@@ -132,5 +132,5 @@
 	holder = 188163 # Karnadeva
 }
 1304.1.1={
-	liege = k_delhi
+#	liege = k_delhi
 }

@@ -1,10 +1,10 @@
 768.1.1={
-	liege=k_khazaria
+#	liege=k_khazaria
 	holder=146186
 }
 
 850.1.1={
-	liege="k_cuman"
+#	liege="k_cuman"
 	holder=180268
 }
 

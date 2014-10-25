@@ -270,7 +270,7 @@
 	holder = 7895
 }
 757.4.29={
-	liege="k_papal_state"
+#	liege="k_papal_state"
 	holder = 7865
 }
 767.6.28={
@@ -497,14 +497,14 @@
 }
 1145.10.1={
 	holder=213016
-	liege=e_hre
+#	liege=e_hre
 }
 1148.1.1={
 	holder=413016
 }
 1155.1.1={
 	holder=71809
-	liege=k_papal_state
+#	liege=k_papal_state
 }
 1159.9.1={
 	holder=71810
@@ -523,11 +523,11 @@
 }
 1190.1.1={
 	holder=220330
-	liege=e_hre
+#	liege=e_hre
 }
 1193.1.1={
 	holder=70841
-	liege=k_papal_state
+#	liege=k_papal_state
 }
 1198.1.8={
 	holder=71814

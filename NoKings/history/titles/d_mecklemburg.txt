@@ -45,7 +45,7 @@
 }
 1129.7.1 = {
 	holder=201513 #Knud Lavard
-	liege="e_hre"
+#	liege="e_hre"
 }
 1131.1.13 = {
 	liege=0
@@ -54,13 +54,13 @@
 	holder=452005 #Niklot
 }
 1160.8.2 = {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1160.8.2 = {
 	holder=452004 #Przybyslaw Niklotid
 }
 1168.1.1 = {
-	liege="k_denmark"
+#	liege="k_denmark"
 }
 1178.12.1 = {
 	holder=452003 #Heinrich Borwin I
@@ -69,7 +69,7 @@
 	holder=452001 #Johann I Niklotid
 }
 1227.7.22 = {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1264.8.1={
 	holder=452000 #Heinrich I Niklotid

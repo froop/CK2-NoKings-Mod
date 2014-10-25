@@ -1,6 +1,6 @@
 1066.1.1={
 	holding_dynasty = 13027 # Dandolo - makes this a FAMILY_PALACE type Holding
-	liege="k_venice"
+#	liege="k_venice"
 	holder=170041
 }
 1112.1.2={

@@ -44,7 +44,7 @@
 law = cognatic_succession
 }
 1130.12.25={
-liege="k_sicily"
+#liege="k_sicily"
 }
 1154.2.26={
 	holder=211501
@@ -77,7 +77,7 @@ liege="k_sicily"
 	holder=455406
 }
 1282.8.30={
-liege="k_naples"
+#liege="k_naples"
 }
 1285.1.7={
 	holder=461710

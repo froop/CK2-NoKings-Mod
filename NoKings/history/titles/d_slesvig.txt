@@ -6,7 +6,7 @@
 }
 1066.1.1=
 {
-	liege="k_denmark"
+#	liege="k_denmark"
 	holder=101517
 }
 1080.4.17=

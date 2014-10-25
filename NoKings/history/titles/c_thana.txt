@@ -16,7 +16,7 @@
 }
 800.1.1={
 	holder = 74492
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 825.1.1={
 	holder = 74493
@@ -73,7 +73,7 @@
 	holder = 74511
 }
 1190.1.1={
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1198.1.1={
 	holder = 74512

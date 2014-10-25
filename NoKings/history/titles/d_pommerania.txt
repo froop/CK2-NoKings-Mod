@@ -34,7 +34,7 @@ holder=221700 #Wartislaw I
 }
 1124.1.1=
 {
-liege="k_poland"
+#liege="k_poland"
 }
 1136.1.1=
 {
@@ -50,7 +50,7 @@ holder=221710 #Bogislaw I
 }
 1168.1.1=
 {
-liege="k_denmark"
+#liege="k_denmark"
 }
 1187.3.18=
 {
@@ -63,7 +63,7 @@ holder=451953 #Barnim I
 #battle of Bornhoved
 1227.7.22=
 {
-liege="e_hre"
+#liege="e_hre"
 }
 1278.2.14=
 {

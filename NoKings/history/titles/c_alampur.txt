@@ -1,6 +1,6 @@
 760.1.1={
 	holder = 192019 #Ganda Sankili Vaidumba
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 800.1.1={
 	holder = 74726 #Palavamalla
@@ -21,7 +21,7 @@
 
 1120.1.1={
 	holder = 74577
-	liege = k_karnata
+#	liege = k_karnata
 }
 1141.1.1={
 	holder = 74578
@@ -41,7 +41,7 @@
 }
 1273.1.1={
 	holder = 74583
-	liege = k_karnata
+#	liege = k_karnata
 }
 
 1315.1.1={
@@ -52,5 +52,5 @@
 	holder = 74401
 }
 1337.1.1={
-	liege = e_deccan
+#	liege = e_deccan
 }

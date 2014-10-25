@@ -1,9 +1,9 @@
 765.1.1 = {
-	liege="k_lotharingia"
+#	liege="k_lotharingia"
 	holder = 91491 #VUODO, historical count as placeholder
 }
 855.8.23={
-	liege = "k_burgundy"
+#	liege = "k_burgundy"
 	holder = 144998
 }
 863.1.1 ={
@@ -28,7 +28,7 @@
 	holder = 10028
 }
 1032.9.5={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1058.1.1={
 	holder = 20290
@@ -46,7 +46,7 @@
 	holder = 205680 #Guigues d'Albon
 }
 1163.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 1187.1.1={
 	liege="d_burgundy"
@@ -91,7 +91,7 @@
 	holder = 70926 #ArchBishop Pierre de Savoie
 }
 1312.4.10={
-	liege="k_france"
+#	liege="k_france"
 }
 1332.11.1={
 	holder = 138442 #ArchBishop Guillaume I de Sure

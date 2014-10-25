@@ -73,11 +73,11 @@
 }
 1230.5.1=
 {
-liege="k_england"
+#liege="k_england"
 }
 1242.7.21=
 {
-liege="k_france"
+#liege="k_france"
 }
 1249.6.5=
 {
@@ -124,6 +124,6 @@ holder = 455526 # Philippe IV le Bel
 
 # Navarra
 1336.3.14={
-	liege="k_navarra"
+#	liege="k_navarra"
 	holder=455810
 }

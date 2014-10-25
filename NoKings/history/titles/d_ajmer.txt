@@ -1,5 +1,5 @@
 944.1.1={
-	liege=k_rajputana # Independence from Pratiharas
+#	liege=k_rajputana # Independence from Pratiharas
 	holder = 188115 # Singhraja
 }
 973.1.1={
@@ -61,14 +61,14 @@
 }
 1192.1.1={
 	holder = 188145 # Govinda
-	liege=k_delhi
+#	liege=k_delhi
 }
 1193.1.1={
 	holder = 188143 # Hariraja
 }
 1194.1.1={
 	holder = 170190
-	liege=k_delhi
+#	liege=k_delhi
 }
 1210.1.1={
 	holder = 170191 #Aram

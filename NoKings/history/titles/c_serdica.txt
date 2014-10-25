@@ -4,14 +4,14 @@
 }
 681.1.1=
 {
-	liege="e_byzantium"
+#	liege="e_byzantium"
 }
 765.1.1=
 {
 	holder=145797
 }
 809.1.1={
-	liege = "k_bulgaria"
+#	liege = "k_bulgaria"
 }
 852.1.1={
 	holder=70382 #Boris

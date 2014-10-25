@@ -1,5 +1,5 @@
 569.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 569.1.1={
 	holder = 190126 #Gisulf I
@@ -65,7 +65,7 @@
 	holder = 167804
 }
 1063.1.1={
-	liege="e_hre"
+#	liege="e_hre"
 	holder=7700
 }
 1068.1.1={

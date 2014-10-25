@@ -1,6 +1,6 @@
 1066.1.1=
 {
-	liege="k_sweden"
+#	liege="k_sweden"
 }
 1066.1.1=
 {
@@ -37,7 +37,7 @@
 
 1187.1.1=
 {
-	liege="k_sweden"
+#	liege="k_sweden"
 }
 1187.1.1=
 {

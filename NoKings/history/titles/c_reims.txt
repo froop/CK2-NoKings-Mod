@@ -1,9 +1,9 @@
 753.1.1 = {
-	liege="k_lotharingia"
+#	liege="k_lotharingia"
 	holder = 91506 #Jean Turpin, archbishop of Reims
 }
 835.1.1={
-	liege="k_france"
+#	liege="k_france"
 	holder = 163049
 }
 925.1.1={

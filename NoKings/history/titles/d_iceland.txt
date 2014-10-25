@@ -17,7 +17,7 @@
 	holder = 144647
 }
 1264.1.1={
-	liege = "k_norway"
+#	liege = "k_norway"
 }
 1268.1.12={
 	holder=6905 

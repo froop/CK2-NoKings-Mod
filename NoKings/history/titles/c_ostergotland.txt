@@ -35,7 +35,7 @@
 	holder=450654
 }
 1302.1.1 = {
-	liege="k_sweden"
+#	liege="k_sweden"
 }
 1310.1.1 = {
 	holder=450650 # Knut Jonsson

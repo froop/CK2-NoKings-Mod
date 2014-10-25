@@ -60,7 +60,7 @@
 #4th crusade
 1204.5.16=
 {
-	liege="k_rum" 
+#	liege="k_rum" 
 	holder=34187
 }
 1205.1.1=
@@ -114,7 +114,7 @@
 1302.1.1=
 {
 	holder=476501
-	liege="k_ottoman"
+#	liege="k_ottoman"
 }
 1321.1.1=
 {

@@ -47,7 +47,7 @@
 	holder=31338 #Guillaume II
 }
 1262.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 }
 1262.1.1={
 	holder=34422

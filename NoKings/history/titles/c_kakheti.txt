@@ -32,7 +32,7 @@
 	holder=41541
 }
 1029.1.1={
-	liege = "k_georgia"
+#	liege = "k_georgia"
 	holder = 41514
 }
 1059.1.1={
@@ -45,7 +45,7 @@
 	holder = 144565
 }
 1105.1.1={
-	liege="k_georgia"
+#	liege="k_georgia"
 }
 1105.1.1={
 	holder=41550

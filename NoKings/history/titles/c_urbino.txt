@@ -23,7 +23,7 @@ holder=71908
 1058.1.1=
 {
 holder=73604
-liege="e_hre"
+#liege="e_hre"
 }
 1072.1.1=
 {
@@ -59,7 +59,7 @@ holder=20331
 }
 1252.1.21 = {
 	holder = 73581
-	liege = e_hre
+#	liege = e_hre
 }
 1255.1.1=
 {
@@ -73,7 +73,7 @@ holder=73582
 1289.1.1=
 {
 holder=71833
-liege=k_papal_state
+#liege=k_papal_state
 }
 1292.1.1=
 {

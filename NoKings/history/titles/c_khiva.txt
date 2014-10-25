@@ -11,7 +11,7 @@
 }
 
 1041.1.1={
-	liege="k_khiva"
+#	liege="k_khiva"
 }
 1041.1.1=
 {

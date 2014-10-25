@@ -24,7 +24,7 @@
 	holder = 190095 #Jarasandha
 }
 856.1.1={
-	liege=k_bengal
+#	liege=k_bengal
 }
 891.1.1= {
 	holder = 190096 #Sahadeva
@@ -40,7 +40,7 @@
 }
 1140.1.1={
 	holder = 154002 #Vijay Sena
-	liege=k_bengal
+#	liege=k_bengal
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena

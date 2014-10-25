@@ -1,6 +1,6 @@
 1066.1.1=
 {
-	liege ="k_khiva"
+#	liege ="k_khiva"
 }
 #Burhanids 
 1066.1.1=
@@ -9,7 +9,7 @@
 }
 1073.1.1=
 {
-	liege="k_persia"
+#	liege="k_persia"
 }
 1106.1.1=
 {
@@ -17,7 +17,7 @@
 }
 1141.1.1=
 {
-	liege ="k_khiva"
+#	liege ="k_khiva"
 }
 1141.1.1=
 {
@@ -53,7 +53,7 @@
 }
 1207.1.1=
 {
-	liege ="k_persia"
+#	liege ="k_persia"
 }
 1207.1.1=
 {
@@ -61,7 +61,7 @@
 }
 1221.1.1=
 {
-	liege ="e_mongol_empire"
+#	liege ="e_mongol_empire"
 }
 1221.1.1=
 {
@@ -70,7 +70,7 @@
 #Chagatai khanate
 1227.12.2=
 {
-	liege=k_khiva
+#	liege=k_khiva
 	holder = 93062
 }
 1242.1.1=

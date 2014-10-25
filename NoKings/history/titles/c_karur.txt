@@ -21,17 +21,17 @@
 
 1178.1.1={
 	holder=144142
-	liege=k_afghanistan
+#	liege=k_afghanistan
 }
 1186.1.1={
-	liege=k_sindh
+#	liege=k_sindh
 }
 1203.1.1={
 	holder=170300
 }
 1228.5.30={
 	holder=170193 #Iltutmish
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1236.5.1={
 	holder = 170194 #Firuz I

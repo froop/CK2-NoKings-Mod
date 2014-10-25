@@ -156,7 +156,7 @@ holder=159788
 holder=159786
 }
 826.1.29={
-	liege = "k_georgia"
+#	liege = "k_georgia"
 }
 826.1.29={
 	holder=41541

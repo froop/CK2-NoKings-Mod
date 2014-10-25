@@ -1,6 +1,6 @@
 760.1.1={
 	holder=200031 # Musa Musavid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 790.1.1={
 	holder=73680 # Hisham I Umayyad
@@ -40,7 +40,7 @@
 	holder=142140 # Fernão Mendes de Bragança
 }
 1071.1.18={
-	liege=k_spanish_galicia
+#	liege=k_spanish_galicia
 }
 1097.4.9={
 	liege=d_porto
@@ -49,7 +49,7 @@
 	holder=142141 # Mem Fernandes de Bragança
 }
 1139.7.29={
-	liege=k_portugal
+#	liege=k_portugal
 }
 1147.1.1={
 	holder=142021 # Fernão Mendes de Bragança

@@ -54,7 +54,7 @@
 }
 960.1.1=
 {
-liege="k_abyssinia"
+#liege="k_abyssinia"
 holder=32239
 }
 1000.1.1=

@@ -46,6 +46,6 @@
 	holder=455500 
 }
 1336.3.14={
-	liege="k_navarra"
+#	liege="k_navarra"
 	holder=0
 }

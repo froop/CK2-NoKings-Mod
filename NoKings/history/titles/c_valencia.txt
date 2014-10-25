@@ -1,13 +1,13 @@
 758.1.1={
 	holder=200226 # Hisham Petrid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 780.1.1={
 	holder=200228 # Ibrahim Petrid
 }
 813.1.1={
 	holder=73681 # al-Hakam Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 822.5.21={
 	holder=73682 # Abd al-Rahman II Umayyad
@@ -24,7 +24,7 @@
 }
 920.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -86,14 +86,14 @@
 	liege=0
 }
 1096.1.1={
-	liege=k_castille
+#	liege=k_castille
 }
 1099.7.10={
 	holder=108519 # Jimena Díaz de Oviedo
 }
 1102.1.1={
 	holder=73182 # Muhammad Hayyid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1110.5.31={
 	holder=224007 # Abdallah Fatimid
@@ -122,7 +122,7 @@
 	liege=d_murcia
 }
 1172.1.1={
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1186.1.1={
 	holder=73621 # Sa'd Mardanishid
@@ -135,7 +135,7 @@
 }
 1236.1.1={
 	holder=460600 # Jaume I de Barcelona
-	liege=k_aragon
+#	liege=k_aragon
 }
 1276.7.27={
 	holder=460590 # Pere III de Barcelona

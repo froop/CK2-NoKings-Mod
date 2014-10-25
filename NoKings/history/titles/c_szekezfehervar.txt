@@ -29,7 +29,7 @@
 }
 1066.1.1=
 {
-  liege="k_hungary"
+#  liege="k_hungary"
 }
 1066.1.1=
 {

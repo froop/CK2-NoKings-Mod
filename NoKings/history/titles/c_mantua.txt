@@ -1,5 +1,5 @@
 756.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 756.1.1={
 	holder = 190312 #Varbert
@@ -8,7 +8,7 @@
 	holder = 190315 #Grimauld
 }
 855.9.20={
-	liege="k_italy"
+#	liege="k_italy"
 }
 859.1.1={
 	holder=168334
@@ -23,7 +23,7 @@
 	holder=70623
 }
 1090.5.12={
-	liege="e_hre"
+#	liege="e_hre"
 	holder=7708
 }
 1120.2.3={

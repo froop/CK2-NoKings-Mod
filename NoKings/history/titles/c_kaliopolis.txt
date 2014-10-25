@@ -44,7 +44,7 @@
 	holder=125710
 }
 1204.5.16={
-	liege="e_latin_empire"
+#	liege="e_latin_empire"
 }
 1204.5.16={
 	holder=205525 #Henry I van Vlaanderen

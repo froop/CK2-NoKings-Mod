@@ -93,7 +93,7 @@ holder=70467
 }
 1027.8.16=
 {
-liege="k_georgia"
+#liege="k_georgia"
 }
 1027.8.16=
 {

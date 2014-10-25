@@ -24,7 +24,7 @@
 	holder=1742
 }
 1077.1.1={
-	liege="k_rum"
+#	liege="k_rum"
 }
 1077.1.1={
 	holder = 3046
@@ -41,7 +41,7 @@
 	holder=34198
 }
 1142.1.1={
-	liege="k_rum"
+#	liege="k_rum"
 	holder = 7299
 }
 1155.4.1=
@@ -110,7 +110,7 @@
 }
 1307.1.1=
 {
-	liege="k_candar"
+#	liege="k_candar"
 	holder=476353
 }
 1308.1.1=

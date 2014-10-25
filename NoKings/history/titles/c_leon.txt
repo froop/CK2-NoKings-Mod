@@ -1,6 +1,6 @@
 754.1.1={
 	holder=70003 # Alfonso I de Cantabria
-	liege=k_asturias
+#	liege=k_asturias
 }
 757.1.1={
 	holder=70004 # Fruela I de Asturias
@@ -34,7 +34,7 @@
 	liege=d_leon
 }
 910.12.20={
-	liege=k_leon
+#	liege=k_leon
 }
 914.1.19={
 	holder=70021 # Ordoño II de León

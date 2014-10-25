@@ -15,7 +15,7 @@
 	liege="d_lothian"
 }
 1072.1.1={
-	liege="k_england"
+#	liege="k_england"
 }
 1072.1.1={
 	holder=198 #Waltheof

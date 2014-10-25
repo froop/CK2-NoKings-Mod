@@ -1,5 +1,5 @@
 1066.1.1={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1017.1.1={
 	holder = 10028  #Geraud II de Forez
@@ -20,7 +20,7 @@
 	holder = 205680 #Guigues d'Albon
 }
 1163.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 1187.1.1={
 	liege="d_burgundy"

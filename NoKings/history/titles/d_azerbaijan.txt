@@ -1,5 +1,5 @@
 765.1.1={
-	liege=e_arabia
+#	liege=e_arabia
 	holder=188644 # Yahya Barmakid
 }
 780.1.1={
@@ -65,7 +65,7 @@
 	holder=20734
 }
 1067.2.24={
-	liege="k_persia"
+#	liege="k_persia"
 }
 1096.1.1={
 	holder=146104
@@ -96,11 +96,11 @@
 	holder=144570
 }
 1225.1.1={
-	liege="e_mongol_empire"
+#	liege="e_mongol_empire"
 	holder=144571
 }
 1227.12.2={
-	liege="e_golden_horde"
+#	liege="e_golden_horde"
 }
 1243.1.1={
 	holder=144572
@@ -109,7 +109,7 @@
 	holder=144573
 }
 1278.1.1={
-	liege="e_il-khanate"
+#	liege="e_il-khanate"
 }
 1282.1.1={
 	holder=146118

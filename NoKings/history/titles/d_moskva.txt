@@ -6,7 +6,7 @@
 }
 1246.9.30=
 {
-liege="e_golden_horde"
+#liege="e_golden_horde"
 #law = agnatic_succession
 #law = succ_seniority
 }

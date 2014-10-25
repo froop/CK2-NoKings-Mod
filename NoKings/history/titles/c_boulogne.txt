@@ -1,13 +1,13 @@
 760.1.1={
-	liege="k_france"
+#	liege="k_france"
 	holder = 91486 #HERMENELD, historical placeholder
 }
 862.1.1={
-	liege = k_france
+#	liege = k_france
 	holder = 168183 #Rudolf Unruochinger
 }
 862.1.1={
-	liege = k_france
+#	liege = k_france
 	holder = 168183 #Rudolf Unruochinger
 }
 877.10.6={
@@ -54,7 +54,7 @@
 	holder=205853
 }
 1190.1.1={
-	liege = "k_france"
+#	liege = "k_france"
 }
 1216.1.1={
 	holder = 91132 #Mathilde II de Dammartin

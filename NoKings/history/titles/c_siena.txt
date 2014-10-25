@@ -1,5 +1,5 @@
 765.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 765.1.1={
 	holder = 190326 #Taso
@@ -53,7 +53,7 @@
 	holder=20321
 }
 1197.9.28={
-	liege=e_hre
+#	liege=e_hre
 }
 1199.1.1={
 	holder=213017

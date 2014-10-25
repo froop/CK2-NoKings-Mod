@@ -18,7 +18,7 @@
 	holder = 189052
 }
 1008.1.1 = {
-liege="k_tamilakam" #Conquest by Cholas
+#liege="k_tamilakam" #Conquest by Cholas
 }
 1021.1.1={
 	holder = 189053

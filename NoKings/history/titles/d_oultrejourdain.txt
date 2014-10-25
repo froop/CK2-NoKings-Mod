@@ -1,5 +1,5 @@
 866.1.1={
-	liege = "e_arabia"
+#	liege = "e_arabia"
 }
 866.1.1={
 	holder = 163135
@@ -10,7 +10,7 @@
 }
 1118.4.2=
 {
-	liege="k_jerusalem"
+#	liege="k_jerusalem"
 	#law = cognatic_succession
 	#law = succ_primogeniture
 }
@@ -54,7 +54,7 @@
 #Known by the muslims as Kerak
 1187.10.2=
 {
-	liege="k_egypt" 
+#	liege="k_egypt" 
 	holder = 226052
 }
 1218.8.1=

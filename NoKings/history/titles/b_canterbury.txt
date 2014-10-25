@@ -68,7 +68,7 @@
 	holder=180679 # Wulfhelm
 }
 927.7.12={
-	liege="k_england"
+#	liege="k_england"
 }
 941.2.12={
 	holder=180680 # Oda

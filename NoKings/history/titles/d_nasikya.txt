@@ -1,6 +1,6 @@
 670.1.1={
 	holder = 191632 #Jayasimha Chalukya (of Lata)
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 690.1.1={
 	holder = 191634 #Mangalarasa

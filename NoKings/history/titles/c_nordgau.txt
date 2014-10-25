@@ -40,7 +40,7 @@ liege="d_alsace"
 	holder = 161479
 }
 842.1.1={
-	liege = "k_lotharingia"
+#	liege = "k_lotharingia"
 }
 898.1.1=
 {
@@ -101,7 +101,7 @@ liege="d_swabia"
 	holder=30785
 }
 1268.10.29={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1256.1.28={
 	holder = 232682 

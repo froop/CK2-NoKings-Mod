@@ -72,7 +72,7 @@
 	holder = 188238 # Vikramasimha Kachawaha
 }
 1169.1.1={
-	liege = k_delhi
+#	liege = k_delhi
 	holder = 188141 # Someshwara Chauhan
 }
 1177.1.1={
@@ -82,7 +82,7 @@
 	holder = 170190 #Mu'izz al-Din conquered Gwalior and made Qutb-ud-din Aibak governor
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1210.11.4={
 	holder = 170191 #Aram

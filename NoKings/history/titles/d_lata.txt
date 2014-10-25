@@ -1,6 +1,6 @@
 570.1.1={
 	holder = 191624 #Dadda I
-	liege = k_gujarat
+#	liege = k_gujarat
 }
 595.1.1={
 	holder = 191625 #Jayabhata I Pratihara
@@ -16,7 +16,7 @@
 }
 695.1.1={
 	holder = 191629 #Jayabhata III Pratihara
-	liege = k_rajputana
+#	liege = k_rajputana
 }
 715.1.1={
 	holder = 191630 #Ahirola Pratihara
@@ -26,7 +26,7 @@
 }
 738.1.1={
 	holder = 191635 #Annexed by Calukyas of Lata
-	liege=k_maharastra
+#	liege=k_maharastra
 }
 747.1.1={
 	holder = 74409 #Conquered by Dantidurga
@@ -66,15 +66,15 @@
 }
 946.1.1={
 	holder= 191680 #Barappa, later Chalukyas of Lata
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1000.1.1={
 	holder = 188075 #Chamundaraja Solanki
-	liege = k_gujarat
+#	liege = k_gujarat
 }
 1008.1.1={
 	holder = 191681 #Gongiraja, later Chalukyas of Lata
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1050.1.1={
 	holder = 0

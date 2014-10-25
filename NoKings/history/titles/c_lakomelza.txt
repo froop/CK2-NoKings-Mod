@@ -24,7 +24,7 @@ holder=183507
 }
 1065.1.1=
 {
-liege="k_abyssinia"
+#liege="k_abyssinia"
 holder=145756
 }
 1116.1.1=

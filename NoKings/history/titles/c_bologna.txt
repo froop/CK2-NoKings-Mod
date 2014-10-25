@@ -1,5 +1,5 @@
 750.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 750.1.1={
 	holder = 190268 #Ursus
@@ -44,7 +44,7 @@
 }	
 1066.1.1=
 {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1091.12.10=
 {
@@ -82,7 +82,7 @@ liege=0
 1272.1.1=
 {
 holder=73519
-liege=k_papal_state
+#liege=k_papal_state
 }
 1307.1.1=
 {

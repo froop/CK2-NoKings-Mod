@@ -1,5 +1,5 @@
 763.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 763.1.1={
 	holder = 190287 #Teuderic
@@ -23,7 +23,7 @@ holder=168002
 1051.1.1=
 {
 holder=7740
-liege="e_hre"
+#liege="e_hre"
 }
 1072.1.1=
 {
@@ -115,7 +115,7 @@ holder=73548
 1248.1.1=
 {
 holder=71823
-liege=k_papal_state
+#liege=k_papal_state
 }
 1254.12.7=
 {

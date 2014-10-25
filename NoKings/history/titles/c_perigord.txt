@@ -68,7 +68,7 @@
 	holder= 138058 #Archambaud II du Périgord
 }
 1224.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 1239.9.15 = {
 	holder= 138059 #Hélie VIII du Périgord
@@ -80,7 +80,7 @@
 	liege="d_aquitaine"
 }
 1294.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 1295.1.1 = {
 	holder= 455561 #Hélie IX de Périgord

@@ -11,7 +11,7 @@
 	holder = 163067
 }
 884.12.12={
-	liege = "k_france"
+#	liege = "k_france"
 }
 922.1.1={
 	liege="d_toulouse"

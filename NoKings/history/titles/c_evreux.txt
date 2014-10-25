@@ -1,5 +1,5 @@
 750.1.1 = {
-	liege="k_france"
+#	liege="k_france"
 	holder = 91476 #Australdis, historical placeholder
 }
 853.1.1={
@@ -46,7 +46,7 @@
 	holder = 204514 #Jean I Sans Terre
 }
 1200.1.1={
-	liege="k_france"
+#	liege="k_france"
 	holder=205506 # Philippe II Auguste
 }
 1204.1.1={
@@ -68,6 +68,6 @@
 	holder=455811 #Louis de France
 }
 1319.5.19={
-	liege="k_navarra"
+#	liege="k_navarra"
 	holder=455810 #Philippe d'Évreux
 }

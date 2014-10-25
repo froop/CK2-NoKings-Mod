@@ -10,14 +10,14 @@
 	holder = 144989
 }
 751.11.1 = {
-	liege="k_france"
+#	liege="k_france"
 }
 #Chantenois
 752.1.1={
 	holder = 31700
 }
 769.1.1 = {
-	liege = k_lotharingia
+#	liege = k_lotharingia
 }
 779.1.2={
 	holder = 31701
@@ -29,7 +29,7 @@
 }
 862.1.1={
 	holder = 90104
-	liege = k_france
+#	liege = k_france
 }
 #Robertian (=Capetians)
 882.1.1={

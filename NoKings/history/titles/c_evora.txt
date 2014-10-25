@@ -1,6 +1,6 @@
 766.1.1={
 	holder=200214 # Abd al-Karim Karimid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 784.1.1={
 	holder=200035 # Abdallah Aslamid
@@ -27,7 +27,7 @@
 }
 915.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -87,7 +87,7 @@
 }
 1117.1.1={
 	holder=73202 # Wazir Wazirid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1140.1.1={
 	holder=73203 # Siddray Wazirid
@@ -100,11 +100,11 @@
 }
 1150.1.1={
 	holder=224011 # Yazid Yazidid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1166.1.1={
 	holder=142475 # Pedro Paes da Maia
-	liege=k_portugal
+#	liege=k_portugal
 }
 1200.1.1={
 	holder=142478 # João Peres da Maia

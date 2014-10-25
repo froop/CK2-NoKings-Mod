@@ -20,7 +20,7 @@
 }
 915.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -80,7 +80,7 @@
 }
 1094.1.1={
 	holder=73205 # Yusuf Yusufid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1116.1.1={
 	holder=73207 # Isma'il Isamilid
@@ -94,7 +94,7 @@
 }
 1150.1.1={
 	holder=224011 # Yazid Yazidid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1188.1.1={
 	holder=224021 # Bilal Tremecen
@@ -107,7 +107,7 @@
 }
 1217.10.18={
 	holder=142547 # Afonso Hermiges de Baião
-	liege=k_portugal
+#	liege=k_portugal
 }
 1220.1.1={
 	holder=142550 # Afonso Lopes de Baião

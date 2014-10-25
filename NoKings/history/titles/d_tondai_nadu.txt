@@ -8,7 +8,7 @@
 	holder = 189071
 }
 879.1.1={
-	liege = "k_tamilakam"
+#	liege = "k_tamilakam"
 	holder = 189032 #Chola conquest
 }
 907.1.1={
@@ -72,13 +72,13 @@
 	liege = 0 #Kadavas
 }
 1218.1.1={
-	liege = "k_tamilakam" #Conquest by Pandyas
+#	liege = "k_tamilakam" #Conquest by Pandyas
 }
 1243.1.1={
 	holder = 189150
 }
 1279.1.1={
-	liege = "k_tamilakam" #Conquest by Pandyas
+#	liege = "k_tamilakam" #Conquest by Pandyas
 	holder = 189136
 }
 1308.1.1={

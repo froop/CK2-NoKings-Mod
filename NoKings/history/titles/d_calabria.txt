@@ -1,5 +1,5 @@
 536.1.1={
-	liege = "e_byzantium"
+#	liege = "e_byzantium"
 	vice_royalty = yes
 }
 757.1.1={
@@ -41,7 +41,7 @@
 }
 1130.12.25=
 {
-	liege="k_sicily"
+#	liege="k_sicily"
 }
 1148.5.12=
 {
@@ -89,7 +89,7 @@
 }
 1282.8.30=
 {
-	liege="k_naples"
+#	liege="k_naples"
 }
 1285.1.7=
 {

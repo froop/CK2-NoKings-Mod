@@ -16,7 +16,7 @@
 }
 930.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -76,7 +76,7 @@
 }
 1094.1.1={
 	holder=73205 # Yusuf Yusufid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1116.1.1={
 	holder=73207 # Ismai'l Ismailid
@@ -87,7 +87,7 @@
 }
 1147.10.25={
 	holder=209503 # Afonso I de Bourgogne
-	liege=k_portugal
+#	liege=k_portugal
 }
 1185.12.6={
 	holder=209500 # Sancho I de Bourgogne

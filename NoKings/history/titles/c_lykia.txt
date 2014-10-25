@@ -11,14 +11,14 @@
 	holder=20518
 }
 1080.1.1={
-	liege="k_rum"
+#	liege="k_rum"
 	holder=3046
 }
 1086.1.1={
 	holder=41701
 }
 1098.1.1={
-	liege="e_byzantium" 
+#	liege="e_byzantium" 
 	holder=1742
 }
 1118.8.15={
@@ -46,7 +46,7 @@
 	holder=125710
 }
 1204.5.16={
-	liege="k_rum"
+#	liege="k_rum"
 	holder=34187
 }
 1205.1.1={
@@ -81,7 +81,7 @@
 }
 1280.1.1={
 	holder=71891
-	liege=k_mentese
+#	liege=k_mentese
 }
 1296.1.1={
 	holder=71892

@@ -11,7 +11,7 @@
 	holder = 0
 }
 1066.1.1={
-	liege="k_england"
+#	liege="k_england"
 	#law = agnatic_succession
 	#law = succ_primogeniture
 }

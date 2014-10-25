@@ -26,7 +26,7 @@
 	holder=205582 #Marie de Montpellier
 }
 1204.6.15={
-	liege="k_aragon"
+#	liege="k_aragon"
 }
 1213.1.21={
 	holder=460600 #Jacques I the conqueror d'aragon

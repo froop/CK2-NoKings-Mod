@@ -26,7 +26,7 @@ holder=125085
 }
 1237.12.27=
 {
-liege="e_golden_horde"
+#liege="e_golden_horde"
 }
 1252.1.2=
 {

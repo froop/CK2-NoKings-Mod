@@ -1,12 +1,12 @@
 720.1.1={
 	holder = 191013	#Matsyas
-	liege = k_kosala
+#	liege = k_kosala
 }
 760.1.1={
 	holder = 191014	#Matsyas
 }
 790.1.1={
-	liege = k_bengal
+#	liege = k_bengal
 }
 810.1.1={
 	holder = 188148 #Mahisarama
@@ -64,10 +64,10 @@
 }
 1192.1.1={
 	holder = 191873 #Baha al-Din Toghril - Muslim governor	
-	liege = k_delhi
+#	liege = k_delhi
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 	holder = 191822 #Arsalan Khan
 }
 1220.1.1={

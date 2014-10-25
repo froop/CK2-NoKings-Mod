@@ -1,6 +1,6 @@
 766.1.1={
 	holder=200042 # Hakam Hakamid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 789.1.1={
 	holder=200205 # Mutarrif b. Musa banu Qasi
@@ -10,7 +10,7 @@
 }
 806.1.1={
 	holder=200190 # Belasko Belaskotenes
-	liege=k_aquitaine
+#	liege=k_aquitaine
 }
 817.1.1={
 	holder=200189 # Gartzia Semeno
@@ -18,7 +18,7 @@
 }
 822.1.1={
 	holder=70291 # Eneko Arista
-	liege=k_navarra
+#	liege=k_navarra
 }
 852.6.22={
 	holder=70292 # Gartzia I Arista

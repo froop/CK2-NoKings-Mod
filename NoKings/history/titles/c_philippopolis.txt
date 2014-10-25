@@ -35,7 +35,7 @@
 	holder=34590
 }
 1204.5.16 = {
-	liege="e_latin_empire"
+#	liege="e_latin_empire"
 }
 1204.5.16 = {
 	holder=31500
@@ -57,7 +57,7 @@
 }
 
 1230.1.1 = {
-	liege="k_bulgaria"
+#	liege="k_bulgaria"
 }
 1230.1.1 = {
 	holder=31160 #Ivan II

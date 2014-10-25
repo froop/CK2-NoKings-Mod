@@ -35,7 +35,7 @@
 	holder=41560
 }
 1021.1.1={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 }
 1045.1.1={
 	liege="d_armenia"
@@ -94,7 +94,7 @@
 }
 1247.1.1=
 {
-	liege="e_il-khanate"
+#	liege="e_il-khanate"
 }
 1247.1.1=
 {

@@ -14,7 +14,7 @@
 	holder=145995
 }
 808.1.1={
-	liege="k_abyssinia"
+#	liege="k_abyssinia"
 	holder=145981
 }
 853.1.1={

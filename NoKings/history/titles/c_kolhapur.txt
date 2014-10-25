@@ -1,6 +1,6 @@
 766.1.1={
 	holder = 191989 #Munja Sinda
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 780.1.1={
 	holder = 191991 #Bhima
@@ -28,7 +28,7 @@
 }
 1050.1.1={
 	holder = 74480
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1075.1.1={
 	holder = 74481
@@ -49,12 +49,12 @@
 	holder = 74487
 }
 1185.1.1={
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1190.1.1={
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 1330.1.1={
 	holder = 74723
-	liege = k_maharastra
+#	liege = k_maharastra
 }

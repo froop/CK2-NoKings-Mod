@@ -2,7 +2,7 @@
 	holder = 190514 #Guillaume
 }
 769.1.1={
-	liege=k_lotharingia
+#	liege=k_lotharingia
 }
 815.1.1={
 	holder = 190556 #Bernard

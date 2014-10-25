@@ -27,7 +27,7 @@
 	holder=183223
 }
 969.1.1={
-	liege = k_khazaria
+#	liege = k_khazaria
 	holder=146193
 }
 993.1.1={

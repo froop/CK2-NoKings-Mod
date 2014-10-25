@@ -1,6 +1,6 @@
 820.1.1={
 	holder = 74633
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 850.1.1={
 	holder = 74634
@@ -19,7 +19,7 @@
 }
 974.1.1={
 	holder = 74639
-	liege = k_malwa
+#	liege = k_malwa
 }
 975.1.1={
 	holder = 74640

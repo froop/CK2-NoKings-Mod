@@ -1,6 +1,6 @@
 550.1.1={
 	holder = 191605 #Harichandra
-	liege = k_rajputana
+#	liege = k_rajputana
 }
 580.1.1={
 	holder = 191607 #Rajjila
@@ -25,7 +25,7 @@
 }
 750.1.1={
 	holder = 191615 #Jhota
-	liege = k_malwa
+#	liege = k_malwa
 }
 775.1.1={
 	holder = 191616 #Bhilladitya
@@ -34,7 +34,7 @@
 	holder = 191617 #Kakka
 }
 815.1.1={
-	liege = k_kosala
+#	liege = k_kosala
 }
 830.1.1={
 	holder = 191620 #Bauka
@@ -84,7 +84,7 @@
 	holder=191713 #Asharaja
 }
 1116.1.1={
-	liege=k_gujarat
+#	liege=k_gujarat
 }
 1118.1.1={
 	holder=191714 #Ratnapala

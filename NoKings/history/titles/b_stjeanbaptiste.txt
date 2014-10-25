@@ -83,7 +83,7 @@
 	holder = 70926 #ArchBishop Pierre de Savoie
 }
 1312.4.10={
-	liege="k_france"
+#	liege="k_france"
 }
 1332.11.1={
 	holder = 138442 #ArchBishop Guillaume I de Sure

@@ -14,7 +14,7 @@
 	holder = 191110 #Indra
 }
 755.1.1={
-	liege = k_bengal
+#	liege = k_bengal
 }
 757.1.1={
 	holder = 191111 #Kau
@@ -111,10 +111,10 @@
 	holder = 191140 #Bhim
 }
 1244.1.1={
-	liege = k_orissa #Gangas Conquer Southern Radha
+#	liege = k_orissa #Gangas Conquer Southern Radha
 }
 1255.1.1={	
-	liege = k_bengal #Retaken
+#	liege = k_bengal #Retaken
 }
 1263.1.1={
 	holder = 191141 #Katar

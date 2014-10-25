@@ -45,7 +45,7 @@
 	holder = 74821
 }
 1120.1.1={
-	liege = k_karnata
+#	liege = k_karnata
 }
 1150.1.1={
 	holder = 74822
@@ -71,7 +71,7 @@
 }
 1273.1.1={
 	holder = 74583
-	liege = k_karnata
+#	liege = k_karnata
 }
 #Ruler Placeholder until something better#
 1291.1.1={
@@ -83,5 +83,5 @@
 	holder = 74403
 }
 1337.1.1={
-	liege = e_deccan
+#	liege = e_deccan
 }

@@ -10,14 +10,14 @@
 }
 846.1.1= {
 	holder = 190103 #Ajatashatru
-	liege=k_bengal
+#	liege=k_bengal
 }
 866.1.1= {
 	holder = 190104 #Udayin
 	liege=d_tirabhukti
 }
 870.1.1={
-	liege=k_bengal
+#	liege=k_bengal
 }
 882.1.1= {
 	holder = 190105 #Bimbisara
@@ -61,11 +61,11 @@
 }
 1144.1.1={
 	holder = 190023 #Madanapala Pala
-	liege = k_bihar
+#	liege = k_bihar
 }
 1155.1.1={
 	holder = 154002 #Vijay Sena
-	liege = k_bengal
+#	liege = k_bengal
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena

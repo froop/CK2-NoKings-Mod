@@ -7,7 +7,7 @@
 	holder=0
 }
 1185.1.1={
-	liege="k_england"
+#	liege="k_england"
 }
 1185.1.1={
 	holder = 204514 #John of England

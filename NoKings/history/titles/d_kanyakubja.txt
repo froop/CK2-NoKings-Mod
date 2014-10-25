@@ -1,6 +1,6 @@
 725.1.1={
 	holder = 191000 #Yasovarman
-	liege = k_kosala
+#	liege = k_kosala
 }
 752.1.1={
 	holder = 191002 #Ama
@@ -16,11 +16,11 @@
 }
 790.1.1={
 	holder = 191008 #Cakrayudha
-	liege = k_bengal
+#	liege = k_bengal
 }
 815.1.1={
 	holder = 188006 # Nagabhata II
-	liege = k_kosala
+#	liege = k_kosala
 }
 833.1.1={
 	holder = 188007 # Ramabhadra
@@ -55,7 +55,7 @@
 }
 1089.1.1={
 	holder = 191048 #Tribhuvana Rashtrakuta
-	liege = k_kosala
+#	liege = k_kosala
 }
 1119.1.1={
 	holder = 191049 #Madanpala Rashtrakuta

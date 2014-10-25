@@ -1,5 +1,5 @@
 740.1.1 = {
-	liege="k_france"
+#	liege="k_france"
 	holder=91503 #Rothgar
 }
 790.1.1={
@@ -23,7 +23,7 @@
 }
 914.1.1=
 {
-	liege = "k_france"
+#	liege = "k_france"
 	holder = 144952
 }
 931.3.26={
@@ -52,7 +52,7 @@
 	law=cognatic_succession
 }
 1093.1.1={
-	liege="k_france"
+#	liege="k_france"
 	holder=232008 #Élie I de Beaugency
 }
 1110.1.1={
@@ -65,7 +65,7 @@
 	holder=232010 #Élie II du Maine
 }
 1151.1.15={
-	liege="k_england"
+#	liege="k_england"
 	holder=204500 #Henri II Plantagenêt
 }
 1156.1.1={
@@ -86,7 +86,7 @@
 
 #Capetians
 1204.1.1={
-	liege="k_france"
+#	liege="k_france"
 	holder=205506 # Philippe II Auguste
 }
 1223.7.14={

@@ -125,7 +125,7 @@
 	holder=73357
 }
 1172.6.16={
-	liege="k_sicily"
+#	liege="k_sicily"
 	holder = 211500
 }
 1189.11.11={
@@ -156,7 +156,7 @@
 	holder = 455406
 }
 1282.8.30={
-	liege=k_naples
+#	liege=k_naples
 }
 1285.1.7={
 	holder=461710

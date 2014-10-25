@@ -2,7 +2,7 @@
 	holder = 190506 #Stephan
 }
 743.1.1={
-	liege=k_lotharingia
+#	liege=k_lotharingia
 }
 770.1.1={
 	holder = 190507 #Hugh
@@ -14,7 +14,7 @@
 	holder = 190509 #Stephan (II)
 }
 864.1.1={
-	liege = "k_aquitaine"
+#	liege = "k_aquitaine"
 	holder = 127021
 }
 884.12.12={
@@ -54,7 +54,7 @@
 	holder = 7468 #Robert V d'Auvergne
 }
 1261.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 1277.1.11={
 	holder = 7470 #Robert VI d'Auvergne

@@ -1,6 +1,6 @@
 769.1.1 = {
 	holder=200216 # Yahya Fezzi
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 800.1.1={
 	holder=73681 # al-Hakam I Umayyad
@@ -20,7 +20,7 @@
 }
 928.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -70,7 +70,7 @@
 }
 1094.1.1={
 	holder=73205 # Yusuf Yusufid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1116.1.1={
 	holder=73207 # Isma'il Ismailid
@@ -85,7 +85,7 @@
 }
 1150.1.1={
 	holder=224022 # Muhammad Ishaqid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1169.1.1={
 	holder=224010 # Abd al-Aziz Mansurid
@@ -98,7 +98,7 @@
 }
 1230.3.19={
 	holder=457650 # Alfonso IX de Borgoña
-	liege=k_leon
+#	liege=k_leon
 }
 1230.9.24={
 	holder=457620 # Fernando II de Borgoña

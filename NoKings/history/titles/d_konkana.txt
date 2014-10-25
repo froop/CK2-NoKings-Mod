@@ -1,6 +1,6 @@
 765.1.1={
 	holder = 74526	#Sanahapulla
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 795.1.1={
 	holder = 74527	#Dhammayira

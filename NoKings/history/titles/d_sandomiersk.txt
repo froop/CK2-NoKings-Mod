@@ -1,5 +1,5 @@
 1138.10.28={
-	liege="k_poland"
+#	liege="k_poland"
 }
 1138.10.28={
 	holder=221510

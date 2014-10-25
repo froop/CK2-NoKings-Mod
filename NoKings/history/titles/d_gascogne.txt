@@ -3,7 +3,7 @@
 }
 768.1.1={
 	holder=168104
-	liege = k_france
+#	liege = k_france
 }
 778.1.1={
 	holder=168106
@@ -33,11 +33,11 @@
 	holder = 168133
 }
 864.1.1={
-	liege = "k_aquitaine"
+#	liege = "k_aquitaine"
 	holder = 163060
 }
 884.12.12={
-	liege = "k_france"
+#	liege = "k_france"
 }
 893.1.1={
 	holder = 7563
@@ -85,7 +85,7 @@
 	holder = 205730 #Alienor d'Aquitaine
 }
 1152.5.18 = {
-	liege = "k_england"
+#	liege = "k_england"
 	holder = 204500 #Henry II of England
 }
 1189.7.6 = {

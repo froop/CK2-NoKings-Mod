@@ -1,5 +1,5 @@
 330.1.1={
-	liege = "e_byzantium"
+#	liege = "e_byzantium"
 	vice_royalty = yes
 }
 733.1.1={
@@ -46,7 +46,7 @@ holder=215013
 }
 1204.8.1=
 {
-liege="e_latin_empire" 
+#liege="e_latin_empire" 
 #law = succ_primogeniture
 #law = cognatic_succession
 }
@@ -84,7 +84,7 @@ holder=31225 #Roger
 }
 1312.1.1=
 {
-liege="k_aragon"
+#liege="k_aragon"
 }
 1312.1.1=
 {

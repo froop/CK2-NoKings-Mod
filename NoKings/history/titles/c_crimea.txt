@@ -18,7 +18,7 @@
 	holder=74016
 }
 833.1.1= {
-	liege=k_khazaria
+#	liege=k_khazaria
 }
 861.1.1={
 	holder=74017

@@ -3,7 +3,7 @@
 	holder = 191152 #Adnata
 }
 760.1.1={
-	liege = k_bengal
+#	liege = k_bengal
 }
 800.1.1 = {
 	holder = 191153 #Bhusura
@@ -21,14 +21,14 @@
 	holder = 191157 #Varendrasura
 }
 956.1.1={
-	liege = k_bihar
+#	liege = k_bihar
 }
 980.1.1 = {
 	holder = 191158 #Anusura
 }
 1020.1.1 = {
 	holder = 191159 #Bhanusura
-	liege = k_bengal
+#	liege = k_bengal
 }
 1040.1.1 = {
 	holder = 191160 #Ranasura

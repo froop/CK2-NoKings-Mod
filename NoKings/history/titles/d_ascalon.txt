@@ -1,5 +1,5 @@
 866.1.1={
-	liege = "e_arabia"
+#	liege = "e_arabia"
 }
 866.1.1={
 	holder = 163136
@@ -10,7 +10,7 @@
 }
 1099.7.15=
 {
-	liege="k_egypt"
+#	liege="k_egypt"
 	holder=34700
 }
 1111.1.1=
@@ -27,7 +27,7 @@
 }
 1153.1.1=
 {
-	liege="k_jerusalem"
+#	liege="k_jerusalem"
 	holder=223520		#d.1174.7.11
 }
 1174.7.11=
@@ -90,7 +90,7 @@
 }
 1268.1.1=
 {
-	liege="k_egypt"
+#	liege="k_egypt"
 	holder=32933
 }
 1277.7.1=

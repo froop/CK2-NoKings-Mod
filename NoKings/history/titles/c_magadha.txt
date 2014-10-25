@@ -43,7 +43,7 @@
 #}
 755.1.1={
 	holder = 190027 #Gopala Pala
-	liege=k_bengal
+#	liege=k_bengal
 }
 769.1.1={
 	holder = 190028 #Dharamapala Pala
@@ -161,5 +161,5 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-	liege = k_bihar
+#	liege = k_bihar
 }

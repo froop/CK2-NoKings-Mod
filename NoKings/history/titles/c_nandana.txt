@@ -1,6 +1,6 @@
 756.1.1={
 	holder = 191961 #Sujji, fictional vassal in the Salt range
-	liege = k_punjab
+#	liege = k_punjab
 }
 780.1.1={
 	holder = 191962
@@ -39,13 +39,13 @@
 	holder = 191977 #Ragar Han
 }
 1175.1.1={
-	liege = k_afghanistan
+#	liege = k_afghanistan
 }
 1186.1.1={
 	holder = 191978 #Sipihr Han
 }
 1192.1.1={
-	liege=k_delhi
+#	liege=k_delhi
 }
 1199.1.1={
 	holder = 191979 #Surkah Han
@@ -54,7 +54,7 @@
 	holder = 191980 #Fidai Han
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1220.1.1={
 	holder = 191981 #Mang Han

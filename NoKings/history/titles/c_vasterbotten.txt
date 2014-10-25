@@ -31,7 +31,7 @@ holder=143145
 }
 1310.1.1=
 {
-liege="k_sweden"
+#liege="k_sweden"
 }
 1310.1.1=
 {

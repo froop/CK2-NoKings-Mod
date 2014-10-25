@@ -1,5 +1,5 @@
 760.1.1={
-	liege="k_lotharingia"
+#	liege="k_lotharingia"
 	holder = 91482 #FREDERIC, count of Transjuranie
 }
 855.1.1={
@@ -18,7 +18,7 @@
 
 1032.9.5=
 {
-liege="e_hre"
+#liege="e_hre"
 holder=40560
 law = succ_primogeniture
 law = agnatic_succession
@@ -57,7 +57,7 @@ holder=32769
 1257.3.14=
 {
 holder=32770
-liege = e_hre
+#liege = e_hre
 }
 1285.8.16=
 {

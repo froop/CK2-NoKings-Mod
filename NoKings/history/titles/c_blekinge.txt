@@ -7,7 +7,7 @@
 	holder = 6842
 }
 1066.1.1={
-	liege = "k_denmark"
+#	liege = "k_denmark"
 }
 1066.1.1={
 	holder=101515
@@ -69,6 +69,6 @@
 }
 1332.8.2=
 {
-	liege="k_sweden"
+#	liege="k_sweden"
 	holder=450500
 }

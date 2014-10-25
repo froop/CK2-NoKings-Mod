@@ -8,7 +8,7 @@
 	holder = 0
 }
 859.1.1={
-	liege = "k_germany"
+#	liege = "k_germany"
 	holder = 7990
 }
 867.1.1={
@@ -40,7 +40,7 @@ liege="d_swabia"
 	holder = 462321
 }
 1268.10.29={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1271.9.24={
 	holder = 462322

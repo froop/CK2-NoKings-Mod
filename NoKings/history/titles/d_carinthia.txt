@@ -1,5 +1,5 @@
 976.1.1={
-liege="k_germany"
+#liege="k_germany"
 #law = agnatic_succession
 #law = succ_primogeniture
 }
@@ -28,7 +28,7 @@ liege="k_germany"
 	holder = 1618
 }
 1024.7.13={
-	liege = e_hre
+#	liege = e_hre
 }
 1036.1.1={
 	holder = 1322

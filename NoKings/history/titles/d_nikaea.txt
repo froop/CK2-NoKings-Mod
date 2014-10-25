@@ -1,5 +1,5 @@
 330.1.1={
-	liege = "e_byzantium"
+#	liege = "e_byzantium"
 	vice_royalty = yes
 }
 758.1.1={
@@ -18,14 +18,14 @@
 }
 1078.3.31=
 {
-	liege="k_rum"
+#	liege="k_rum"
 	vice_royalty = no
 	holder=41701
 }
 #1st crusade takes Nikaea
 1097.7.19=
 {
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	vice_royalty = yes
 	holder=1742
 }
@@ -67,7 +67,7 @@
 #The Ottomans arrive
 1310.1.1=
 {
-liege="k_ottoman"
+#liege="k_ottoman"
 vice_royalty = no
 }
 1310.1.1=

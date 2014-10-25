@@ -7,7 +7,7 @@
 }
 1066.1.5=
 {
-	liege="k_england"
+#	liege="k_england"
 	holder=122 # Harold Godwinson
 }
 1066.10.14={

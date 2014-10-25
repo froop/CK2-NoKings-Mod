@@ -81,7 +81,7 @@
 	holder=102574
 }
 1047.1.1={
-	liege="k_norway"
+#	liege="k_norway"
 }
 1047.1.1={
 	holder = 102529 

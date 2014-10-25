@@ -31,7 +31,7 @@
 }
 1065.1.1={
 	holder = 191076	#Rudrasikhara
-	liege = k_bengal
+#	liege = k_bengal
 }
 1071.1.1= {
 	holder = 154001 #Hemanta Sena
@@ -83,11 +83,11 @@
 }
 1244.1.1={
 	holder = 191212 #Narasiṁha 	#Gangas Conquer Southern Radha
-	liege = k_orissa
+#	liege = k_orissa
 }
 1255.1.1={	#Retaken
 	holder = 170270 #Malik Ikhtiyaruddin Iuzbak
-	liege = k_bengal
+#	liege = k_bengal
 }
 1257.1.1={
 	holder = 170271 #Ijjauddin Balban Iuzbaki
@@ -116,5 +116,5 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-	liege = k_bengal
+#	liege = k_bengal
 }

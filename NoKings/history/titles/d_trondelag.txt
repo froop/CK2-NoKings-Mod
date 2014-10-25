@@ -1,5 +1,5 @@
 1066.1.1={
-	liege="k_norway"
+#	liege="k_norway"
 	#law = agnatic_succession
 	#law = succ_primogeniture
 }

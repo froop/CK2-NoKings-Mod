@@ -15,7 +15,7 @@ holder=5644 #Eadwin
 }
 1066.12.6=
 {
-liege="k_england"
+#liege="k_england"
 }
 1066.12.6=
 {

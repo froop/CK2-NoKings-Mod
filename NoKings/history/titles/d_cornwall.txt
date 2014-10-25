@@ -104,7 +104,7 @@
 	holder = 0
 }
 1328.9.6={
-liege="k_england"
+#liege="k_england"
 #law = agnatic_succession
 #law = succ_primogeniture
 }

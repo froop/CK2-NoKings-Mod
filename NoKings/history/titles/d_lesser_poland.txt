@@ -26,7 +26,7 @@
 }
 999.7.1=
 {
-	liege="k_poland"
+#	liege="k_poland"
 }
 1025.6.17={
 	holder = 758

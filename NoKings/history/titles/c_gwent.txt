@@ -63,7 +63,7 @@ holder = 159110
 	holder=138455 #Robert Fitzhamon
 }
 1090.1.1={
-	liege=k_england
+#	liege=k_england
 }
 1107.3.1={
 	holder=138457 #Mabel Fitzhamon

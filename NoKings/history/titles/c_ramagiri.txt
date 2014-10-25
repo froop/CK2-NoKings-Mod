@@ -7,7 +7,7 @@
 }
 830.1.1={
 	holder=191364	#Fictional Pandits
-	liege=k_maharastra
+#	liege=k_maharastra
 }
 880.1.1={
 	holder=191365	#Fictional Pandits

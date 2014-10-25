@@ -12,7 +12,7 @@
 	holder=85018
 }
 1070.1.1={
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 1070.1.1={
 	holder = 984

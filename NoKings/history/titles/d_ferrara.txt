@@ -1,5 +1,5 @@
 1187.1.1={
-	liege="e_hre"
+#	liege="e_hre"
 	holder=223597
 	law = succ_primogeniture
 	law = agnatic_succession
@@ -27,7 +27,7 @@ liege="0"
 	holder=70689
 }
 1310.1.1={
-	liege="k_papal_state"
+#	liege="k_papal_state"
 	law = succ_catholic_bishopric
 }
 1317.1.1={

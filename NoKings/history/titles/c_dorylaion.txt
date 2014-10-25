@@ -56,7 +56,7 @@
 }
 #to Byzantine empire
 1204.5.16={
-	liege="e_byzantium"
+#	liege="e_byzantium"
 	holder=215674
 }
 1222.8.2={

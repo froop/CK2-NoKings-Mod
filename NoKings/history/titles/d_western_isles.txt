@@ -78,7 +78,7 @@
 	holder = 166493
 }
 736.1.1={
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 736.1.1={
 	holder = 166494
@@ -141,7 +141,7 @@
 	holder = 6018
 }
 843.1.1={
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 843.1.1={
 	holder = 166506
@@ -156,7 +156,7 @@
 	holder=5788
 }
 1099.1.1={
-	liege="k_norway"
+#	liege="k_norway"
 }
 1099.1.1={
 	holder = 202511
@@ -183,7 +183,7 @@
 	holder = 7391
 }
 1266.1.1={
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 1296.1.1={
 	holder = 453055

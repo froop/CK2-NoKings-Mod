@@ -6,7 +6,7 @@
 	holder = 175090
 }
 920.1.1={
-	liege=k_tamilakam #Conquest by Cholas
+#	liege=k_tamilakam #Conquest by Cholas
 	holder = 189109
 }
 960.1.1={

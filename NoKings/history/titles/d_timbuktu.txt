@@ -9,7 +9,7 @@ holder=161010
 }
 1234.1.1=
 {
-liege="k_mali"
+#liege="k_mali"
 holder=161022
 }
 1255.1.1=

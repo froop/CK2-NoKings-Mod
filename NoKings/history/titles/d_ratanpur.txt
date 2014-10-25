@@ -15,7 +15,7 @@
 }
 1000.1.1={	#Haihaya sidebranch
 	holder = 191345 #Kalingaraja
-	liege = k_gondwana
+#	liege = k_gondwana
 }
 1030.1.1={
 	holder = 191346 #Kamalaraja

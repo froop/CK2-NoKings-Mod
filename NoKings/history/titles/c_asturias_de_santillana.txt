@@ -1,6 +1,6 @@
 718.1.1={
 	holder=70010 # Pedro de Cantabria
-	liege=k_asturias
+#	liege=k_asturias
 }
 720.1.1={
 	holder=70003 # Alfonso I de Cantabria
@@ -26,7 +26,7 @@
 }
 885.1.31={
 	holder=200066 # Munio Nuñez de Lara
-	liege=k_asturias
+#	liege=k_asturias
 }
 901.1.1={
 	holder=200071 # Gonzalo Téllez
@@ -35,7 +35,7 @@
 	holder=200066 # Munio Nuñez de Lara
 }
 910.12.20={
-	liege=k_leon
+#	liege=k_leon
 }
 912.1.1={
 	holder=73769 # Gonzalo Fernández de Lara
@@ -75,7 +75,7 @@
 }
 1037.9.4={
 	holder=70265 # Munio González de Lara
-	liege=k_castille
+#	liege=k_castille
 }
 1082.1.1={
 	holder=70268 # Jimena Muñoz de Lara

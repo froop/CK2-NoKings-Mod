@@ -64,11 +64,11 @@
 }
 1115.1.1={
 	holder=73183 # Tifilwit Tifilwitid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1118.12.18={
 	holder=70232 # Alfonso I Jimena
-	liege=k_aragon
+#	liege=k_aragon
 }
 1134.9.27={
 	holder=70233 # Ramiro II Jimena
@@ -79,7 +79,7 @@
 }
 1136.1.1={
 	holder=70233 # Ramiro II Jimena
-	liege=k_aragon
+#	liege=k_aragon
 }
 1157.8.16={
 	holder=210507 # Petronila Ramírez Jimena

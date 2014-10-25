@@ -1,5 +1,5 @@
 765.1.1={
-	liege=e_arabia
+#	liege=e_arabia
 	holder=188643 # Khalid Barmakid
 }
 782.1.1={
@@ -45,7 +45,7 @@
 }
 1066.1.1=
 {
-	liege="k_persia"
+#	liege="k_persia"
 }
 1066.1.1=
 {
@@ -110,7 +110,7 @@
 }
 1176.1.1=
 {
-	liege="k_egypt"
+#	liege="k_egypt"
 }
 1180.1.1=
 {
@@ -138,7 +138,7 @@
 }
 1254.1.1=
 {
-	liege="e_il-khanate"
+#	liege="e_il-khanate"
 }
 1259.1.1=
 {

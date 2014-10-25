@@ -33,7 +33,7 @@ holder=145732
 }
 1270.1.1=
 {
-liege="k_egypt"
+#liege="k_egypt"
 holder=145733
 }
 1289.1.1=

@@ -1,5 +1,5 @@
 768.1.1={
-	liege = k_sindh
+#	liege = k_sindh
 	holder = 188287 # Lakho Ghuraro Samma
 }
 810.1.1={
@@ -28,7 +28,7 @@
 }
 1040.1.1={
 	holder = 188296 # Jahkra
-	liege = k_sindh
+#	liege = k_sindh
 }
 1070.1.1={
 	holder = 188297 # ?
@@ -52,5 +52,5 @@
 
 
 1325.1.1={
-	liege=e_rajastan
+#	liege=e_rajastan
 }

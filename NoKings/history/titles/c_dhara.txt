@@ -29,7 +29,7 @@
 }
 939.1.1={
 	holder = 188011 # Mahipala
-	liege = k_kosala
+#	liege = k_kosala
 }
 944.1.1={
 	holder = 188012 # Mahendrapala II
@@ -72,7 +72,7 @@
 	holder = 188191 # Ballala of Malwa
 }
 1151.1.1={
-	liege = k_gujarat
+#	liege = k_gujarat
 	holder = 188088 # Kumarapala Solanki
 }
 1160.1.1={

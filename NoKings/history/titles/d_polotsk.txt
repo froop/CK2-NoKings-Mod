@@ -54,7 +54,7 @@
 }
 1241.1.2={
 	holder=125306
-	liege="k_lithuania"
+#	liege="k_lithuania"
 }
 1264.1.2={
 	holder=125014

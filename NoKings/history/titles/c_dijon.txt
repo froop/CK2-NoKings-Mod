@@ -2,7 +2,7 @@
 	holder = 190511 #Theoderic
 }
 745.1.1={
-	liege=k_lotharingia
+#	liege=k_lotharingia
 }
 798.1.1={
 	holder = 190512 #Teudoin
@@ -11,7 +11,7 @@
 	holder = 190513 #Theoderic
 }
 863.1.1={
-	liege=k_france
+#	liege=k_france
 	holder = 163066
 }
 1032.1.1={

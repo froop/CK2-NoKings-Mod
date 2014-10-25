@@ -1,5 +1,5 @@
 760.1.1 = {
-	liege="k_france"
+#	liege="k_france"
 	holder = 91477 #BAUGULF, historical count as placeholder
 }
 853.1.1={
@@ -49,7 +49,7 @@
 
 #de Lusignan
 1195.1.2={
-	liege="k_france"
+#	liege="k_france"
 	holder=205659 #Raoul I de Lusignan as count consort
 }
 1219.5.1={

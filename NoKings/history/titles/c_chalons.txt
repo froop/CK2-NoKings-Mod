@@ -5,7 +5,7 @@
 	liege=d_burgundy
 }
 865.1.1={
-	liege="k_burgundy"
+#	liege="k_burgundy"
 }
 865.1.1={
 	holder = 167924

@@ -31,7 +31,7 @@
 }
 1097.6.19=
 {	
-	liege="k_rum"
+#	liege="k_rum"
 }
 1104.1.1=
 {
@@ -43,7 +43,7 @@
 	holder=34198
 }
 1142.1.1={
-	liege="k_rum"
+#	liege="k_rum"
 	holder = 7299
 }
 1155.4.1=

@@ -36,7 +36,7 @@
 	holder=170235 #Varshpal
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1219.1.1={
 	holder=170236 #Jatanpal

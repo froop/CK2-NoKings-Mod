@@ -3,13 +3,13 @@
 	holder = 91494 #Wegelenzo, historical as placeholder
 }
 864.1.1={
-	liege = "k_aquitaine"
+#	liege = "k_aquitaine"
 }
 864.1.1={
 	holder = 168148
 }
 884.12.12={
-	liege = "k_france"
+#	liege = "k_france"
 }
 1066.1.1=
 {
@@ -79,14 +79,14 @@
 	holder=138396 #Aldebert de Peyre
 }
 1302.1.1={
-	liege="e_hre"
+#	liege="e_hre"
 }
 1306.1.1={
 	holder=31664 #Bishop Louis I de Poitiers
 }
 1309.1.1=
 {
-	liege="k_france"
+#	liege="k_france"
 }
 1318.1.1={
 	holder=138397 #Guillaume IV de Flavacourt

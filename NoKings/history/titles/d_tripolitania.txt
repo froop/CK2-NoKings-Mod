@@ -2,7 +2,7 @@
 	holder=210031
 }
 866.1.1={
-	liege="k_africa"
+#	liege="k_africa"
 }
 866.1.1={
 	holder = 163147
@@ -56,7 +56,7 @@ holder=155188
 }
 1146.1.1=
 {
-liege="k_sicily"
+#liege="k_sicily"
 }
 1146.1.1=
 {
@@ -64,7 +64,7 @@ holder=155136
 }
 1160.1.22=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1160.1.22=
 {
@@ -72,7 +72,7 @@ holder=33013
 }
 1172.1.1=
 {
-liege="k_egypt"
+#liege="k_egypt"
 }
 1172.1.1=
 {
@@ -80,7 +80,7 @@ holder=155113
 }
 1187.10.15=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1192.1.1=
 {
@@ -92,7 +92,7 @@ holder=32977
 }
 1210.1.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1210.1.1=
 {
@@ -104,7 +104,7 @@ holder=33018
 }
 1229.1.1=
 {
-liege="k_africa"
+#liege="k_africa"
 }
 1251.1.1=
 {

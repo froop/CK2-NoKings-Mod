@@ -1,5 +1,5 @@
 760.1.1={
-	liege=k_lotharingia
+#	liege=k_lotharingia
 }
 760.1.1={
 	holder = 190562 #Hugh I
@@ -23,7 +23,7 @@
 }
 
 1032.9.5={
-	liege = "e_hre"
+#	liege = "e_hre"
 }
 1046.1.1={
 	liege="d_savoie"

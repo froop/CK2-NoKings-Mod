@@ -161,7 +161,7 @@ holder=3084
 }
 1058.1.1 =
 {
-liege = k_persia
+#liege = k_persia
 }
 1075.1.1=
 {
@@ -211,7 +211,7 @@ holder=34028
 holder=34029
 }
 1258.2.20={
-	liege = k_egypt
+#	liege = k_egypt
 }
 1258.2.20=
 {

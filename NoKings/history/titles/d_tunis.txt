@@ -1,5 +1,5 @@
 864.1.1={	
-	liege = k_africa
+#	liege = k_africa
 	holder = 6887
 }
 1066.1.1=
@@ -9,7 +9,7 @@ holder=155029
 }
 1090.1.1=
 {
-liege="k_africa"
+#liege="k_africa"
 }
 1090.1.1=
 {
@@ -25,7 +25,7 @@ liege=0
 }
 1159.7.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1159.7.1=
 {
@@ -45,7 +45,7 @@ holder=32977
 }
 1207.1.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1207.1.1=
 {
@@ -57,7 +57,7 @@ holder=33020
 }
 1229.1.1=
 {
-liege="k_africa"
+#liege="k_africa"
 }
 1229.1.1=
 {

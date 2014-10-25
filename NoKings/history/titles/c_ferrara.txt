@@ -1,5 +1,5 @@
 747.1.1={
-	liege=k_italy
+#	liege=k_italy
 }
 747.1.1={
 	holder = 190282 #Lupo
@@ -25,7 +25,7 @@ holder=7757
 1115.7.24=
 {
 holder=73506
-liege="e_hre"
+#liege="e_hre"
 }
 1126.1.1=
 {
@@ -68,7 +68,7 @@ liege=0
 }
 1236.1.1 = {
 	holder = 70661
-	liege = e_hre
+#	liege = e_hre
 }
 1250.12.13=
 {

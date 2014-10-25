@@ -135,5 +135,5 @@
 	holder = 188163 # Karnadeva
 }
 1304.1.1={
-	liege = k_delhi
+#	liege = k_delhi
 }

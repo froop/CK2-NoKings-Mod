@@ -1,6 +1,6 @@
 766.1.1={
 	holder=200042 # Hakam Hakamid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 789.1.1={
 	holder=200205 # Mutarrif b. Musa banu Qasi
@@ -10,7 +10,7 @@
 }
 806.1.1={
 	holder=200190 # Belasko Belaskotenes
-	liege=k_aquitaine
+#	liege=k_aquitaine
 }
 810.1.1={
 	holder=70300 # Aznar I de Aragón
@@ -48,7 +48,7 @@
 }
 1035.10.18={
 	holder=110510 # Ramiro I Jimena
-	liege=k_aragon
+#	liege=k_aragon
 }
 1063.5.8={
 	holder=110500 # Sancho Ramírez Jimena

@@ -6,7 +6,7 @@
 	holder = 205105
 }
 865.1.1={
-	liege="k_england"
+#	liege="k_england"
 	holder=33358 
 }
 1066.1.5=

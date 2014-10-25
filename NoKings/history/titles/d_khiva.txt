@@ -1,5 +1,5 @@
 710.1.1={
-	liege=e_arabia
+#	liege=e_arabia
 }
 
 769.1.1={
@@ -8,7 +8,7 @@
 }
 
 864.1.1={
-	liege="k_khiva"
+#	liege="k_khiva"
 	holder = 163099
 }
 1052.1.1=
@@ -90,12 +90,12 @@
 }
 1212.1.1=
 {
-	liege="k_persia"
+#	liege="k_persia"
 	holder=93053
 }
 1221.1.1=
 {
-	liege="e_mongol_empire"
+#	liege="e_mongol_empire"
 	holder = 125501
 }
 
@@ -103,7 +103,7 @@
 
 1227.12.2=
 {
-	liege=k_khiva
+#	liege=k_khiva
 	holder = 93062
 }
 1242.1.1=

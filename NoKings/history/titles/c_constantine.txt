@@ -67,7 +67,7 @@ holder=155042
 }
 1223.1.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1229.1.1=
 {

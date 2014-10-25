@@ -52,7 +52,7 @@ holder=33012
 }
 1152.1.1=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1152.1.1=
 {
@@ -72,7 +72,7 @@ holder=155094
 }
 1236.1.1=
 {
-liege="k_africa"
+#liege="k_africa"
 }
 1249.1.1=
 {

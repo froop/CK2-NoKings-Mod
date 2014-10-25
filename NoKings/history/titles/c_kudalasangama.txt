@@ -25,7 +25,7 @@
 }
 983.1.1={
 	holder = 74437
-	liege = k_maharastra
+#	liege = k_maharastra
 }
 997.1.1={
 	holder=74438
@@ -47,7 +47,7 @@
 }
 1120.1.1={
 	holder = 74577
-	liege = k_karnata
+#	liege = k_karnata
 }
 1141.1.1={
 	holder = 74578
@@ -67,7 +67,7 @@
 }
 1273.1.1={
 	holder = 74583
-	liege = k_karnata
+#	liege = k_karnata
 }
 1291.1.1={
 	holder = 74798
@@ -77,5 +77,5 @@
 	holder = 74401
 }
 1337.1.1={
-	liege = e_deccan
+#	liege = e_deccan
 }

@@ -1,6 +1,6 @@
 758.1.1={
 	holder=200226 # Hisham Petrid
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 780.1.1={
 	holder=200228 # Ibrahim Petrid
@@ -23,7 +23,7 @@
 }
 932.1.1={
 	holder=3200 # Abd al-Rahman III Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad
@@ -89,7 +89,7 @@
 }
 1099.1.1={
 	holder=73182 # Muhammad Hayyid
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1110.5.31={
 	holder=224007 # Abdallah Fatimid
@@ -118,7 +118,7 @@
 	liege=d_murcia
 }
 1172.1.1={
-	liege=k_mauretania
+#	liege=k_mauretania
 }
 1186.1.1={
 	holder=224002 # Khaleel Balansiyyid
@@ -137,7 +137,7 @@
 }
 1234.1.1={
 	holder=210516 # Nuno Sanç de Barcelona
-	liege=k_aragon
+#	liege=k_aragon
 }
 1242.1.1={
 	holder=209508 # Pedro Sanches de Bourgogne

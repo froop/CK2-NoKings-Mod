@@ -4,7 +4,7 @@
 }
 800.1.1={
 	holder=73681 # al-Hakam I Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 822.5.21={
 	holder=73682 # Abd al-Rahman II Umayyad
@@ -25,7 +25,7 @@
 }
 907.1.1={
 	holder=73685 # Abdallah Umayyad
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 912.10.15={
 	holder=3200 # Abd al-Rahman III Umayyad
@@ -89,7 +89,7 @@
 }
 1085.5.25={
 	holder=108500 # Alfonso VI de Borgoña
-	liege=k_castille
+#	liege=k_castille
 }
 1109.6.30={
 	holder=207660 # Urraca Alfónsez de Borgoña

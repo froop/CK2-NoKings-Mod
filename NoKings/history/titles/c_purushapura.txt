@@ -54,18 +54,18 @@
 	holder = 144139
 }
 1175.1.1={
-	liege = k_afghanistan
+#	liege = k_afghanistan
 	holder = 144142
 }
 1186.1.1={
 	holder = 170190 #Mu'izz al-Din conquered Lahore and made Qutb-ud-din Aibak governor
-	liege=k_punjab
+#	liege=k_punjab
 }
 1192.1.1={
-	liege=k_delhi
+#	liege=k_delhi
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1210.11.4={
 	holder = 170191 #Aram

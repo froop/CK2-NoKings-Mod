@@ -16,7 +16,7 @@
 }
 
 1066.1.1={
-	liege="k_persia"
+#	liege="k_persia"
 }
 1066.1.1=
 {
@@ -36,7 +36,7 @@
 }
 1141.1.1=
 {
-	liege ="k_khiva"
+#	liege ="k_khiva"
 }
 1156.1.1=
 {
@@ -49,7 +49,7 @@
 }
 1194.3.1=
 {
-	liege="k_persia" 
+#	liege="k_persia" 
 }
 1200.1.1=
 {

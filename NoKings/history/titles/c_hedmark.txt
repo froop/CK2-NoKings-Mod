@@ -52,7 +52,7 @@ holder=102547
 }
 1187.1.1=
 {
-liege="k_norway"
+#liege="k_norway"
 }
 1187.1.1=
 {

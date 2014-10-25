@@ -27,7 +27,7 @@
 
 1221.1.1=
 {
-liege="e_mongol_empire"
+#liege="e_mongol_empire"
 holder=34852
 }
 1225.1.1=
@@ -39,7 +39,7 @@ holder=125502
 holder=34911
 }
 1227.12.2={
-liege="e_golden_horde"
+#liege="e_golden_horde"
 }
 1260.1.1=
 {

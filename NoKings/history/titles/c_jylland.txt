@@ -9,7 +9,7 @@
 	holder = 163113
 }
 1066.1.1={
-	liege="k_denmark"
+#	liege="k_denmark"
 }
 1066.1.1={
 	holder=101515 # Svend Estridsen

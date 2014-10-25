@@ -5,7 +5,7 @@
 	holder = 0
 }
 1017.1.1= {
-liege="k_tamilakam" #Subdued by Cholas
+#liege="k_tamilakam" #Subdued by Cholas
 }
 1056.1.1= {
 liege=0 #Independence
@@ -20,7 +20,7 @@ liege=0 #Independence
 	holder = 189142
 }
 1258.1.1= {
-liege="k_tamilakam" #Vassalage to Pandyas
+#liege="k_tamilakam" #Vassalage to Pandyas
 }
 1284.1.1={
 	holder = 189143

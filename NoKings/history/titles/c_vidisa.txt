@@ -17,7 +17,7 @@
 	holder = 0
 }
 946.1.1={
-	liege = k_malwa
+#	liege = k_malwa
 	holder = 188180 # Vairisimha II Paramara
 }
 948.1.1={
@@ -62,7 +62,7 @@
 }
 1178.1.1={
 	holder = 188197 # Vindhyavarman Paramara
-	liege = k_malwa
+#	liege = k_malwa
 }
 1193.1.1={
 	holder = 188198 # Subhatavarman

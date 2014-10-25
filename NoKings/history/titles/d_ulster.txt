@@ -1,5 +1,5 @@
 1199.1.1={
-	liege="k_england"
+#	liege="k_england"
 	law = succ_tanistry
 }
 1199.1.1={

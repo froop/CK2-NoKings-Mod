@@ -15,7 +15,7 @@
 }
 1066.1.1={
 	holder=85018
-	liege="k_scotland"
+#	liege="k_scotland"
 }
 1073.1.1={
 	holder = 963

@@ -104,7 +104,7 @@ holder=155102
 }
 1302.1.1=
 {
-liege="k_africa"
+#liege="k_africa"
 }
 1302.1.1=
 {

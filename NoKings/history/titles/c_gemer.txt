@@ -12,7 +12,7 @@
 	holder = 187001
 }
 830.1.1={
-	liege=k_moravia
+#	liege=k_moravia
 }
 846.8.15={
 	holder = 187002

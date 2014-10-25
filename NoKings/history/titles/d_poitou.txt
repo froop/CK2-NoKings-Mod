@@ -3,7 +3,7 @@
 }
 852.1.1 = {
 	de_jure_liege = k_aquitaine
-	liege=k_france
+#	liege=k_france
 }
 852.1.1 = {
 	holder = 90129 #Ramnulf I
@@ -54,7 +54,7 @@
 	holder = 205730 #Alienor
 }
 1152.5.18 = {
-	liege = "k_england"
+#	liege = "k_england"
 }
 1152.5.18 = {
 	holder = 204500 #Henry II
@@ -66,7 +66,7 @@
 	holder = 204514 #John
 }
 1205.1.1 = {
-	liege = "k_france"
+#	liege = "k_france"
 }
 1205.1.1 = {
 	holder = 205506 # Philippe II

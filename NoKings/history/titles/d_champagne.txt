@@ -1,5 +1,5 @@
 100.1.1={
-	liege="k_france"
+#	liege="k_france"
 }
 
 #House of Arnulfing
@@ -61,7 +61,7 @@
 	holder = 205964 #Thibaut IV
 }
 1234.4.7={
-	liege="k_navarra"
+#	liege="k_navarra"
 }
 1253.7.14={
 	holder = 205967 #Thibaut V
@@ -95,5 +95,5 @@
 #House of Valois
 1328.2.1={
 	holder=455500 # Philippe III
-	liege="k_france"
+#	liege="k_france"
 }

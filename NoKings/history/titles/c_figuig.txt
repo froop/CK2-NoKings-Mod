@@ -2,7 +2,7 @@
 	holder = 210037
 }
 788.1.1={
-	liege="k_mauretania"
+#	liege="k_mauretania"
 }
 788.1.1={
 	holder = 159501
@@ -94,7 +94,7 @@ holder=32983
 }
 1212.7.16=
 {
-liege="k_mauretania"
+#liege="k_mauretania"
 }
 1212.7.16=
 {

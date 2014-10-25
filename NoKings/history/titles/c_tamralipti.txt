@@ -31,7 +31,7 @@
 }
 1065.1.1={
 	holder = 191076	#Rudrasikhara
-	liege = k_bengal
+#	liege = k_bengal
 }
 1120.1.1={
 	holder = 190021 #Kumarapala Pala
@@ -86,11 +86,11 @@
 }
 1244.1.1={
 	holder = 191212 #Narasiṁha 	#Gangas Conquer Southern Radha
-	liege = k_orissa
+#	liege = k_orissa
 }
 1255.1.1={
 	holder = 170270 #Malik Ikhtiyaruddin Iuzbak
-	liege = k_bengal
+#	liege = k_bengal
 }
 1257.1.1={
 	holder = 170271 #Ijjauddin Balban Iuzbaki
@@ -119,5 +119,5 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-	liege = k_bengal
+#	liege = k_bengal
 }

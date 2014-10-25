@@ -47,7 +47,7 @@
 }
 1283.9.29=
 {
-	liege=k_england
+#	liege=k_england
 }
 1283.9.29=
 {

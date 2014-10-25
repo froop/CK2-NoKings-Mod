@@ -1,5 +1,5 @@
 805.1.1={
-	liege="k_bulgaria"
+#	liege="k_bulgaria"
 	holder=146172
 }
 808.1.1={
@@ -21,11 +21,11 @@
 	holder=168074
 }
 895.1.1={
-	liege="k_magyar"
+#	liege="k_magyar"
 	holder=0
 }
 1000.12.25={
-	liege="k_hungary"
+#	liege="k_hungary"
 }
 1299.1.1=
 {

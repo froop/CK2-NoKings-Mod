@@ -12,7 +12,7 @@
 	holder=100527
 }
 1067.12.20={
-	liege="k_sweden"
+#	liege="k_sweden"
 }
 1098.1.2={
 	holder=100524 # Inge the Older

@@ -15,7 +15,7 @@
 	holder = 168635
 }
 917.1.1={
-	liege = "k_denmark"
+#	liege = "k_denmark"
 }
 938.1.1={
 	holder = 168638

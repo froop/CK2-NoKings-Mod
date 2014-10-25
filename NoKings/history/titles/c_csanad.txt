@@ -1,5 +1,5 @@
 685.1.1 = {
-	liege="k_hungary"
+#	liege="k_hungary"
 	holder=146155
 }
 701.1.1 = {
@@ -39,7 +39,7 @@
 
 1066.1.1=
 {
-liege="k_hungary"
+#liege="k_hungary"
 }
 1066.1.1=
 {

@@ -1,5 +1,5 @@
 685.1.1={
-	liege="k_hungary"
+#	liege="k_hungary"
 	holder=146143
 }
 725.1.1={
@@ -24,7 +24,7 @@
 	holder=146151
 }
 804.1.1={
-	liege="k_bulgaria"
+#	liege="k_bulgaria"
 }
 812.1.1={
 	holder=146152
@@ -33,7 +33,7 @@
 	holder=168069
 }
 895.1.1={
-	liege="k_magyar"
+#	liege="k_magyar"
 }
 940.1.1=
 {
@@ -48,7 +48,7 @@ holder=70371
 holder=70373
 }
 1000.12.25={
-	liege="k_hungary"
+#	liege="k_hungary"
 }
 1003.1.1=
 {
@@ -72,7 +72,7 @@ holder=474
 }
 1066.1.1=
 {
-liege="k_hungary"
+#liege="k_hungary"
 #law = agnatic_succession
 #law = succ_seniority
 }
@@ -117,7 +117,7 @@ holder=93752
 }
 1241.1.1=
 {
-liege="e_golden_horde"
+#liege="e_golden_horde"
 }
 1276.1.1=
 {
@@ -129,6 +129,6 @@ liege=0
 }
 1315.1.1=
 {
-liege="k_hungary"
+#liege="k_hungary"
 holder=470040
 }

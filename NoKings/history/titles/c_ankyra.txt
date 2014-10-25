@@ -14,7 +14,7 @@
 #Seljuks
 1077.1.1=
 {
-	liege="k_rum"
+#	liege="k_rum"
 	holder = 3046
 }
 1086.1.1=
@@ -88,7 +88,7 @@
 }
 1299.1.1=
 {
-	liege="k_ottoman"
+#	liege="k_ottoman"
 }
 1321.1.1=
 {

@@ -33,7 +33,7 @@ holder=219999
 }
 1165.1.1=
 {
-liege="k_venice"
+#liege="k_venice"
 }
 1183.9.24=
 {
@@ -53,7 +53,7 @@ holder=32605
 }
 1202.1.1=
 {
-liege="k_venice"
+#liege="k_venice"
 }
 1238.1.1=
 {

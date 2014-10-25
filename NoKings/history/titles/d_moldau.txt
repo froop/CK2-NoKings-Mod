@@ -1,5 +1,5 @@
 632.1.1={
-	liege="k_bulgaria"
+#	liege="k_bulgaria"
 	holder=159117
 }
 665.1.1={
@@ -56,7 +56,7 @@
 
 1171.1.1=
 {
-	liege="k_cuman"
+#	liege="k_cuman"
 	holder=34826
 }
 1190.1.1=
@@ -69,7 +69,7 @@
 }
 1238.1.1=
 {
-	liege="e_golden_horde"
+#	liege="e_golden_horde"
 	holder=125516
 }
 1265.1.2=

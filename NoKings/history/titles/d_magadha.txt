@@ -1,6 +1,6 @@
 490.1.1={
 	holder = 191088	#Krisnagupta
-	liege = k_bihar
+#	liege = k_bihar
 }
 500.1.1={
 	holder = 191089 #Harsagupta
@@ -40,7 +40,7 @@
 }
 1020.1.1= {
 	holder = 191070 #Vallabharaja
-	liege = k_bengal
+#	liege = k_bengal
 }
 1077.1.1= {
 	holder = 191071 #Devaraksita
@@ -48,11 +48,11 @@
 }
 1079.1.1= {
 	holder = 191072 #Bhimayasa
-	liege = k_bihar
+#	liege = k_bihar
 }
 1168.1.1={
 	holder = 191390 #Pratapadhawala Khayarwala
-	liege = k_kosala
+#	liege = k_kosala
 }
 1185.1.1={
 	holder = 191391 #Sahasadhawala Khayarwala
@@ -65,7 +65,7 @@
 }
 1203.10.1={
 	holder = 170252 #Muhammad Bakhtiyar
-	liege = k_bihar
+#	liege = k_bihar
 }
 1206.1.1={
 	holder = 170253 #Muhammad Shiran

@@ -1,6 +1,6 @@
 196.1.1=
 {
-liege="e_byzantium"
+#liege="e_byzantium"
 }
 324.9.19={
 	holder=70523
@@ -293,7 +293,7 @@ holder=125710
 }
 1204.5.16=
 {
-liege="e_latin_empire"
+#liege="e_latin_empire"
 }
 1204.5.16={
 holder=205523 #Baudouin I van Vlaanderen
@@ -320,7 +320,7 @@ holder=91068 #Baudouin II de Courtenay
 # switch liege back to d_thrace
 1261.7.25=
 {
-liege="e_byzantium"
+#liege="e_byzantium"
 }
 1261.7.25=
 {

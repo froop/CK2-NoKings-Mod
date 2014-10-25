@@ -1,6 +1,6 @@
 858.1.1= {
 	holder = 190107 #Kaivarta
-	liege=k_bengal
+#	liege=k_bengal
 }
 887.1.1= {
 	holder = 190108 #Bhutapala

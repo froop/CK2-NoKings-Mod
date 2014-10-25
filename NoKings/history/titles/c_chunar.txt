@@ -37,7 +37,7 @@
 	liege=d_kasi
 }
 882.1.1={
-	liege=k_gujarat
+#	liege=k_gujarat
 }
 902.1.1= {
 	holder = 190113 #Manava
@@ -74,10 +74,10 @@
 }
 1193.1.1={
 	holder = 170190 #Battle of Chandwar
-	liege=k_delhi
+#	liege=k_delhi
 }
 1206.3.15={
-	liege=e_rajastan
+#	liege=e_rajastan
 }
 1210.11.4={
 	holder = 170191 #Aram

@@ -5,7 +5,7 @@
 	holder=145856
 }
 831.9.1={	
-	liege = "k_africa"
+#	liege = "k_africa"
 }
 864.1.1={
 	holder = 163096

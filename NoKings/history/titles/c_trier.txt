@@ -2,7 +2,7 @@
 	holder = 190570 #Wermad
 }
 769.1.1 = {
-	liege = k_france
+#	liege = k_france
 }
 814.1.2 = {
 	holder = 0

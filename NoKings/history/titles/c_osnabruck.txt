@@ -60,7 +60,7 @@ holder=231042 #Arnold von Berg
 }
 1180.9.16=
 {
-	liege="e_hre"
+#	liege="e_hre"
 }
 1190.12.15=
 {

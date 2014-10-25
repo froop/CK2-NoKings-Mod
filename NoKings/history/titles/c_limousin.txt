@@ -1,9 +1,9 @@
 750.1.1 = {
-	liege="k_lotharingia"
+#	liege="k_lotharingia"
 	holder = 91490 #VULFARD, historical placeholder
 }
 864.1.1={
-	liege = "k_aquitaine"
+#	liege = "k_aquitaine"
 	holder = 168055
 }
 879.1.1=

@@ -1,6 +1,6 @@
 750.1.1={
 	holder=191518 #Bhars
-	liege=k_kosala
+#	liege=k_kosala
 }
 828.1.1= {
 	holder = 190110 #Ajaka
@@ -13,14 +13,14 @@
 }#910 return to rajastan
 1046.1.1 = {
 	holder = 190215 #Mahitala Gahadvala
-	liege = k_gondwana
+#	liege = k_gondwana
 }
 1085.1.1= {
 	holder = 190216 #Candradeva Gahadvala
 	liege = 0
 }
 1089.1.1={
-	liege = k_kosala
+#	liege = k_kosala
 }
 1104.1.1= {
 	holder = 190217 #Madanacandra Gahadvala

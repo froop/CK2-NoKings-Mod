@@ -38,7 +38,7 @@
 	holder=188592 # Azkajawar II
 }
 712.1.1={
-	liege=e_arabia # Arab conquest
+#	liege=e_arabia # Arab conquest
 	holder=188593 # Askajamuk II
 }
 740.1.1={
@@ -71,7 +71,7 @@
 }
 
 1041.1.1={
-	liege="k_khiva"
+#	liege="k_khiva"
 	holder = 3012
 }
 1052.1.1={

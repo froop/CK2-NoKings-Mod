@@ -1,5 +1,5 @@
 745.1.1={
-	liege = k_gujarat
+#	liege = k_gujarat
 	holder = 188063 # Vanaraja Capa
 }
 780.1.1={
@@ -79,5 +79,5 @@
 	holder = 188163 # Karnadeva
 }
 1304.1.1={
-	liege = k_delhi
+#	liege = k_delhi
 }

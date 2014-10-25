@@ -1,5 +1,5 @@
 755.1.1={
-	liege = e_arabia
+#	liege = e_arabia
 	holder = 160290 # Surkhab Bavand II
 }
 
@@ -35,7 +35,7 @@
 1054.1.1=
 {
 	holder=20722
-	liege="k_persia"
+#	liege="k_persia"
 }
 1071.1.1=
 {
@@ -83,7 +83,7 @@
 }
 1194.3.1=
 {
-	liege="k_persia"
+#	liege="k_persia"
 }
 1195.1.1=
 {
@@ -107,7 +107,7 @@
 }
 1230.1.1=
 {
-	liege="e_il-khanate"
+#	liege="e_il-khanate"
 }
 1230.1.1=
 {

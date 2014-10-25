@@ -1,6 +1,6 @@
 810.1.1={
 	holder=70300 # Aznar I de Aragón
-	liege=k_aquitaine
+#	liege=k_aquitaine
 	de_jure_liege=k_aquitaine
 }
 820.1.1={
@@ -14,7 +14,7 @@
 }
 867.1.1={
 	holder=70276 # Aznar II de Aragón
-	liege=k_navarra
+#	liege=k_navarra
 }
 893.1.1={
 	holder=70274 # Galindo III de Aragón

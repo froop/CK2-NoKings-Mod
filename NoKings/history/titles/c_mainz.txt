@@ -1,15 +1,15 @@
 754.1.1={
-	liege=k_france
+#	liege=k_france
 }
 754.1.1={
 	holder = 190565 #Lullus
 }
 856.2.4={
-	liege=k_germany
+#	liege=k_germany
 	holder=90098
 }
 856.2.4={
-	liege=k_germany
+#	liege=k_germany
 	holder=90098
 }
 863.6.4={

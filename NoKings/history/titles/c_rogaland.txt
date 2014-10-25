@@ -9,7 +9,7 @@
 }
 1020.1.1=
 {
-liege="k_norway"
+#liege="k_norway"
 }
 1020.1.1=
 {

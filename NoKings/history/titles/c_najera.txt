@@ -1,6 +1,6 @@
 705.1.1={
 	holder=73808 # Qasi banu Qasi
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 723.1.1={
 	holder=73809 # Fortun ibn Qasi banu Qasi
@@ -13,14 +13,14 @@
 }
 802.12.1={
 	holder=73812 # Musa ibn Musa banu Qasi
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 852.9.22={
 	liege=d_zaragoza
 }
 862.9.26={
 	holder=73813 # Lubb ibn Musa banu Qasi
-	liege=k_andalusia
+#	liege=k_andalusia
 }
 875.4.27={
 	holder=73815 # Muhammad ibn Musa banu Qasi
@@ -39,7 +39,7 @@
 }
 923.1.1={
 	holder=70122 # Antso I Ximena
-	liege=k_navarra
+#	liege=k_navarra
 }
 925.12.11={
 	holder=70123 # Gartzia III Ximena
@@ -61,7 +61,7 @@
 }
 1076.6.4={
 	holder=106050 # García Ordoñez de Aza
-	liege=k_castille
+#	liege=k_castille
 }
 1108.5.30={
 	holder=71364 # García Garcés de Aza
@@ -71,11 +71,11 @@
 }
 1163.1.1={
 	holder=206500 # Antso VI Ximena
-	liege=k_navarra
+#	liege=k_navarra
 }
 1179.4.15={
 	holder=71987 # Diego Jiménez de los Cameros
-	liege=k_castille
+#	liege=k_castille
 }
 1184.10.9={
 	holder=71989 # Rodrigo Díaz de los Cameros
