@@ -2,6 +2,7 @@ CK2-NoKings-Mod
 ===============
 
 No Kings Mod for Crusader Kings II.
+
 Delete all titles of Kings and Emperors. So hierarchy top is Duke.
 
 国王と皇帝の称号を全て消して公爵以下だけにする Mod。
@@ -34,12 +35,12 @@ C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod
 
 CK2 の history/titles 定義ファイルを下記手順で書き換え。本体のバージョンアップ時に再作成が必要かもしれない。
 
-1. 元定義ファイルを CK2 本体のインストール先フォルダから mod フォルダへコピー
+### 元定義ファイルを CK2 本体のインストール先フォルダから mod フォルダへコピー
 
-From: C:\Program Files (x86)\Steam\SteamApps\common\Crusader Kings II\history\titles
-To: C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod\NoKings\history\titles
+* From: C:\Program Files (x86)\Steam\SteamApps\common\Crusader Kings II\history\titles
+* To: C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod\NoKings\history\titles
 
-2. 定義ファイルを書き換え
+### 定義ファイルを書き換え
 下記は Unix 用のシェルコマンドなので Cygwin (または Unix 系 OS) 上で実行。
 
 ```shell-session:
@@ -53,7 +54,7 @@ rm k_*.txt e_*.txt
 find *.txt | xargs sed -b -i "s/^\(\s*\bliege\s*=\s*\"\?[ek]_[a-z]\+\"\?\)/#\1/g"
 ```
 
-3. Mod ランチャーファイルを設置
+### ランチャーファイルを設置
 場所: C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod\NoKings.mod
 
 ```text:
