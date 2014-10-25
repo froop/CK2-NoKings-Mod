@@ -42,22 +42,26 @@ To: C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod\NoKing
 2. 定義ファイルを書き換え
 下記は Unix 用のシェルコマンドなので Cygwin (または Unix 系 OS) 上で実行。
 
-	# Mod の titles ディレクトリへ移動
-	cd "Paradox Interactive/Crusader Kings II/mod/NoKings/history/titles"
-	
-	# 国王と皇帝の称号定義ファイルを全て削除
-	rm k_*.txt e_*.txt
-	
-	# 公爵以下の称号定義ファイル内の liege 定義を全てコメントアウト
-	find *.txt | xargs sed -b -i "s/^\(\s*\bliege\s*=\s*\"\?[ek]_[a-z]\+\"\?\)/#\1/g"
+```shell-session:
+# Mod の titles ディレクトリへ移動
+cd "Paradox Interactive/Crusader Kings II/mod/NoKings/history/titles"
+
+# 国王と皇帝の称号定義ファイルを全て削除
+rm k_*.txt e_*.txt
+
+# 公爵以下の称号定義ファイル内の liege 定義を全てコメントアウト
+find *.txt | xargs sed -b -i "s/^\(\s*\bliege\s*=\s*\"\?[ek]_[a-z]\+\"\?\)/#\1/g"
+```
 
 3. Mod ランチャーファイルを設置
 場所: C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod\NoKings.mod
 
-	name = "NoKings"
-	path = "mod/NoKings"
-	user_dir = "NoKings"
-	replace_path = "history/titles"
+```text:
+name = "NoKings"
+path = "mod/NoKings"
+user_dir = "NoKings"
+replace_path = "history/titles"
+```
 
 
 参考
