@@ -53,13 +53,13 @@ CK2 の history/titles 定義ファイルを下記手順で書き換え。本体
 
 ```shell-session:
 # Mod の titles ディレクトリへ移動
-cd "Paradox Interactive/Crusader Kings II/mod/NoKings/history/titles"
+cd "C:/Users/username/Documents/Paradox Interactive/Crusader Kings II/mod/NoKings/history/titles"
 
 # 国王と皇帝の称号定義ファイルを全て削除
 rm k_*.txt e_*.txt
 
 # 公爵以下の称号定義ファイル内の liege 定義を全てコメントアウト
-find *.txt | xargs sed -b -i "s/^\(\s*\bliege\s*=\s*\"\?[ek]_[a-z]\+\"\?\)/#\1/g"
+find *.txt | xargs sed -r -b -i 's/^(\s*\bliege\s*=\s*"?[ek]_[a-z]+"?)/#\1/g'
 ```
 
 ### ランチャーファイルを設置
