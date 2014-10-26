@@ -11,6 +11,14 @@ Delete all titles of Kings and Emperors. So hierarchy top is Duke.
 国王以上がいないのは開始時のみで、新たに創設することは可能。
 
 
+Screenshot
+----------------------------------------
+
+開始直後のマップ。神聖ローマやビザンツなどの帝国、英仏やハンガリーなどの王国がバラバラになっています。
+
+![Screenshot](ReadmeImage/Screenshot.png)
+
+
 動作環境
 ----------------------------------------
 
