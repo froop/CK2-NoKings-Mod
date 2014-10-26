@@ -1,9 +1,10 @@
 CK2-NoKings-Mod
 ===============
 
-No Kings Mod for Crusader Kings II.
+No Kings Mod for [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2)
+by [froop](https://github.com/froop/).
 
-Delete all titles of Kings and Emperors. So hierarchy top is Duke.
+This mod delete all titles of Kings and Emperors from vanilla. So hierarchy top is Duke.
 
 国王と皇帝の称号を全て消して公爵以下だけにする Mod。
 独立公爵の時が一番楽しい気がするのに、中央は大国ばかりで独立が辛いので。
@@ -26,19 +27,24 @@ Screenshot
 * Windows 8.1
 
 
-使用方法
+使い方
 ----------------------------------------
 
-CK2 の Mod 用フォルダに当プロジェクトのフォルダ・ファイルをコピー後、
-CK2 のランチャーを起動して、Mod タブから「NoKings」をチェックして Play。
+### GitHub からダウンロード
+
+https://github.com/froop/CK2-NoKings-Mod/releases
+
+### CK2 の Mod 用フォルダに当プロジェクトのファイルをコピー
 
 C:\Users\username\Documents\Paradox Interactive\Crusader Kings II\mod
 
 * NoKings フォルダ
 * NoKings.mod ファイル
 
+### CK2 のランチャーを起動して、Mod タブから「NoKings」をチェックして Play
 
-作成方法メモ
+
+作り方メモ
 ----------------------------------------
 
 CK2 の history/titles 定義ファイルを下記手順で書き換え。本体のバージョンアップ時に再作成が必要かもしれない。
