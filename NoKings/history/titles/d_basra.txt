@@ -1,12 +1,16 @@
 866.1.1={
-#	liege = "e_arabia"
+	
+#liege = "e_arabia"
+
 }
 866.1.1={
 	holder = 34017
 }
 978.1.1=
 {
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 }
 1066.1.1=
 {
@@ -82,7 +86,9 @@
 }
 1258.2.20=
 {
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 }
 1258.2.20=
 {

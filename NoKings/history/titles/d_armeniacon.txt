@@ -1,5 +1,7 @@
 330.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 763.1.1={
@@ -23,7 +25,9 @@
 #To Seljuks
 1077.1.1=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	vice_royalty = no
 	holder=3046
 }
@@ -33,7 +37,9 @@
 }
 1097.6.19=
 {
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 	holder=34338
 }
@@ -51,13 +57,17 @@
 }
 1204.4.1=
 {
-#	liege="k_trebizond"
+	
+#liege="k_trebizond"
+
 	vice_royalty = no
 	holder=215519
 }
 1211.1.1=
 {
-#	liege="k_rum" 
+	
+#liege="k_rum"
+ 
 	holder=71860
 }
 1227.1.1=
@@ -78,7 +88,9 @@
 } 
 1309.1.1=
 {
-#	liege="k_candar"
+	
+#liege="k_candar"
+
 	holder=476350
 }
 1314.1.1=

@@ -4,7 +4,9 @@
 }
 800.1.1={
 	holder=73681 # al-Hakam Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 822.5.21={
 	holder=73682 # Abd ar-Rahman II Umayyad
@@ -18,14 +20,18 @@
 }
 890.1.1={
 	holder=70019 # Alfonso III de Cantabria
-#        liege=k_asturias
+        
+#liege=k_asturias
+
 }
 900.1.1={
 	holder=70020 # García I de Cantabria
 	liege=d_leon
 }
 910.12.20={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 914.1.19={
 	holder=70021 # Ordoño II de León
@@ -59,15 +65,21 @@
 	holder=107510 # Fernando Sánchez Jimena
 }
 1037.9.4={
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1065.12.27={
 	holder=107640 # Pedro Ansúrez
-#	liege=k_leon
+	
+#liege=k_leon
+
 	law = true_cognatic_succession
 }
 1072.10.7={
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1093.12.8={
 	holder=107644 # Mayor Pérez

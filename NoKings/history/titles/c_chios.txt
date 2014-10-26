@@ -11,7 +11,9 @@
 	holder=20518
 }
 1081.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 1090.1.1={
 	liege="d_samos"
@@ -21,7 +23,9 @@
 	holder=34264
 }
 1093.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	holder=20518
 }
 1095.1.1={
@@ -37,7 +41,9 @@
 	holder=34276
 }
 1081.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 1095.1.1={
 	liege="d_samos"
@@ -49,7 +55,9 @@
 	holder=215000
 }
 1204.5.16={
-#	liege="e_latin_empire"
+	
+#liege="e_latin_empire"
+
 	holder=205523
 }
 1205.6.21={
@@ -78,6 +86,8 @@
 	holder=31463
 }
 1329.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	holder=465500
 }

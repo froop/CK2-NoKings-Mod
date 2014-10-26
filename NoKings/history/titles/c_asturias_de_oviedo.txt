@@ -1,6 +1,8 @@
 718.1.1={
 	holder=70000 # Pelayo Fafilaz de Asturias
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 737.1.1={
 	holder=70115 # Favila Páez de Asturias
@@ -40,10 +42,14 @@
 	liege=d_asturias
 }
 910.12.22={
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 924.1.1={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 925.7.1={
 	holder=70064 # Alfonso Froilaz de Cantabria
@@ -51,7 +57,9 @@
 }
 926.1.1={
 	holder=70023 # Alfonso IV de León
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 931.6.1={
 	holder=70024 # Ramiro II de León

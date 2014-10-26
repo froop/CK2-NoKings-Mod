@@ -32,7 +32,9 @@
 	holder = 190091 #Nayapala Kamboja Pala
 }
 1026.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1040.1.1={
 	holder = 191078 #Narasimharjjuna
@@ -57,7 +59,9 @@
 }
 1203.10.1={
 	holder = 170252 #Muhammad Bakhtiyar
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1206.1.1={
 	holder = 170253 #Muhammad Shiran
@@ -128,5 +132,7 @@
 }
 1322.1.1={
 	holder = 170278 #Ghiyasuddin Bahadur
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }

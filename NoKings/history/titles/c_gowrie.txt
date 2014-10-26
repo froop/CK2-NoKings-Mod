@@ -39,7 +39,9 @@
 	holder = 166607
 }
 839.1.1={
-#	liege="k_scotland"
+	
+#liege="k_scotland"
+
 }
 843.1.1={
 	holder = 6018

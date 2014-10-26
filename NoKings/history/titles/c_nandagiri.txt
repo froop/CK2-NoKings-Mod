@@ -114,5 +114,7 @@
 	holder = 74584
 }
 1291.1.1={
-#	liege = k_karnata
+	
+#liege = k_karnata
+
 }

@@ -3,7 +3,9 @@
 }
 858.1.1= {
 	holder = 190109 #Ladahachandra (fictional ruler of Jharkand)
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }
 879.1.1= {
 	holder = 190107 #Kaivarta
@@ -13,7 +15,9 @@
 }#918 return to Pala
 1040.1.1= {
 	holder = 190116 #Salisuka (fictional ruler of Gurgi)
-#	liege=k_gondwana
+	
+#liege=k_gondwana
+
 }
 1081.1.1= {
 	holder = 190211 #Gayakarna Cedi

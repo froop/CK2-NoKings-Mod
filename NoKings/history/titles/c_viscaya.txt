@@ -1,6 +1,8 @@
 745.1.1={
 	holder=200061 # Obeko de Álava
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 770.1.1={
 	holder=70006 # Alfonso II de Asturias
@@ -16,13 +18,17 @@
 	liege=d_castilla
 }
 885.1.1={
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 897.1.1={
 	holder=200071 # Gonzalo Téllez
 }
 910.12.20={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 921.1.1={
 	holder=200074 # Fernando Díaz de Castilla
@@ -51,14 +57,18 @@
 }
 1029.5.13={
 	holder=106030 # Antso III Ximena
-#	liege=k_navarra
+	
+#liege=k_navarra
+
 }
 1035.10.18={
 	holder=106010 # Gartzia V Ximena
 }
 1040.1.1={
 	holder=107520 # Iñigo López de Haro
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1077.1.1={
 	holder=107523 # Lope Íñiguez de Haro

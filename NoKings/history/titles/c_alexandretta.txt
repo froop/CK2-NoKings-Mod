@@ -17,7 +17,9 @@
 	holder=159730
 }
 966.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 969.1.1={
 	liege="d_antioch"

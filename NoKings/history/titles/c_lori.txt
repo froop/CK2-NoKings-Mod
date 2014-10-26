@@ -55,7 +55,9 @@ holder=41336
 	holder = 225025
 }
 1191.1.1={
-#	liege="k_georgia"
+	
+#liege="k_georgia"
+
 	holder = 232758
 }
 1200.1.1={

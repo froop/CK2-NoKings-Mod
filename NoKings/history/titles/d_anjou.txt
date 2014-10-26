@@ -1,5 +1,7 @@
 853.1.1={ #March of Neustria
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 6440 #Robert le fort
 	#law=succ_primogeniture
 	#law=cognatic_succession
@@ -42,7 +44,9 @@
 	holder = 204506 #Geoffroy V le Bel
 }
 1151.9.7={
-#	liege="k_england"
+	
+#liege="k_england"
+
 	holder=204500 #Henri I Courtmanteau
 }
 1189.7.6={
@@ -52,7 +56,9 @@
 	holder = 204505 #Arthur I de Bretagne
 }
 1203.1.1 = {
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder=205506 # Philippe II Auguste
 }
 1223.7.14={

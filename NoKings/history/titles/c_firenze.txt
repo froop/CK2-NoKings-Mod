@@ -163,7 +163,9 @@
 }
 1197.9.28 = {
 	holder=73406
-#	liege=e_hre
+	
+#liege=e_hre
+
 }
 1205.1.1 = {
 	holder=73407
@@ -180,7 +182,9 @@
 }
 1260.1.1 = {
 	holder=7636
-#	liege=k_sicily
+	
+#liege=k_sicily
+
 }
 1266.2.26 = {
 	holder=455406
@@ -194,7 +198,9 @@
 }
 1313.1.1 = {
 	holder=461700
-#	liege=k_naples
+	
+#liege=k_naples
+
 }
 1322.1.1 = {
 	holder=73413

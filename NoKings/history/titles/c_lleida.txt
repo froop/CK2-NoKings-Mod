@@ -13,7 +13,9 @@
 }
 875.4.27={
 	holder=73818 # Isma'il Qasid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 882.1.1={
 	holder=73815 # Muhammad Qasid
@@ -57,14 +59,18 @@
 }
 1099.1.1={
 	holder=73182 # Muhammad Hayyid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1110.5.31={
 	liege=d_zaragoza
 }
 1115.1.1={
 	holder=73183 # Tifilwit Tifilwitid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1118.12.18={
 	holder=73246 # Muhammad Musavid
@@ -80,7 +86,9 @@
 	holder=71643 # Ramon Berenguer de Barcelona
 }
 1164.1.1={
-#	liege=k_aragon
+	
+#liege=k_aragon
+
 }
 1212.1.1={
 	holder=71604 # Guillem de Cardona

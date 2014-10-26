@@ -51,11 +51,15 @@
 }
 1144.1.1={
 	holder = 190023 #Madanapala Pala
-#	liege = k_bihar
+	
+#liege = k_bihar
+
 }
 1155.1.1={
 	holder = 154002 #Vijay Sena
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena

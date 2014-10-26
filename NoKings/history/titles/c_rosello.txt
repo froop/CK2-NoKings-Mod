@@ -70,7 +70,9 @@
 	holder=72121 # Gerard II d'Empuries
 }
 1164.1.1={
-#	liege=k_aragon
+	
+#liege=k_aragon
+
 }
 1172.1.1={
 	holder=210500 # Alfons II de Barcelona

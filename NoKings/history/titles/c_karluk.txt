@@ -67,7 +67,9 @@
 	holder=188857 # Muhammad
 }
 1220.2.1={
-#	liege="e_mongol_empire"
+	
+#liege="e_mongol_empire"
+
 	holder = 125501
 }
 1227.12.2=

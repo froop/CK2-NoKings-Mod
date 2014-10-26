@@ -76,7 +76,9 @@
 	holder=102537
 }
 1064.1.1={
+
 #liege="k_norway"
+
 #law = agnatic_succession
 #law = succ_seniority
 }

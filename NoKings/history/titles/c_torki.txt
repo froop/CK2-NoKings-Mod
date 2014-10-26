@@ -1,5 +1,7 @@
 764.1.1={
-#	liege = "k_magyar"
+	
+#liege = "k_magyar"
+
 	holder=146216
 }
 804.1.1={

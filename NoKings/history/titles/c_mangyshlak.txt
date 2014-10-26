@@ -46,14 +46,18 @@
 }
 1221.1.1=
 {
-#	liege="e_mongol_empire"
+	
+#liege="e_mongol_empire"
+
 }
 1221.1.1=
 {
 	holder=93100
 }
 1227.12.2={
-#	liege="e_golden_horde"
+	
+#liege="e_golden_horde"
+
 }
 1260.1.1=
 {

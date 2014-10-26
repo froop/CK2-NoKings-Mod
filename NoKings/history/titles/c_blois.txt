@@ -1,9 +1,13 @@
 750.1.1={
-#	liege="k_lotharingia"
+	
+#liege="k_lotharingia"
+
 	holder = 91481 #ENGELGER, historical placeholder
 }
 834.1.1={
-#	liege=k_france
+	
+#liege=k_france
+
 	holder=163065
 }
 1037.11.15 = {

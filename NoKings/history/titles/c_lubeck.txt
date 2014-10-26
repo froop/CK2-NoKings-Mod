@@ -49,7 +49,9 @@ holder=168583
 	holder=31785 #Bernhard I von Badewide
 }
 1168.1.1={
-#	liege="k_denmark"
+	
+#liege="k_denmark"
+
 }
 1190.1.2={
 	holder=31788 #Bernhard II von Badewide
@@ -68,7 +70,9 @@ holder=168583
 }
 1227.1.1=
 {
-#	liege="k_hansa"
+	
+#liege="k_hansa"
+
 }
 1227.1.1=
 {

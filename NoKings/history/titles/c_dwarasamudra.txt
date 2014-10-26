@@ -54,7 +54,9 @@
 	holder = 74577
 }
 1120.1.1={
-#	liege = k_karnata
+	
+#liege = k_karnata
+
 }
 1141.1.1={
 	holder = 74578

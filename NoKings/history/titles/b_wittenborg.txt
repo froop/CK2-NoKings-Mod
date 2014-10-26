@@ -1,6 +1,8 @@
 1227.1.1 = {
 	holding_dynasty = 9514  #Wittenborg - makes this a FAMILY_PALACE type Holding
-#	liege="k_hansa"
+	
+#liege="k_hansa"
+
 	holder=167251 #Udo Wittenborg
 }
 1230.1.1=

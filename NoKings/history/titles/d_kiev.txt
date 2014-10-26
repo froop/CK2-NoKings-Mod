@@ -166,7 +166,9 @@ holder=222588
 holder=125154
 }
 1239.3.3={
+
 #liege="e_golden_horde"
+
 }
 1240.1.2={
 holder=125114

@@ -1,5 +1,7 @@
 654.1.1={
-#	liege=k_khazaria
+	
+#liege=k_khazaria
+
 	holder=74004
 }
 662.1.1= {
@@ -68,7 +70,9 @@
 }	
 1066.1.1=
 {
+
 #liege="k_cuman"
+
 }
 1066.1.1=
 {
@@ -96,7 +100,9 @@ holder=34884
 }
 1238.1.1=
 {
+
 #liege="e_golden_horde"
+
 holder=34885
 }
 1270.1.1=

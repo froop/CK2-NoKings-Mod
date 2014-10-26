@@ -6,7 +6,9 @@
 	holder = 190107 #Kaivarta
 }
 858.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 887.1.1= {
 	holder = 190108 #Bhutapala
@@ -15,7 +17,9 @@
 	holder = 190116 #Salisuka
 }
 1032.1.1= {
-#	liege=k_gondwana
+	
+#liege=k_gondwana
+
 }
 1077.1.1= {
 	holder = 190211 #Gayakarna Cedi
@@ -39,7 +43,9 @@
 }
 1240.1.1={
 	holder = 170267 #Tughral Tughan Khan
-#	liege = k_bihar
+	
+#liege = k_bihar
+
 }
 1246.1.1={
 	holder = 170268 #Tughlaq Tamar Khan
@@ -76,7 +82,9 @@
 	liege=d_magadha
 }
 1300.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1322.1.1={
 	holder = 170278 #Ghiyasuddin Bahadur

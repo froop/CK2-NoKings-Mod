@@ -1,6 +1,8 @@
 543.1.1={
 	holder=74721
-#	liege=k_maharastra
+	
+#liege=k_maharastra
+
 }
 566.1.1={
 	holder=74720
@@ -84,7 +86,9 @@
 	holder = 74440
 }
 1042.1.1={
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 	holder = 74441
 }
 1068.1.1={

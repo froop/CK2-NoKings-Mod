@@ -53,7 +53,9 @@ holder=212360 #Adolf III
 }
 1180.9.16=
 {
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1202.1.1=
 {

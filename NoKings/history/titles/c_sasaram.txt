@@ -10,7 +10,9 @@
 	holder = 190113 #Manava
 }
 902.1.1={
-#	liege=k_gujarat
+	
+#liege=k_gujarat
+
 }#910 return to rajastan
 1046.1.1= {
 	holder = 191393 #Kamalapala Singara
@@ -34,10 +36,14 @@
 }
 1193.1.1={
 	holder = 170190 #Battle of Chandwar - Granted to Muhammad Bakhtiyar, of later Bengali fame
-#	liege=k_delhi
+	
+#liege=k_delhi
+
 }
 1206.3.15={
-#	liege=e_rajastan
+	
+#liege=e_rajastan
+
 }
 1210.11.4={
 	holder = 170191 #Aram

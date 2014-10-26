@@ -22,7 +22,9 @@
 }
 1158.1.1=
 {
-#	liege="k_sweden" # Erik the Holy's crusade
+	
+#liege="k_sweden"
+ # Erik the Holy's crusade
 	holder=200017
 }
 1200.1.1={

@@ -47,7 +47,9 @@
 	holder=215025
 }
 1230.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 1240.1.1=
 {
@@ -60,7 +62,9 @@
 	holder = 144539
 }
 1250.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 }
 1250.1.1={
 	holder=34393

@@ -1,6 +1,8 @@
 757.1.1={
 	holder=200041 # Yusuf Yusufid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 777.1.1={
 	holder=73679 # Abd al-Rahman I Umayyad
@@ -19,13 +21,17 @@
 }
 867.1.1={
 	holder=73869 # Alfonso Betótez
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 895.1.1={
 	holder=73870 # Gonzalo Alfonsez Betótez
 }
 910.12.20={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 929.1.1={
 	holder=70242 # Pelayo Betótez
@@ -49,7 +55,9 @@
 	holder=107510 # Fernando I Jimena
 }
 1037.9.4={
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1065.12.27={
 	holder=107500 # Sancho II Jimena

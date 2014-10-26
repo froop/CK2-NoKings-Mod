@@ -1,6 +1,8 @@
 #Rollonids
 911.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 242 #Rollo AKA Hrolfr Gange
 	#law = agnatic_succession
 	#law = succ_primogeniture
@@ -24,7 +26,9 @@
 	holder=140 #Guillaume II le Conquérant
 }
 1066.10.14={
-#	liege="k_england"
+	
+#liege="k_england"
+
 }
 1087.9.9={
 	holder = 142 #Robert Courteheuse
@@ -54,7 +58,9 @@
 
 #Direct Capetians
 1204.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder=205506 # Philippe II Auguste
 }
 1223.7.14={

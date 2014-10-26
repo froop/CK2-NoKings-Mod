@@ -1,6 +1,8 @@
 745.1.1={
 	holder=200058 # Luifredo de Suevonia
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 770.1.1={
 	holder=70012 # Aurelio Froilaz de Cantabria
@@ -34,7 +36,9 @@
 	liege=d_galicia
 }
 910.12.20={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 920.1.1={
 	holder=73871 # Guterre Hermenegildes II
@@ -43,7 +47,9 @@
 	liege=d_galicia
 }
 929.6.10={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 934.1.1={
 	holder=73891 # Monio Guterres
@@ -75,7 +81,9 @@
 
 1126.3.8={
 	holder=232021 # Diego Gelmirez
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 1140.1.1={
 	holder=458004 # Berenguel

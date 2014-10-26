@@ -21,7 +21,9 @@
 }
 1080.1.1=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	holder=3046
 }
 1086.1.1=
@@ -51,7 +53,9 @@
 }
 1212.1.1=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	holder=34188
 }
 1220.1.1=

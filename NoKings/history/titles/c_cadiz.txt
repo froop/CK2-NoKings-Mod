@@ -4,14 +4,18 @@
 }
 796.6.12={
 	holder=73681 # al-Hakam I Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 822.5.21={
 	holder=73682 # Abd al-Rahman II Umayyad
 }
 850.1.1={
 	holder=73941 # Attab Nasrid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 910.1.1={
 	holder=73685 # Abdallah Umayyad
@@ -61,7 +65,9 @@
 }
 1091.1.1={
 	holder=73222 # Sir Abu-Bakrid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1114.1.1={
 	holder=73206 # Ali Yusufid
@@ -88,7 +94,9 @@
 }
 1264.1.1={
 	holder=73131 # Nuño Guillén de Guzmán
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1280.1.1={
 	holder=73133 # Álvar Núñez de Guzmán

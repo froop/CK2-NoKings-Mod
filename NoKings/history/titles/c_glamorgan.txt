@@ -74,7 +74,9 @@
 	holder = 6376  #Iestyn ap Gwrgant
 }
 1090.1.1={
-#	liege=k_england
+	
+#liege=k_england
+
 }
 1090.1.1={
 	holder=138455 #Robert Fitzhamon

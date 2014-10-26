@@ -43,7 +43,9 @@
 	holder=34414
 }
 1204.5.16={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	holder=215674
 }
 1204.8.1={
@@ -59,7 +61,9 @@
 	holder=34620
 }
 1310.1.1={
-#	liege="k_ottoman"
+	
+#liege="k_ottoman"
+
 	holder=34226
 }
 1330.1.1={

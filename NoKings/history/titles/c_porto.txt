@@ -1,6 +1,8 @@
 765.1.1={
 	holder=200045 # Abd al-Rahman Abdalramanid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 791.1.1={
 	holder=73680 # Hisham I Umayyad
@@ -16,7 +18,9 @@
 }
 855.1.1={
 	holder=70017 # Ordoño I de Cantabria
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 867.1.1={
 	liege=d_porto
@@ -51,7 +55,9 @@
 }
 1071.1.18={
 	holder=109500 # Garcia II Jimena
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 1071.2.1={
 	holder=107500 # Sancho II Jimena
@@ -70,7 +76,9 @@
 	holder=209503 # Afonso I de Bourgogne
 }
 1139.7.29={
-#	liege=k_portugal
+	
+#liege=k_portugal
+
 }
 1185.12.6={
 	holder=209500 # Sancho I de Bourgogne

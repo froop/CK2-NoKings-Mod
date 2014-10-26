@@ -8,7 +8,9 @@
 	holder = 82323
 }
 830.1.1={
-#	liege = "k_moravia"
+	
+#liege = "k_moravia"
+
 }
 840.1.1={
 	holder = 82324
@@ -27,7 +29,9 @@
 }
 990.1.1=
 {
-#	liege="k_poland"
+	
+#liege="k_poland"
+
 }
 995.1.1={
 	holder = 82334

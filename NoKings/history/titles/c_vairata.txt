@@ -4,13 +4,17 @@
 }
 765.1.1={
 	holder = 191867 #Krishna
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 800.1.1={
 	holder = 191868 #Sankaragana
 }
 815.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 830.1.1={
 	holder = 191869 #Harsha
@@ -61,7 +65,9 @@
 	holder = 191839 #Malesi
 }
 1194.1.1={
-#	liege=e_rajastan
+	
+#liege=e_rajastan
+
 }
 1210.1.1={
 	holder = 191840 #Byala

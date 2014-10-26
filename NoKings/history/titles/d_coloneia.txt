@@ -1,12 +1,16 @@
 330.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 758.1.1={
 	holder=145852
 }
 844.1.1={
-#	liege="e_arabia"
+	
+#liege="e_arabia"
+
 	vice_royalty = no
 	holder=159724
 }
@@ -18,7 +22,9 @@
 }
 934.1.1=
 {
+
 #liege="e_byzantium"
+
 vice_royalty = yes
 }
 1060.1.1=
@@ -27,13 +33,17 @@ holder=41537
 }
 1071.8.26=
 {
+
 #liege="k_persia"
+
 vice_royalty = no
 holder=41704
 }
 1077.1.1=
 {
+
 #liege="k_rum"
+
 }
 1104.1.1=
 {
@@ -126,7 +136,9 @@ holder=215043
 }
 1307.1.1=
 {
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 	holder=93417
 }
 1335.1.1=

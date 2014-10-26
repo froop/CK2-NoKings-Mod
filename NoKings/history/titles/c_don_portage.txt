@@ -1,5 +1,7 @@
 691.1.1={
-#	liege="k_khazaria"
+	
+#liege="k_khazaria"
+
 	holder=74007
 }
 715.1.1={

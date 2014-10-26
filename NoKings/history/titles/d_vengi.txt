@@ -8,7 +8,9 @@
 }
 1054.1.1=
 {
-#	liege = "k_tamilakam"
+	
+#liege = "k_tamilakam"
+
 }
 1063.1.1=
 {
@@ -16,5 +18,7 @@
 }
 1189.1.1=
 {
-#	liege = "k_telingana"
+	
+#liege = "k_telingana"
+
 }

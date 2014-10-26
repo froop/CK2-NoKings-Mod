@@ -61,7 +61,9 @@
 	holder=50009 #Pasquitan
 }
 877.1.1={
-#	liege=k_brittany
+	
+#liege=k_brittany
+
 	holder=50008 #Alain I, the Great
 }
 907.1.1={

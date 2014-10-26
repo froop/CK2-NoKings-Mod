@@ -2,7 +2,9 @@
 	holder = 190097 #Biswajit
 }
 823.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 852.1.1= {
 	holder = 190098 #Satyajit
@@ -14,7 +16,9 @@
 	holder = 154000 #Samanta Sena
 }
 1020.1.1= {
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1071.1.1= {
 	holder = 154001 #Hemanta Sena

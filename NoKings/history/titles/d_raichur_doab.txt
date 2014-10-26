@@ -1,10 +1,14 @@
 1050.1.1={
 	holder = 74442
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1254.1.1={
 	holder = 74582
-#	liege = k_karnata
+	
+#liege = k_karnata
+
 }
 1273.1.1={
 	holder = 0

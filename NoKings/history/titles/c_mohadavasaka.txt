@@ -66,10 +66,14 @@
 }
 1300.1.1={
 	holder = 191906 #Dhavalma
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }
 1305.1.1={
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 1320.1.1={
 	holder = 191907 #Lunkaran

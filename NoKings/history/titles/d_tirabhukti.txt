@@ -2,7 +2,9 @@
 	holder = 190103 #Ajatashatru
 }
 846.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 870.1.1= {
 	holder = 190104 #Udayin

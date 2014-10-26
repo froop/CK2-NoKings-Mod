@@ -3,7 +3,9 @@
 	holder=159722
 }
 965.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 }
 1060.1.1=
@@ -16,7 +18,9 @@
 }
 1071.8.26=
 {
-#	liege = "k_persia" 
+	
+#liege = "k_persia"
+ 
 	vice_royalty = no
 }
 1071.8.26=
@@ -45,7 +49,9 @@
 }
 1178.1.1=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 }
 1185.1.1=
 {
@@ -70,7 +76,9 @@
 }
 1243.1.1=
 {
-#	liege="e_il-khanate" 
+	
+#liege="e_il-khanate"
+ 
 }
 1245.1.1=
 {

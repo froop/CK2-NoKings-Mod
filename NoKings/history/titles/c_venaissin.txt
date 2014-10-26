@@ -45,7 +45,9 @@ holder=32520
 }
 1274.1.1=
 {
+
 #liege="k_papal_state"
+
 holder=70785
 }
 1276.1.10=

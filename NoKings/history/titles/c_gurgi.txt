@@ -40,7 +40,9 @@
 	liege=d_kasi
 }
 882.1.1={
-#	liege=k_gujarat
+	
+#liege=k_gujarat
+
 }
 902.1.1= {
 	holder = 190113 #Manava
@@ -65,7 +67,9 @@
 	holder = 190116 #Dasaratha
 }
 1030.1.1= {
-#	liege=k_gondwana
+	
+#liege=k_gondwana
+
 }
 1079.1.1= {
 	holder = 190211 #Gayakarna Cedi

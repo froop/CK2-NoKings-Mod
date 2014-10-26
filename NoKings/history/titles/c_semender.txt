@@ -1,5 +1,7 @@
 654.1.1={
-#	liege = k_khazaria
+	
+#liege = k_khazaria
+
 	holder=74004
 }
 682.1.1={

@@ -52,7 +52,9 @@
 }
 1110.1.1={
 	holder = 189183 #Codaganga
-#	liege = k_orissa
+	
+#liege = k_orissa
+
 }
 1150.1.1={
 	holder = 191207 #Kamarnava

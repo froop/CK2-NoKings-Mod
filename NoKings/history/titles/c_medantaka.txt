@@ -32,10 +32,14 @@
 }
 800.1.1={
 	holder = 188006 # Nagabhata II
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 815.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 833.1.1={
 	holder = 188007 # Ramabhadra
@@ -49,7 +53,9 @@
 }
 885.1.1={
 	holder = 188009 # Mahendrapala I
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 910.1.1={
 	holder = 188010 # Bhoja II
@@ -152,7 +158,9 @@
 }
 1294.1.1={
 	holder = 170243 #Jalal ud din Firuz Khilji
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }
 1316.1.3={
 	holder = 170247 #Umar

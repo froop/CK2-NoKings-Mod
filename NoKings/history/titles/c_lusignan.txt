@@ -2,7 +2,9 @@
 	holder = 190478 #Boggis
 }
 678.1.1={
-#	liege=k_france
+	
+#liege=k_france
+
 }
 707.1.1={
 	holder = 190479 #Eudes
@@ -17,7 +19,9 @@
 	holder = 190481 #Waifar
 }
 744.1.1={
-#	liege=k_france
+	
+#liege=k_france
+
 }
 766.1.1={
 	liege=0
@@ -26,7 +30,9 @@
 	holder = 190480 #Hunoald
 }
 768.6.2={
-#	liege=k_france
+	
+#liege=k_france
+
 }
 852.1.1={
 	liege="d_poitou"
@@ -71,10 +77,14 @@
 	holder=138001 #Hugues X de Lusignan
 }
 1230.5.1={
-#	liege="k_england"
+	
+#liege="k_england"
+
 }
 1242.7.21={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1249.6.5={
 	holder=138011 #Hugues XI de Lusignan

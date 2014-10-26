@@ -100,7 +100,9 @@
 holder=223597
 }
 1187.1.1={
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1187.1.1={
 	holder=213008
@@ -120,7 +122,9 @@ holder=223597
 }
 1250.12.13={
 	holder = 30760 #Konrad IV von Hohenstaufen
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1254.1.1={
 	liege="d_lombardia"

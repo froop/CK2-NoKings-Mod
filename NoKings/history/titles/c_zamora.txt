@@ -1,6 +1,8 @@
 760.1.1={
 	holder=200031 # Musa Musavid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 790.1.1={
 	holder=73680 # Hisham I Umayyad
@@ -16,7 +18,9 @@
 }
 855.1.1={
 	holder=70017 # Ordoño I de Cantabria
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 866.5.27={
 	holder=73750 # Fruela Ordóñez de Cantabria
@@ -28,7 +32,9 @@
 	liege=d_leon
 }
 910.12.20={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 916.1.1={
 	holder=70021 # Ordoño II de León

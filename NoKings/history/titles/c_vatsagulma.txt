@@ -1,6 +1,8 @@
 720.1.1={
 	holder = 74410
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 735.1.1={
 	holder=74409	#Dantidurga Rashtrakuta
@@ -67,7 +69,9 @@
 #End of Ruler Placeholder until something better#
 1190.1.1={
 	holder = 74654
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1192.1.1={
 	holder = 74655

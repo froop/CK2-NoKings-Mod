@@ -29,17 +29,23 @@
 	holder=188329 #Majam-Rao
 }
 731.1.1={
-#	liege = k_rajputana
+	
+#liege = k_rajputana
+
 	holder=188330 #Kehar I
 }
 750.1.1={
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 806.1.1={
 	holder=188331 #Tano
 }
 815.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 821.1.1={
 	holder=188332 #Bijairai I
@@ -72,7 +78,9 @@
 	holder=188340 #Salivahan II
 }
 1192.1.1={
-# 	liege="k_sindh"
+ 	
+#liege="k_sindh"
+
 }
 1200.1.1={
 	holder=188341 #Bijal
@@ -93,7 +101,9 @@
 	holder=188346 #Mulraja
 }
 1326.1.1={
-#	liege="e_rajastan"
+	
+#liege="e_rajastan"
+
 }
 1330.1.1={
 	holder=188347 #Ratan

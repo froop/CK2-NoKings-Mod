@@ -94,5 +94,7 @@
 }
 1216.2.15={
 	holder = 93052
-#	liege=k_persia
+	
+#liege=k_persia
+
 }

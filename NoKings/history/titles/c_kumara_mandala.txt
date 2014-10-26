@@ -40,7 +40,9 @@
 }
 1050.1.1={
 	holder = 191077 #Govardhana
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }
 1081.1.1={
 	holder = 190074 #Harivarman Bangala Varman
@@ -54,7 +56,9 @@
 }
 1140.1.1={
 	holder = 154002 #Vijay Sena
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena

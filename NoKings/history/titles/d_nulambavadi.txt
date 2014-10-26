@@ -1,6 +1,8 @@
 750.1.1={
 	holder = 192016 #Mangala Nolambadhiraja
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 768.1.1={
 	holder = 192017 #Singapota
@@ -37,7 +39,9 @@
 }
 1066.1.1={
 	holder = 74444
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1085.1.1={
 	holder = 74446

@@ -75,7 +75,9 @@
 }
 1238.1.1=
 {
-#	liege="e_golden_horde"
+	
+#liege="e_golden_horde"
+
 	holder=125516
 }
 1265.1.2=

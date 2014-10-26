@@ -34,7 +34,9 @@
 }
 1151.7.11=
 {
-#	liege="k_aragon" #or d_barcelona?
+	
+#liege="k_aragon"
+ #or d_barcelona?
 }
 1188.11.1={
 	holder = 205554 #Raymond Roger I de Foix
@@ -49,7 +51,9 @@
 	holder = 138154 #Roger IV de Foix
 }
 1243.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1265.2.24={
 	holder = 455542 #Roger Bernard III de Foix 

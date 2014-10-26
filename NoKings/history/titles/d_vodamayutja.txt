@@ -20,7 +20,9 @@
 	holder = 0
 }
 820.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 837.1.1={
 	holder = 178003
@@ -42,7 +44,9 @@
 }
 1089.1.1={
 	holder = 191048 #Tribhuvana Rashtrakuta
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 1119.1.1={
 	holder = 191049 #Madanpala Rashtrakuta

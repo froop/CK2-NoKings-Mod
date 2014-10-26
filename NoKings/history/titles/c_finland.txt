@@ -33,7 +33,9 @@
 	holder = 144635
 }
 1158.1.1={
-#	liege="k_sweden" # Erik the Holy's crusade
+	
+#liege="k_sweden"
+ # Erik the Holy's crusade
 	holder=200490 # Erik the Holy
 }
 1160.6.6={
@@ -77,7 +79,9 @@
 	holder=33338 # Bengt Duke of Finland
 }
 1291.5.25={
-#	liege="k_sweden"
+	
+#liege="k_sweden"
+
 	holder=450504 # Birger Magnusson
 }
 1302.1.1={

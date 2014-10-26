@@ -1,6 +1,8 @@
 726.1.1=
 {
-#	liege = e_byzantium
+#	
+#liege = e_byzantium
+
 	holder=145910 #Orso Orseolo
 	law = succ_patrician_elective
 }

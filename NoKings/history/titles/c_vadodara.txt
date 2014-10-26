@@ -30,7 +30,9 @@
 	holder = 191642 #Bhartrvaddha
 }
 800.1.1={
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 	holder = 188176 # Upendra Paramara
 }
 818.1.1={
@@ -43,7 +45,9 @@
 	holder = 188179 # Vakpati I
 }
 918.1.1={
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 	holder = 188180 # Vairisimha II
 }
 948.1.1={

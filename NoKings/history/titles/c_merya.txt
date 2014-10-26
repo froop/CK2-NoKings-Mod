@@ -52,7 +52,9 @@ holder=125608
 }
 1236.1.2=
 {
+
 #liege="e_golden_horde"
+
 }
 1236.1.1=
 {

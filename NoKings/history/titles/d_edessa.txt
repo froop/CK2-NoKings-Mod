@@ -1,5 +1,7 @@
 638.1.1={
-#	liege="e_arabia"
+	
+#liege="e_arabia"
+
 	holder=146030
 }
 658.1.1={
@@ -51,7 +53,9 @@
 1066.1.1=
 {
 	holder=20738
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 }
 1077.1.1=
 {
@@ -97,7 +101,9 @@
 }
 1176.1.1=
 {
-#	liege="k_egypt"
+	
+#liege="k_egypt"
+
 }
 1180.1.1=
 {
@@ -121,7 +127,9 @@
 }
 1258.1.1=
 {
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 }
 1283.1.1=
 {
@@ -133,5 +141,7 @@
 }
 1335.1.1=
 {
-#	liege="k_egypt"
+	
+#liege="k_egypt"
+
 }

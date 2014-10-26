@@ -1,6 +1,8 @@
 756.3.16={
 	holder=73679 # Abd al-Rahman I Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 788.10.7={
 	holder=73680 # Hisham I Umayyad
@@ -17,7 +19,9 @@
 }
 870.1.1={
 	holder=73929 # Muhammad Qutamid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 888.1.1={
 	holder=73933 # Yahya Qutamid
@@ -28,7 +32,9 @@
 }
 907.1.1={
 	holder=73685 # Abdallah Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 912.10.15={
 	holder=3200 # Abd al-Rahman III Umayyad
@@ -92,18 +98,24 @@
 }
 1085.5.25={
 	holder=108500 # Alfonso VI Jimena
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1097.1.1={
 	holder=464010 # Muhammad Qaturbid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1119.1.1={
 	holder=224023 # Ibrahim Umarid
 }
 1129.1.1={
 	holder=207539 # Pedro González de Lara
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1130.10.16={
 	holder=207541 # Manrique Pérez de Lara

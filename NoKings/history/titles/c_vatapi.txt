@@ -1,6 +1,8 @@
 757.1.1={
 	holder = 192035 #Bhimasakti Sendraka
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 864.1.1={
 	holder = 74708
@@ -23,7 +25,9 @@
 
 1076.1.1={
 	holder = 74443
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 
 1120.1.1={
@@ -59,5 +63,7 @@
 	holder = 74401
 }
 1337.1.1={
-#	liege = e_deccan
+	
+#liege = e_deccan
+
 }

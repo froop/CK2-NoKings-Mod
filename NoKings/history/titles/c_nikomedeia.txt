@@ -19,7 +19,9 @@
 	holder=41701
 }
 1095.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	holder=1742
 }
 #1st crusade takes Nikaea

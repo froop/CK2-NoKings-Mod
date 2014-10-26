@@ -1,5 +1,7 @@
 638.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 }
 760.1.1={
 	holder=145860
@@ -38,7 +40,9 @@
 	holder=232592
 }
 1199.1.1={
-#	liege="k_armenia"
+	
+#liege="k_armenia"
+
 }
 1205.1.1={
 	holder=232593
@@ -51,7 +55,9 @@
 }
 1256.1.1={
 	holder=71875
-#	liege="k_karaman"
+	
+#liege="k_karaman"
+
 }
 1261.1.1={
 	holder=71876

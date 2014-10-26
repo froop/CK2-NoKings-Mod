@@ -30,7 +30,9 @@
 	holder = 188478 # Allat
 }
 953.1.1={
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 	holder = 188181 # Siyaka II Paramara
 }
 973.1.1={
@@ -64,11 +66,15 @@
 	holder = 188191 # Ballala of Malwa
 }
 1151.1.1={
-#	liege = k_gujarat
+	
+#liege = k_gujarat
+
 	holder = 188088 # Kumarapala Solanki
 }
 1155.1.1={
-#	liege = k_delhi
+	
+#liege = k_delhi
+
 	holder = 188136 # Vigrharaja IV Chauhan
 }
 1163.1.1={
@@ -85,7 +91,9 @@
 }
 1192.1.1={
 	holder = 188145 # Govinda
-#	liege=k_delhi
+	
+#liege=k_delhi
+
 }
 1193.1.1={
 	holder = 188143 # Hariraja

@@ -68,7 +68,9 @@
 }
 1211.1.1={
 	holder = 191504 #Gond dynasty of Garha-Mandla
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1250.1.1={
 	holder = 191505 #Gond dynasty of Garha-Mandla

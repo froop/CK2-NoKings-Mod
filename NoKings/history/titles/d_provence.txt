@@ -1,24 +1,32 @@
 763.1.1={
-#	liege=k_lotharingia
+	
+#liege=k_lotharingia
+
 }
 763.1.1={
 	holder = 194040 #Thomas
 }
 855.1.1={
-#	liege = "k_burgundy"
+	
+#liege = "k_burgundy"
+
 }
 855.1.1={
 	holder = 90103
 }
 863.1.25={
-#	liege = "k_italy"
+	
+#liege = "k_italy"
+
 	holder = 30228
 }
 875.8.12={
 	holder = 90104
 }
 877.6.10={
-#	liege = "k_burgundy"
+	
+#liege = "k_burgundy"
+
 	holder = 90123
 }
 879.1.11={
@@ -64,7 +72,9 @@
 	holder = 406
 }
 1032.9.5={
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1040.1.1={
 	holder = 410
@@ -115,13 +125,19 @@ holder=210514
 }
 1246.1.1={
 	holder=455406
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1266.2.26={
-#	liege="k_sicily"
+	
+#liege="k_sicily"
+
 }
 1282.8.30={
-#	liege="k_naples"
+	
+#liege="k_naples"
+
 }
 1285.1.7={
 	holder = 461710

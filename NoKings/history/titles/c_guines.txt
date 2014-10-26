@@ -1,13 +1,19 @@
 760.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 91486 #HERMENELD, historical placeholder
 }
 862.1.1={
-#	liege = k_france
+	
+#liege = k_france
+
 	holder = 168183 #Rudolf Unruochinger
 }
 862.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 168183 #Rudolf Unruochinger
 }
 877.10.6={
@@ -66,7 +72,9 @@ holder=32155 #Baudouin II
 }
 1187.1.1=
 {
+
 #liege="k_france"
+
 }
 1205.1.2=
 {

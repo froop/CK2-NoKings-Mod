@@ -59,7 +59,7 @@ cd "C:/Users/username/Documents/Paradox Interactive/Crusader Kings II/mod/NoKing
 rm k_*.txt e_*.txt
 
 # 公爵以下の称号定義ファイル内の liege 定義を全てコメントアウト
-find *.txt | xargs sed -r -b -i 's/^(\s*\bliege\s*=\s*"?[ek]_[a-z]+"?)/#\1/g'
+find *.txt | xargs sed -r -b -i 's/(\bliege\s*=\s*"?[ek]_[a-z_-]+"?)/\r\n#\1\r\n/g'
 ```
 
 ### ランチャーファイルを設置

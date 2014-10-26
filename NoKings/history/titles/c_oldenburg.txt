@@ -27,7 +27,9 @@ holder=30068 #Eglimar II
 }
 1142.1.1=
 {
+
 #liege="e_hre"
+
 }
 1142.1.1=
 {
@@ -39,7 +41,9 @@ holder=212910 #Moritz I
 }
 1180.9.16=
 {
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1209.1.1=
 {
@@ -53,7 +57,9 @@ liege = d_brunswick
 1256.7.10=
 {
 holder=30077 #Johann I
+
 #liege = e_hre
+
 }
 1272.1.1=
 {

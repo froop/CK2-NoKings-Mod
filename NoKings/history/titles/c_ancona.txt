@@ -22,7 +22,9 @@ holder=71908
 }
 1066.1.1={
 	holder=73492
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1079.1.1={
 	holder=73493
@@ -36,7 +38,9 @@ holder=71908
 }
 1137.1.1={
 	holder=73494
-#	liege=k_papal_state
+	
+#liege=k_papal_state
+
 }
 1149.1.1={
 	holder=73495

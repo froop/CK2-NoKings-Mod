@@ -31,7 +31,9 @@
 }
 856.1.1= {
 	holder = 190095 #Jarasandha
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 891.1.1={
 	holder = 190096 #Sahadeva
@@ -75,7 +77,9 @@
 }
 1140.1.1={
 	holder = 154002 #Vijay Sena
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena
@@ -95,7 +99,9 @@
 }
 1281.1.1={
 	holder = 170211 #Bughra Khan
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }
 1291.1.1={
 	holder = 170215 #Rukunuddin Kaikaus
@@ -106,6 +112,8 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 #Lasting independence from 1338

@@ -46,7 +46,9 @@
 }
 1045.1.1={
 	holder = 191771 #Vijayaraja Dahiya
-#	liege=k_gujarat
+	
+#liege=k_gujarat
+
 }
 1084.1.1={
 	holder = 191731 #Vijayasimha Chahamana (kills Vijayaraja and takes Sanchor)
@@ -81,5 +83,7 @@
 }
 1321.1.1={
 	holder = 191772 #Malik Mir, killer of Vajranga
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }

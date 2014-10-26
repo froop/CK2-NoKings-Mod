@@ -1,5 +1,7 @@
 700.1.1 = {
-#	liege = k_saxony
+	
+#liege = k_saxony
+
 	de_jure_liege = k_saxony
 }
 761.1.1={
@@ -12,7 +14,9 @@
 }
 1235.1.1=
 {
+
 #liege="e_hre"
+
 #law = agnatic_succession
 #law = succ_primogeniture
 }

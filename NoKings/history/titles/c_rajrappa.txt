@@ -8,7 +8,9 @@
 	holder = 191527
 }
 858.1.1= {
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 920.1.1={
 	holder = 191528
@@ -21,7 +23,9 @@
 }
 1130.1.1={
 	holder = 191531
-#	liege=k_bihar
+	
+#liege=k_bihar
+
 }
 1200.1.1={
 	holder = 191532

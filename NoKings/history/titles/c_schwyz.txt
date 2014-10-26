@@ -8,7 +8,9 @@
 	holder = 0
 }
 800.1.1={
-#	liege = k_germany
+	
+#liege = k_germany
+
 	holder = 7985
 }
 825.1.1={
@@ -30,7 +32,9 @@
 	holder = 1528
 }
 1024.7.13={
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1030.3.10={
 	holder = 7941
@@ -72,7 +76,9 @@
 }
 1268.10.29=
 {
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1269.1.1=
 {

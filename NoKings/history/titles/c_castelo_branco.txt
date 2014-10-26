@@ -1,6 +1,8 @@
 758.1.1={
 	holder=200032 # Suleyman Suleymanid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 789.1.1={
 	holder=73680 # Hisham I Umayyad
@@ -44,7 +46,9 @@
 	holder=142165 # Egas Gomes de Sousa
 }
 1071.1.18={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 1095.1.1={
 	holder=142167 # Mem Viegas de Sousa
@@ -56,7 +60,9 @@
 	holder=142009 # Gonçalo Mendes de Sousa I
 }
 1139.7.29={
-#	liege=k_portugal
+	
+#liege=k_portugal
+
 }
 1190.3.25={
 	holder=142010 # Mendo Gonçales de Sousa

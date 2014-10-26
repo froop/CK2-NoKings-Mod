@@ -2,7 +2,9 @@
 	holder = 205267
 }
 865.1.1={
-#	liege="k_england"
+	
+#liege="k_england"
+
 	holder=33358 
 }
 1066.1.1={
@@ -12,7 +14,9 @@ liege="d_canterbury"
 	holder=130
 }
 1066.10.14={
-#	liege="k_england"
+	
+#liege="k_england"
+
 	holder=172
 }
 1088.6.24={

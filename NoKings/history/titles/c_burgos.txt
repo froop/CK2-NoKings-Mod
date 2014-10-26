@@ -1,6 +1,8 @@
 754.1.1={
 	holder=70003 # Alfonso I de Cantabria
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 757.1.1={
 	holder=70004 # Fruela I de Asturias
@@ -26,7 +28,9 @@
 }
 885.1.31={
 	holder=73769 # Gonzalo Fernández de Lara
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 912.1.1={
 	holder=200071 # Gonzalo Téllez
@@ -65,7 +69,9 @@
 	holder=107510 # Fernando I Jimena
 }
 1037.9.4={
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1065.12.27={
 	holder=107500 # Sancho II Jimena

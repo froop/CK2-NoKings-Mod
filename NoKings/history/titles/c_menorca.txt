@@ -1,10 +1,14 @@
 744.1.1={
 	holder=200223 # Theodoros Spanikos
-#	liege=e_byzantium
+	
+#liege=e_byzantium
+
 }
 779.1.1={
 	holder=6392 # Charlemagne Karling
-#	liege=k_aquitaine
+	
+#liege=k_aquitaine
+
 }
 781.1.1={
 	holder=90095 # Louis I Karling
@@ -54,7 +58,9 @@
 }
 903.1.1={
 	holder=73685 # Abdallah Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 912.10.15={
 	holder=3200 # Abd al-Rahman III Umayyad
@@ -89,7 +95,9 @@
 }
 1116.1.1={
 	holder=73229 # Wanur Wanurid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1126.1.1={
 	holder=32973 # Muhammad I Massufid
@@ -114,7 +122,9 @@
 }
 1203.1.1={
 	holder=73233 # Abdallah Madinid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1205.1.1={
 	holder=33056 # Sa'd Hakamid

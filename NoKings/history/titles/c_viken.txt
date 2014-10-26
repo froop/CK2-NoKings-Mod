@@ -10,7 +10,9 @@
 }
 1066.1.1=
 {
-#	liege="k_norway"
+	
+#liege="k_norway"
+
 }
 1066.1.1=
 {
@@ -64,7 +66,9 @@
 }
 1318.2.16=
 {
-#	liege = "k_sweden" 
+	
+#liege = "k_sweden"
+ 
 	holder=450504 # King Birger
 }
 1319.7.8={

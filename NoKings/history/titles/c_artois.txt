@@ -1,5 +1,7 @@
 740.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 91487 #RODING [Hruoding], historical placeholder
 }
 862.1.1={
@@ -49,7 +51,9 @@
 }
 1180.4.28=
 {
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1180.4.28=
 {

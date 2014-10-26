@@ -1,5 +1,7 @@
 330.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 736.1.1={
@@ -28,7 +30,9 @@
 	vice_royalty = no
 }
 1204.8.1={
-#	liege="e_latin_empire"
+	
+#liege="e_latin_empire"
+
 }
 1204.8.1={
 	holder=31334 #Guillaume I
@@ -46,13 +50,17 @@
 	holder=31338 #Guillaume II
 }
 1278.1.4={
-#	liege="k_sicily" 
+	
+#liege="k_sicily"
+ 
 }
 1278.1.14={
 	holder = 455406 #Charles I d'Anjou
 }
 1282.8.30={
-#	liege="k_naples" 
+	
+#liege="k_naples"
+ 
 }
 1285.1.7={
 	holder = 461710 #Charles II d'Anjou

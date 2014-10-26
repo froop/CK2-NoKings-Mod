@@ -1,12 +1,16 @@
 725.1.1={
 	holder = 191303	#Ramagupta
-#	liege=k_bihar
+	
+#liege=k_bihar
+
 }
 846.1.1= {
 	holder = 190103 #Ajatashatru
 }
 846.1.1={
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 870.1.1= {
 	holder = 190104 #Udayin
@@ -39,7 +43,9 @@
 }
 1203.10.1={
 	holder = 170252 #Muhammad Bakhtiyar
-#	liege = k_bihar
+	
+#liege = k_bihar
+
 }
 1206.1.1={
 	holder = 170253 #Muhammad Shiran
@@ -107,5 +113,7 @@
 }
 1328.6.1={
 	holder=170282 #Bahram Khan
-#	liege = k_bihar
+	
+#liege = k_bihar
+
 }

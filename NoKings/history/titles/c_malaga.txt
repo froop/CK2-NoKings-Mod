@@ -1,6 +1,8 @@
 760.1.1={
 	holder=200230 # Abd al-Malik Djazairid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 781.1.1={
 	holder=200232 # Ya'qub Djazairid
@@ -105,7 +107,9 @@
 }
 1090.1.1={
 	holder=224017 # Ya'qub Malaqid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1118.1.1={
 	holder=73261 # Ibrahim Hishamid
@@ -118,7 +122,9 @@
 }
 1153.1.1={
 	holder=224015 # Ya'qub Bilalid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1178.1.1={
 	holder=224016 # Abd al-Malik Gharnatid

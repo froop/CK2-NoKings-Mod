@@ -3,7 +3,9 @@
 }
 
 788.1.1={
-#	liege="k_mauretania"
+	
+#liege="k_mauretania"
+
 }
 788.1.1={
 	holder = 159501
@@ -26,7 +28,9 @@
 1066.1.1=
 {
 holder=161085
+
 #liege="k_mauretania"
+
 }
 1110.1.1=
 {

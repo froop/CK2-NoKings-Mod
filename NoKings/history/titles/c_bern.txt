@@ -8,7 +8,9 @@
 	holder = 0
 }
 864.1.1={
-#	liege = "k_burgundy"
+	
+#liege = "k_burgundy"
+
 }
 864.1.1={
 	holder = 168154
@@ -21,7 +23,9 @@
 }
 1032.9.5=
 {
+
 #liege="e_hre"
+
 }
 1066.1.1=
 {
@@ -51,7 +55,9 @@ holder = 7649
 	liege = d_upper_burgundy
 }
 1257.3.14 = {
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1263.9.3=
 {

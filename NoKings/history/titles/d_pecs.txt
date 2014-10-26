@@ -1,5 +1,7 @@
 804.1.1={
-#	liege="k_hungary"
+	
+#liege="k_hungary"
+
 	holder=146140
 }
 814.1.1 = {
@@ -9,7 +11,9 @@
 	holder=146142
 }
 835.1.1={
-#	liege="k_bavaria"
+	
+#liege="k_bavaria"
+
 	holder = 90107 #Louis II the German
 }
 839.1.1={
@@ -24,7 +28,9 @@
 	holder=0
 }
 1299.1.1={
-#	liege="k_hungary"
+	
+#liege="k_hungary"
+
 }
 1299.1.1={
 	holder=470150

@@ -1,5 +1,7 @@
 330.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 755.1.1={
@@ -17,7 +19,9 @@
 }
 1077.1.1=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	vice_royalty = no
 	holder = 3046
 }
@@ -27,7 +31,9 @@
 }
 1099.1.1=
 {
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 	holder=1742
 }
@@ -40,7 +46,9 @@
 #battle of Myriokephalon
 1176.9.17=
 {
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	vice_royalty = no
 	holder = 225000
 }
@@ -102,7 +110,9 @@
 }
 1300.1.1=
 {
-#	liege="k_germiyan"
+	
+#liege="k_germiyan"
+
 	holder=71867
 }
 1327.1.1=

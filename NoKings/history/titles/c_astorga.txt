@@ -1,6 +1,8 @@
 754.1.1={
 	holder=70116 # Mauregato Alfónsez de Cantabria
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 788.1.1={
 	holder=70013 # Bermudo I de Cantabria
@@ -25,7 +27,9 @@
 	liege=d_leon
 }
 910.12.20={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 922.1.1={
 	holder=70021 # Ordoño II de León

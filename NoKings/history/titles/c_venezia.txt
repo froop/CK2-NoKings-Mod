@@ -1,6 +1,8 @@
 540.1.1=
 {
-#	liege = e_byzantium
+	
+#liege = e_byzantium
+
 }
 726.1.1=
 {
@@ -32,7 +34,9 @@
 	holder=145923 #Obelerio Antenoreo
 }
 811.1.1={
-#	liege="k_venice"
+	
+#liege="k_venice"
+
 	holder=184020 #Agnello Participazio
 }
 827.1.1=

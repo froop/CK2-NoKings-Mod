@@ -9,7 +9,9 @@
 }
 1066.1.1=
 {
-#	liege="k_sweden"
+	
+#liege="k_sweden"
+
 }
 1066.1.1=
 {

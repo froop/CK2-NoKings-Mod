@@ -105,6 +105,8 @@ holder=145773
 # Getachew
 
 1332.1.1={
+
 #liege="k_abyssinia"
+
 holder=145783
 }

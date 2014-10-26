@@ -15,7 +15,9 @@
 	holder = 188109 # Chandraraja II
 }
 866.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 	holder = 188208 # Sajraj Nagil (actually starting in 880)
 }
 900.1.1={
@@ -66,7 +68,9 @@
 }
 1226.1.1={
 	holder = 170193 #Iltutmish
-#	liege=e_rajastan
+	
+#liege=e_rajastan
+
 }
 1236.1.1={
 	liege = 0
@@ -82,7 +86,9 @@
 	holder = 188227 # Hammira (expanded beyond Ranthambore)
 }
 1301.7.8={
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 	holder = 170246 #Ala-ud-din Muhammad
 }
 1316.1.3={

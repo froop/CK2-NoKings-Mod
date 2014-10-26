@@ -2,13 +2,17 @@
 	liege="d_vidin"
 }
 681.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 759.1.1={
 	holder=145125
 }
 843.1.1={
-#	liege = "k_bulgaria"
+	
+#liege = "k_bulgaria"
+
 }
 852.1.1={
 	holder=70382 #Boris
@@ -31,7 +35,9 @@ holder=34463
 }
 1071.8.26=
 {
+
 #liege="k_bulgaria"
+
 holder=20493
 }
 1073.1.1=
@@ -57,7 +63,9 @@ holder=34281
 }
 1186.1.1=
 {
+
 #liege="k_serbia"
+
 }
 1186.1.1=
 {
@@ -105,7 +113,9 @@ holder=31187 #Konstandin
 }
 1277.9.1=
 {
+
 #liege="k_serbia"
+
 }
 1277.9.1=
 {

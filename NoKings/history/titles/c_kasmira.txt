@@ -12,7 +12,9 @@
 	holder=188376 # Tarapida
 }
 699.1.1={
-#	liege=k_punjab
+	
+#liege=k_punjab
+
 	holder=188377 # Lalitaditya Muktapida
 }
 736.1.1={

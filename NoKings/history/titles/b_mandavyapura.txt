@@ -74,7 +74,9 @@
 }
 1226.1.1={
 	holder= 170193#Illtumish
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }
 1236.5.1={
 	holder = 170194 #Firuz I
@@ -97,7 +99,9 @@
 }
 1294.1.1={
 	holder = 170243 #Jalal ud din Firuz Khilji
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }
 1296.7.21={
 	holder = 170245 #Ibrahim

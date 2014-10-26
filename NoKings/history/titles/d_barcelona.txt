@@ -1,6 +1,8 @@
 801.1.1={
 	holder=70140 # Bera, Count of Barcelona
-#	liege=k_aquitaine
+	
+#liege=k_aquitaine
+
 }
 820.1.1={
 	holder=200141 # Rampon, Count of Barcelona
@@ -39,7 +41,9 @@
 	holder=70150 # Guifré I de Barcelona
 }
 884.12.12={
-#	liege=k_france
+	
+#liege=k_france
+
 }
 888.1.13={
 	liege = 0
@@ -80,7 +84,9 @@
 	holder=210506 # Ramon Berenguer IV de Barcelona
 }
 1137.8.11={
-#	liege=k_aragon
+	
+#liege=k_aragon
+
 }
 1162.8.6={
 	holder=210500 # Ramon Berenguer V de Barcelona (Alfons II de Barcelona)

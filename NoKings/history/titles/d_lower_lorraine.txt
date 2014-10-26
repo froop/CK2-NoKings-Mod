@@ -1,5 +1,7 @@
 903.1.1={
-#	liege = "k_lotharingia"
+	
+#liege = "k_lotharingia"
+
 }
 903.1.1={
 	holder = 7961 #Gebhard
@@ -11,7 +13,9 @@
 	holder = 7813 #Giselbert
 }
 923.1.1={
-#	liege=k_germany
+	
+#liege=k_germany
+
 }
 939.10.2={
 	holder = 1292 #Heinrich
@@ -44,7 +48,9 @@
 	holder=11032 #Gozelo I Wigeriche
 }
 1024.7.13={
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1044.1.1={
 	holder=11035 #Gozelo II

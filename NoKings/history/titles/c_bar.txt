@@ -2,7 +2,9 @@
 	holder = 91395 #Madelgaud Bivinid
 }
 728.1.1={
-#	liege=k_lotharingia
+	
+#liege=k_lotharingia
+
 }
 817.1.1={
 	holder = 30227 #Lothair I
@@ -78,7 +80,9 @@
 }
 1291.1.1=
 {
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder=455763
 }
 1302.9.1=

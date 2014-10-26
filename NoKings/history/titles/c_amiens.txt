@@ -5,7 +5,9 @@
 	holder = 144988
 }
 762.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 144987
 }
 786.1.1={

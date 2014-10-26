@@ -1,12 +1,16 @@
 867.1.1={
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 	holder=142006 # Vimara Vimaranes
 }
 873.1.1={
 	holder=142005 # Lucídio Vimaranes
 }
 910.12.20={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 922.1.1={
 	holder=73865 # Diogo de Guimaraez
@@ -46,7 +50,9 @@
 	holder=207661 # Teresa Alfónsez Jimena
 }
 1121.1.1={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 1128.6.24={
 	holder=209503 # Afonso I de Bourgogne

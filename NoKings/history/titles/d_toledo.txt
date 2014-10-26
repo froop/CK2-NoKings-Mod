@@ -1,20 +1,26 @@
 769.1.1={
 	holder=200020 # Suleyman Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 800.1.1={
 	holder=0
 }
 866.1.1={
 	holder=73931 # Yusuf Qutamid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 870.1.1={
 	holder=0
 }
 903.1.1={
 	holder=73824 # Mutarrif Qasid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 906.1.1={
 	holder=73823 # Muhammad Qasid

@@ -1,13 +1,19 @@
 740.1.1 = {
-#	liege = k_france
+	
+#liege = k_france
+
 	holder = 91487
 }
 862.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 90109 #Boudewijn I
 }
 862.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 90109 #Boudewijn I
 }
 879.1.1={

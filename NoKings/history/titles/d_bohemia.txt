@@ -17,7 +17,9 @@
 	holder = 168350
 }
 830.1.1={
-#	liege = "k_moravia"
+	
+#liege = "k_moravia"
+
 }
 
 851.1.1={
@@ -46,10 +48,14 @@
 	holder = 508
 }
 955.8.10={
-#	liege="k_germany"
+	
+#liege="k_germany"
+
 }
 962.2.2={
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 972.1.1={
 	holder = 510
@@ -131,7 +137,9 @@
 	holder = 212855
 }
 1198.9.1={
-#	liege = "k_bohemia"
+	
+#liege = "k_bohemia"
+
 }
 1230.12.15={
 	holder = 96000

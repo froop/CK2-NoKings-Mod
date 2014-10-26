@@ -75,7 +75,9 @@
 	holder = 91151 #Guillaume VI
 }
 1181.10.17={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder=205710 #Agnès I
 }
 1193.2.6={

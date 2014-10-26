@@ -83,7 +83,9 @@
 }
 1203.1.1={
 	holder = 170190 #Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
-#	liege=k_delhi
+	
+#liege=k_delhi
+
 }
 1205.1.1={
 	holder = 188054 # Trailokyavarma retakes Kalanjara
@@ -102,5 +104,7 @@
 	holder = 191431 #Dynasty remains in power locally here up to mid 16th century
 }
 1318.1.1={
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }

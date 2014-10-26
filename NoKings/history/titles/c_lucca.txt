@@ -1,5 +1,7 @@
 713.1.1={
-#	liege=k_italy
+	
+#liege=k_italy
+
 }
 713.1.1={
 	holder = 190278 #Walperto
@@ -42,7 +44,9 @@ holder=73418
 }
 1197.9.28=
 {
+
 #liege=e_hre
+
 }
 1198.1.1=
 {
@@ -87,7 +91,9 @@ holder=73427
 1328.11.1=
 {
 holder=462740
+
 #liege=e_hre
+
 }
 1329.3.1=
 {
@@ -105,7 +111,9 @@ holder=73430
 1331.1.1=
 {
 holder=462610
+
 #liege=k_bohemia
+
 }
 1333.1.1=
 {

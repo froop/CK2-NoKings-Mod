@@ -6,7 +6,9 @@
 	holder = 168321
 }
 872.1.1={
-#	liege="k_norway"
+	
+#liege="k_norway"
+
 }
 1066.1.1=
 {
@@ -78,7 +80,9 @@ holder=202500 # Sverre Sigurdsson
 }
 1337.1.1=
 {
+
 #liege="k_norway"
+
 }
 1337.1.1=
 {

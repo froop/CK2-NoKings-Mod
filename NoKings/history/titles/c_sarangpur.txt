@@ -13,10 +13,14 @@
 }
 800.1.1={
 	holder = 188006 # Nagabhata II
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 815.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 833.1.1={
 	holder = 188007 # Ramabhadra

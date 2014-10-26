@@ -5,7 +5,9 @@
 	holder = 167859
 }
 805.1.1={
-#	liege = "k_bulgaria"
+	
+#liege = "k_bulgaria"
+
 }
 852.1.1={
 	holder=70382 #Boris
@@ -32,7 +34,9 @@ holder=1736
 }
 1071.8.26=
 {
+
 #liege="k_hungary"
+
 holder=4375
 }
 1093.1.1=
@@ -62,7 +66,9 @@ holder=34281
 }
 1185.1.1=
 {
+
 #liege="k_hungary"
+
 holder=93765
 }
 1196.1.1=
@@ -88,7 +94,9 @@ holder=125057
 }
 1272.9.9=
 {
+
 #liege="k_serbia"
+
 }
 1272.9.9=
 {

@@ -1,11 +1,15 @@
 753.1.1={
-#	liege=k_bavaria
+	
+#liege=k_bavaria
+
 }
 753.1.1={
 	holder = 190368 #Fagulf
 }
 788.1.1={
-#	liege = "k_bavaria"
+	
+#liege = "k_bavaria"
+
 }
 859.1.1={
 	holder= 163056
@@ -40,7 +44,9 @@
 }
 1246.1.1={
 	holder = 144576
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1257.1.1={
 	holder = 144577

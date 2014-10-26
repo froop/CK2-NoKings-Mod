@@ -1,6 +1,8 @@
 867.1.1={
 	holder=74748
-#	liege=k_maharastra
+	
+#liege=k_maharastra
+
 }
 1109.1.1={
 	holder = 74446
@@ -28,9 +30,13 @@
 	holder = 0
 }
 1191.1.1={
-#	liege=k_maharastra
+	
+#liege=k_maharastra
+
 }
 1330.1.1={
 	holder=74723
-#	liege=e_rajastan
+	
+#liege=e_rajastan
+
 }

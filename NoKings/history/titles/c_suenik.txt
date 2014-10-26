@@ -69,7 +69,9 @@
 	holder = 159210
 }
 1124.4.1={
-#	liege="k_georgia"
+	
+#liege="k_georgia"
+
 }
 1149.1.1={
 	holder = 159211
@@ -86,7 +88,9 @@
 }
 1265.2.8=
 {
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 	holder = 478010
 }
 1282.1.1=

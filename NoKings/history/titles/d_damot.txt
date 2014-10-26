@@ -17,7 +17,9 @@ holder=183506
 }
 1059.1.1=
 {
+
 #liege="k_abyssinia"
+
 holder=145736
 }
 1097.1.1=

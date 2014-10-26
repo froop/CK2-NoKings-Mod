@@ -18,7 +18,9 @@
 # Tver
 1246.9.30=
 {
-#	liege="e_golden_horde"
+	
+#liege="e_golden_horde"
+
 	holder=472864
 }
 1271.9.16=

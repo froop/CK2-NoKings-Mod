@@ -124,7 +124,9 @@
 }
 1228.1.1={	#Occupied by Bengal
 	holder = 170200 #Nasiruddin Mahmud
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1229.1.1={
 	holder = 170263 #Alauddin Daulat

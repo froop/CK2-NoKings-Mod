@@ -1,6 +1,8 @@
 769.1.1={
 	holder=70118 # Silo, King of Asturias
-#	liege=k_asturias
+	
+#liege=k_asturias
+
 }
 783.1.1={
 	holder=70006 # Alfonso II de Asturias
@@ -19,7 +21,9 @@
 	liege=d_galicia
 }
 910.12.25={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 924.1.1={
 	holder=70030 # Fruela II de Cantabria
@@ -29,7 +33,9 @@
 	holder=70023 # Alfonso IV de León
 }
 929.6.10={
-#	liege=k_spanish_galicia
+	
+#liege=k_spanish_galicia
+
 }
 931.6.1={
 	holder=70024 # Ramiro II de León
@@ -71,7 +77,9 @@
 	liege=d_galicia
 }
 1126.3.8={
-#	liege=k_leon
+	
+#liege=k_leon
+
 }
 1143.1.1={
 	holder=71370 # Gutierre Fernández de Castro

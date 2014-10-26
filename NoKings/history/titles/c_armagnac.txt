@@ -6,7 +6,9 @@
 }
 801.1.1={
 	holder = 31701
-#	liege = "k_aquitaine"
+	
+#liege = "k_aquitaine"
+
 }
 810.1.2={
 	holder = 31702
@@ -40,7 +42,9 @@
 	holder=205673 #Géraud IV
 }
 1215.6.8={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1215.6.8={
 	holder=138120 #Géraud V de lomagne
@@ -49,7 +53,9 @@
 	holder=138124 #Bernard V de lomagne
 }
 1245.7.22={
-#	liege="k_england"
+	
+#liege="k_england"
+
 }
 1245.7.22={
 	holder=138125 #Mascarose I de lomagne
@@ -61,7 +67,9 @@
 	holder=138130 #Géraud VI de lomagne
 }
 1280.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1280.1.1={
 	holder=455641 #Bernard VI de lomagne

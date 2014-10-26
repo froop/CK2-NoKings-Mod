@@ -1,5 +1,7 @@
 713.1.1={
-#	liege=k_italy
+	
+#liege=k_italy
+
 }
 713.1.1={
 	holder = 190278 #Walperto
@@ -11,7 +13,9 @@
 	holder = 190280 #Tachiperto
 }
 812.1.1={
-#	liege="k_italy"
+	
+#liege="k_italy"
+
 }
 
 812.1.1=
@@ -39,7 +43,9 @@
 	holder=167906
 }
 931.1.1={
-#	liege=k_germany
+	
+#liege=k_germany
+
 	#law = cognatic_succession
 	#law = succ_primogeniture
 }
@@ -62,7 +68,9 @@
 	holder=180251
 }
 1024.7.13={
-#	liege = e_hre
+	
+#liege = e_hre
+
 }
 1027.1.1={
 	holder=7756

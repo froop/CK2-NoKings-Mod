@@ -24,12 +24,16 @@
 	holder = 188711 # Kabak Zunbil
 }
 865.1.1={
-#	liege = k_baluchistan
+	
+#liege = k_baluchistan
+
 	holder = 163101 #Saffarid
 }
 
 977.1.1 = {
-#	liege=k_afghanistan
+	
+#liege=k_afghanistan
+
 	holder = 144123 # Sabuktigin Ghaznavid
 }
 997.1.1={
@@ -72,7 +76,9 @@
 	holder = 144136 # Arlsan Shah
 }
 1118.1.1={
-#	liege=k_persia # Seljuk vassalage
+	
+#liege=k_persia
+ # Seljuk vassalage
 	holder = 144137 # Bahram Shah
 }
 1152.1.1={
@@ -89,14 +95,20 @@
 	holder = 144141 # Ghiyath Ghurid
 }
 1173.1.1={
-#	liege=k_afghanistan
+	
+#liege=k_afghanistan
+
 }
 1186.1.1={
-#	liege=k_sindh
+	
+#liege=k_sindh
+
 }
 1203.1.1={
 	holder = 144142
-#	liege=e_rajastan
+	
+#liege=e_rajastan
+
 }
 1206.3.15=
 {
@@ -107,17 +119,23 @@
 #Kartids
 1212.1.1=
 {
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 	holder = 93153
 }
 
 
 1221.1.1=
 {
-#	liege="e_mongol_empire"
+	
+#liege="e_mongol_empire"
+
 }
 1227.12.2={
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 }
 1245.1.1=
 {

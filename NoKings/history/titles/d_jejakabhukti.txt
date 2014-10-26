@@ -8,7 +8,9 @@
 }
 
 725.1.1={
-#	liege = k_kosala #Yasovarman
+	
+#liege = k_kosala
+ #Yasovarman
 }
 
 730.1.1={
@@ -24,7 +26,9 @@
 }
 
 790.1.1 = {
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 	}
 
 800.1.1={
@@ -36,7 +40,9 @@
 }
 
 831.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 	holder = 188025 # Nannuka Chandela
 }
 845.1.1={
@@ -98,7 +104,9 @@
 	liege = 0
 }
 1211.1.1={
-#	liege = k_gondwana
+	
+#liege = k_gondwana
+
 }
 1245.1.1={
 	holder = 188056 # Viravarma I
@@ -108,7 +116,9 @@
 }
 1289.1.1={
 	holder = 191500 #Nanak Dev Singh
-#	liege = e_rajastan
+	
+#liege = e_rajastan
+
 }
 1307.1.1={
 	holder = 191501 #Prithviraj Singh

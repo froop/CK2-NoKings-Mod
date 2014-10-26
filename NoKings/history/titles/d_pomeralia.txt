@@ -1,7 +1,9 @@
 
 1155.1.1=
 {
+
 #liege="k_poland"
+
 #law = agnatic_succession
 #law = succ_primogeniture
 }
@@ -19,11 +21,15 @@ holder=221755 #Mszczuj I
 }
 1210.1.1=
 {
+
 #liege="k_denmark"
+
 }
 1212.1.1=
 {
+
 #liege="k_poland"
+
 }
 1219.5.1=
 {

@@ -83,7 +83,9 @@
 	holder=73452
 }
 1324.1.1={
-#	liege = "k_aragon"
+	
+#liege = "k_aragon"
+
 }
 1324.1.1={
 	holder=460510

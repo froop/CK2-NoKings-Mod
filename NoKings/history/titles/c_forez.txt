@@ -1,9 +1,13 @@
 765.1.1 = {
-#	liege="k_lotharingia"
+	
+#liege="k_lotharingia"
+
 	holder = 91491 #VUODO, historical count as placeholder
 }
 855.8.23={
-#	liege = "k_burgundy"
+	
+#liege = "k_burgundy"
+
 	holder = 144998
 }
 863.1.1 ={
@@ -28,7 +32,9 @@
 	holder = 10028  #Geraud II de Forez
 }
 1032.9.5={
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1058.3.5={
 	holder = 20290 #Artaud IV de Forez
@@ -46,7 +52,9 @@
 	holder = 205680 #Guigues d'Albon
 }
 1163.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1187.1.1={
 	liege="d_burgundy"

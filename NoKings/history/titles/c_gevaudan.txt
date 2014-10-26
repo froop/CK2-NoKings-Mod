@@ -2,7 +2,9 @@
 	holder = 190506 #Stephan
 }
 743.1.1={
-#	liege=k_lotharingia
+	
+#liege=k_lotharingia
+
 }
 770.1.1={
 	holder = 190507 #Hugh
@@ -14,13 +16,17 @@
 	holder = 190509 #Stephan (II)
 }
 864.1.1={
-#	liege = "k_aquitaine"
+	
+#liege = "k_aquitaine"
+
 }
 864.1.1={
 	holder = 168149
 }
 884.12.12={
-#	liege = "k_france"
+	
+#liege = "k_france"
+
 }
 900.1.1={
 	holder = 168150
@@ -57,7 +63,9 @@
 }
 1167.1.1={
 	holder=210500 #Alfons II d'Aragon
-#	liege="k_aragon"
+	
+#liege="k_aragon"
+
 }
 1195.4.25={
 	holder=210501 #Pierre II d'Aragon
@@ -66,7 +74,9 @@
 	holder=460600 #Jacques I d'Aragon
 }
 1258.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1258.1.1={
 	holder = 455404 #Louis IX (saint Louis)

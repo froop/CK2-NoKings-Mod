@@ -21,7 +21,9 @@
 	holder=74016
 }
 833.1.1={
-#	liege = "k_magyar"
+	
+#liege = "k_magyar"
+
 	holder=146230
 }
 845.1.1={

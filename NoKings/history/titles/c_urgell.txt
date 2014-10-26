@@ -56,7 +56,9 @@
 	holder=210571 # Ermengol VII d'Urgell
 }
 1164.1.1={
-#	liege=k_aragon
+	
+#liege=k_aragon
+
 }
 1184.8.11={
 	holder=210570 # Ermengol VIII d'Urgell

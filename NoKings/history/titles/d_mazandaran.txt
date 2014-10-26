@@ -4,7 +4,9 @@
 
 1066.1.1=
 {
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 }
 1063.9.4=
 {
@@ -64,7 +66,9 @@
 }
 1194.3.1=
 {
-#	liege="k_persia" 
+	
+#liege="k_persia"
+ 
 	holder=230000
 }
 1200.1.1=
@@ -77,11 +81,15 @@
 }
 1221.1.1=
 {
-#	liege="e_mongol_empire" 
+	
+#liege="e_mongol_empire"
+ 
 	holder=125520
 }
 1227.12.2={
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 }
 1232.1.1=
 {

@@ -8,7 +8,9 @@
 	holder = 82291
 }
 830.1.1={
-#	liege = "k_moravia"
+	
+#liege = "k_moravia"
+
 }
 864.1.1={
 	holder = 82293
@@ -33,7 +35,9 @@
 }
 985.1.1=
 {
+
 #liege="k_poland"
+
 #law = agnatic_succession
 #law = succ_gavelkind
 }
@@ -90,7 +94,9 @@
 }
 1329.1.1=
 {
-#	liege="k_bohemia"
+	
+#liege="k_bohemia"
+
 }
 1335.11.24=
 {

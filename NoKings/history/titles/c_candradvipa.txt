@@ -60,7 +60,9 @@
 }
 1140.1.1={
 	holder = 154002 #Vijay Sena
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 1159.1.1= {
 	holder = 154002 #Valla Sena
@@ -74,7 +76,9 @@
 }
 1204.1.1={
 	holder = 170252 #Muhammad Bakhtiyar
-#	liege = k_bengal
+	
+#liege = k_bengal
+
 }
 1206.1.1={
 	holder = 170253 #Muhammad Shiran

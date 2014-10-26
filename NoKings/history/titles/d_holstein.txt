@@ -1,6 +1,8 @@
 700.1.1 = {
 	de_jure_liege = k_saxony
-#	liege = k_saxony
+	
+#liege = k_saxony
+
 }
 761.1.1={
 	holder = 190474 #Hesso
@@ -12,7 +14,9 @@
 }
 1129.7.1=
 {
+
 #liege="k_denmark"
+
 #law = agnatic_succession
 #law = succ_primogeniture
 }
@@ -31,7 +35,9 @@ liege=0
 
 1202.1.1=
 {
+
 #liege="k_denmark"
+
 }
 1202.1.1=
 {
@@ -39,7 +45,9 @@ holder=31795 #Albrecht Askanien
 }
 1227.7.22=
 {
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 	de_jure_liege = k_germany
 }
 1227.7.22=

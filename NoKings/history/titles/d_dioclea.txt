@@ -1,5 +1,7 @@
 330.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 640.1.1={
@@ -10,7 +12,9 @@
 	holder = 167858
 }
 865.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 	holder=145119
 }
@@ -19,10 +23,14 @@
 	vice_royalty = no
 }
 997.1.1={
-#	liege = "k_bulgaria"
+	
+#liege = "k_bulgaria"
+
 }
 1016.1.1={
-#	liege = "e_byzantium"
+	
+#liege = "e_byzantium"
+
 	vice_royalty = yes
 }
 1046.1.1={
@@ -34,7 +42,9 @@
 	holder=20493
 }
 1091.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 }
 1101.1.1={
@@ -72,7 +82,9 @@
 	holder=34141 #Mihajlo
 }
 1165.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 }
 1183.9.24={
@@ -81,7 +93,9 @@
 }
 #conquered by Stefan Nemanja
 1186.1.1={
-#	liege="k_serbia"
+	
+#liege="k_serbia"
+
 	holder=218500
 }
 1190.1.1={

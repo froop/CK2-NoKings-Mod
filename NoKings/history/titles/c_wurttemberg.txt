@@ -11,7 +11,9 @@
 	holder = 168191 #Sieghard
 }
 843.1.1={
-#	liege = k_germany
+	
+#liege = k_germany
+
 	holder = 168191
 }
 861.1.1=
@@ -22,7 +24,9 @@ holder=168192
 	liege=d_swabia
 }
 876.8.28={
-#	liege=k_germany
+	
+#liege=k_germany
+
 }
 1066.1.1=
 {
@@ -74,7 +78,9 @@ holder=33718
 }
 1268.10.29=
 {
+
 #liege="e_hre"
+
 }
 1279.9.18=
 {

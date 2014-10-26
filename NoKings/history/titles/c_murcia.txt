@@ -61,7 +61,9 @@
 }
 1091.1.1={
 	holder=224006 # Sa'd Abdallahvid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1100.1.1={
 	holder=73247 # Musa Mursiyid
@@ -90,7 +92,9 @@
 }
 1172.3.1={
 	holder=73244 # Hilal Mardanishid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1212.1.1={
 	holder=73618 # Umar Sebtaid

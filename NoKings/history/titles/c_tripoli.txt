@@ -83,7 +83,9 @@
 #Tortosa still has d_tripoli after c_tripoli falls
 1289.3.1=
 {
-#	liege="k_egypt"
+	
+#liege="k_egypt"
+
 }
 
 1291.8.14=

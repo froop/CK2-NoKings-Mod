@@ -24,7 +24,9 @@
 	holder=74020
 }
 822.1.1= {
-#	liege=k_khazaria
+	
+#liege=k_khazaria
+
 }
 829.1.1={
 	holder=74021
@@ -50,7 +52,9 @@
 }
 1066.1.1=
 {
-#	liege=k_cuman
+	
+#liege=k_cuman
+
 	holder=20663
 }
 

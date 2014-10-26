@@ -1,11 +1,15 @@
 762.1.1={
-#	liege="k_egypt"
+	
+#liege="k_egypt"
+
 }
 762.1.1={
 	holder = 210024
 }
 866.1.1={
-#	liege="k_egypt"
+	
+#liege="k_egypt"
+
 }
 866.1.1={
 	holder = 163115

@@ -14,7 +14,9 @@
 }
 840.1.1={
 	holder=73682 # Abd al-Rahman II Umayyad
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 852.9.22={
 	holder=73683 # Muhammad I Umayyad
@@ -25,7 +27,9 @@
 }
 870.1.1={
 	holder=73929 # Mohammed Qutamid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 888.1.1={
 	holder=73933 # Yahya Qutamid
@@ -95,11 +99,15 @@
 }
 1085.5.25={
 	holder=108500 # Alfonso VI Jimena
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1097.1.1={
 	holder=464010 # Muhammad Qaturbid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1119.1.1={
 	holder=224023 # Ibrahim Umarid
@@ -109,7 +117,9 @@
 }
 1178.1.1={
 	holder=72882 # Gómez González de Traba
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1209.5.5={
 	holder=72888 # Gonzalo Gómez de Traba

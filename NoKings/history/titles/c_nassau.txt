@@ -8,7 +8,9 @@
 	holder = 190397 #Heimerich
 }
 826.1.1={
-#	liege=k_germany
+	
+#liege=k_germany
+
 }
 826.1.1={
 	holder = 7946
@@ -30,7 +32,9 @@ holder = 7901 #Heinrich V Salier
 }
 1125.8.24 =
 {
+
 #liege="e_hre"
+
 }
 1125.5.23=
 {
@@ -54,7 +58,9 @@ holder=212372 #Heinrich II von Nassau
 1251.1.25=
 {
 holder=30700 #Walram II von Nassau
+
 #liege = e_hre
+
 }
 
 1276.1.24=

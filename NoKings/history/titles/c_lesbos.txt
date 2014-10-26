@@ -45,7 +45,9 @@
         holder=34414
 }
 1204.5.16={
-#	liege="e_latin_empire"	        holder=205523
+	
+#liege="e_latin_empire"
+	        holder=205523
 }
 1205.6.1={
         holder=205525
@@ -72,7 +74,9 @@
 	holder=34286
 }
 1308.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 1308.1.1={
 	holder=465210

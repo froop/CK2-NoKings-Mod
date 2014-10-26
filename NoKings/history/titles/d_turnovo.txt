@@ -1,10 +1,14 @@
 330.1.1=
 {
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 }
 681.1.1={
-#	liege="k_bulgaria"
+	
+#liege="k_bulgaria"
+
 	vice_royalty = no
 	holder=159118
 }
@@ -94,7 +98,9 @@ liege=0
 }
 1066.1.1=
 {
+
 #liege="e_byzantium"
+
 vice_royalty = yes
 }
 1066.1.1=
@@ -131,7 +137,9 @@ holder=232506
 }
 1185.1.1=
 {
+
 #liege="k_bulgaria"
+
 vice_royalty = no
 }
 1185.1.1=

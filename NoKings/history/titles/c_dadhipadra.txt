@@ -47,7 +47,9 @@
 }
 939.1.1={
 	holder = 188011 # Mahipala
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 944.1.1={
 	holder = 188012 # Mahendrapala II

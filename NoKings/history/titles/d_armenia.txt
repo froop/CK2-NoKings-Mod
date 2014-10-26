@@ -26,7 +26,9 @@
 	holder=41500
 }
 732.1.1={
-#	liege="k_armenia"
+	
+#liege="k_armenia"
+
 }
 745.1.1={
 	holder=70451
@@ -59,7 +61,9 @@
 	liege=0
 }
 857.1.1={
-#	liege="k_armenia"
+	
+#liege="k_armenia"
+
 }
 862.1.1={
 	holder=41505
@@ -68,13 +72,17 @@
 	liege=0
 }
 870.1.1={
-#	liege="k_armenia"
+	
+#liege="k_armenia"
+
 }
 878.1.1={
 	liege=0
 }
 886.1.1={
-#	liege="k_armenia"
+	
+#liege="k_armenia"
+
 }
 890.1.1={
 	holder=41506
@@ -105,7 +113,9 @@
 }
 1045.1.1={
 	holder=0
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 	vice_royalty = yes
 }
 1060.1.1={
@@ -115,7 +125,9 @@
 	holder = 0 
 }
 1191.1.1={
-#	liege="k_georgia"
+	
+#liege="k_georgia"
+
 	vice_royalty = no
 	holder = 232758
 }

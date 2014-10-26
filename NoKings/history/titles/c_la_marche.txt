@@ -2,10 +2,14 @@
 	holder = 190561 #Geofrey
 }
 767.1.1={
-#	liege=k_lotharingia
+	
+#liege=k_lotharingia
+
 }
 778.1.1={
-#	liege="k_aquitaine"
+	
+#liege="k_aquitaine"
+
 	holder = 144999 
 }
 781.1.1={
@@ -82,7 +86,9 @@
 	holder=138001 #Hugues X de Lusignan
 }
 1242.7.21={
-#	liege="k_france"
+	
+#liege="k_france"
+
 }
 1249.6.5={
 	holder=138011	#Hugues XI de Lusignan

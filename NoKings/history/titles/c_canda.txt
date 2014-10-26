@@ -51,7 +51,9 @@
 1242.1.1={
 	holder=191338 #Khandkya Ballal Sah
 }
-1250.1.1={ liege = k_maharastra }
+1250.1.1={ 
+#liege = k_maharastra
+ }
 1282.1.1={
 	holder=191339 #Hir Sah
 }

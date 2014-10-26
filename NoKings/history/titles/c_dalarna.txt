@@ -14,7 +14,9 @@
 }
 1067.12.20=
 {
-#	liege="k_sweden"
+	
+#liege="k_sweden"
+
 }
 1089.1.1=
 {

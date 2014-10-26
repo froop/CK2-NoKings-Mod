@@ -1,5 +1,7 @@
 830.1.1={
-#	liege="k_moravia"
+	
+#liege="k_moravia"
+
 	holder=187010
 }
 850.1.1={
@@ -12,7 +14,9 @@
 	holder=187008
 }
 902.1.1={
-#	liege="k_magyar"
+	
+#liege="k_magyar"
+
 	holder=159136
 }
 907.1.1={
@@ -30,7 +34,9 @@
 	holder=487
 }
 1000.12.25={
-#	liege="k_hungary"
+	
+#liege="k_hungary"
+
 }
 1029.1.1={
 	holder=466

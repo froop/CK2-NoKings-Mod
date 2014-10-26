@@ -11,7 +11,9 @@
 	holder = 41258 # Hrane Gautske
 }
 947.1.2={
-#	liege="k_sweden"
+	
+#liege="k_sweden"
+
 	holder=100517 # Toste
 }
 970.1.2={
@@ -105,7 +107,9 @@
 }
 
 1318.2.16={
-#	liege="k_sweden" # Duke Erik dies at Nyköpingshus
+	
+#liege="k_sweden"
+ # Duke Erik dies at Nyköpingshus
 	holder=450504 # King Birger
 }
 

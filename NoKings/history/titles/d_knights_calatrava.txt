@@ -4,7 +4,9 @@
 1164.1.1={
 	active=yes
 	holder=73150
-#	liege=k_castille
+	
+#liege=k_castille
+
 }
 1169.1.1={
 	holder=73151

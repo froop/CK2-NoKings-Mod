@@ -1,6 +1,8 @@
 755.1.1={
 	holder = 190027 #Gopala Pala
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }
 769.1.1={
 	holder = 190028 #Dharamapala Pala
@@ -125,5 +127,7 @@
 }
 1322.1.1={
 	holder = 170278 #Ghiyasuddin Bahadur
-#	liege=k_bengal
+	
+#liege=k_bengal
+
 }

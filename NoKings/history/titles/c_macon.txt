@@ -5,17 +5,23 @@
 	liege=d_burgundy
 }
 864.1.1={
-#	liege = "k_aquitaine"
+	
+#liege = "k_aquitaine"
+
 	holder = 167924
 }
 865.1.1={
-#	liege="k_burgundy"
+	
+#liege="k_burgundy"
+
 }
 867.1.4={
 	holder=167925
 }
 884.12.12={
-#	liege = "k_france"
+	
+#liege = "k_france"
+
 }
 982.1.1 = {
 	liege="d_burgundy"
@@ -62,7 +68,9 @@
 }
 
 1239.1.1={
-#	liege="k_france"
+	
+#liege="k_france"
+
 	holder = 455404 #Louis IX (saint Louis)
 }
 1270.8.25={

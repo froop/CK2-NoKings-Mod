@@ -1,9 +1,13 @@
 760.1.1 = {
 	holder = 194170
-#	liege = k_france
+	
+#liege = k_france
+
 }
 860.1.1={
-#	liege = "k_lotharingia"
+	
+#liege = "k_lotharingia"
+
 }
 
 
@@ -12,7 +16,9 @@
 }
 
 870.8.8={
-#	liege = "e_hre"
+	
+#liege = "e_hre"
+
 }
 880.1.1={
 	holder = 168336

@@ -1,5 +1,7 @@
 833.1.1={
-#	liege="k_khazaria"
+	
+#liege="k_khazaria"
+
 	holder=74022
 }
 847.1.1={
@@ -34,7 +36,9 @@
 }
 1030.1.1=
 {
+
 #liege="k_cuman"
+
 holder=90142
 }
 1060.1.1=
@@ -67,7 +71,9 @@ holder=125404
 }
 1238.1.1=
 {
+
 #liege="e_golden_horde"
+
 holder=34851
 }
 1262.1.13=

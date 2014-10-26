@@ -1,9 +1,13 @@
 740.1.1={
 	holder = 131717 #Agnerald de Chaumontis
-#	liege = k_france
+	
+#liege = k_france
+
 }
 817.1.1={
-#	liege = "k_lotharingia"
+	
+#liege = "k_lotharingia"
+
 }
 817.1.1={
 	holder = 30227

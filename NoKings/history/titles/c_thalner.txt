@@ -23,7 +23,9 @@
 }
 1055.1.1={
 	holder = 188185
-#	liege = k_malwa
+	
+#liege = k_malwa
+
 }
 1069.1.1={
 	holder = 188186

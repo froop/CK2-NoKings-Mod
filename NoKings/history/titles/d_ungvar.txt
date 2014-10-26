@@ -24,7 +24,9 @@
 	holder=74046
 }
 900.1.1={
-#	liege="k_magyar"		}
+	
+#liege="k_magyar"
+		}
 918.1.1={
 	holder=159135
 }
@@ -38,7 +40,9 @@
 	holder=482
 }
 1000.12.25={
-#	liege="k_hungary"
+	
+#liege="k_hungary"
+
 }
 1038.8.15={
 	holder=497

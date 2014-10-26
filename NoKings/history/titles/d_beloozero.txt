@@ -13,7 +13,9 @@ holder = 6828
 }
 1238.3.4=
 {
+
 #liege="e_golden_horde"
+
 #law = succ_seniority
 #law = agnatic_succession
 }

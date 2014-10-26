@@ -1,6 +1,8 @@
 725.1.1={
 	holder = 191025	#Rajaputra
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 780.1.1={
 	holder = 191026	#Shivaraja
@@ -12,7 +14,9 @@
 	holder = 191027	#Shankaragana
 }
 820.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 835.1.1={
 	holder = 191028	#Gunasagara I
@@ -52,7 +56,9 @@
 	holder = 191039 #Maharajadhiraja
 }
 1089.1.1={
-#	liege = k_kosala
+	
+#liege = k_kosala
+
 }
 1090.1.1={
 	holder = 0

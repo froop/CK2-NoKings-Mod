@@ -61,7 +61,9 @@ holder=125301 #Mindaugas
 }
 1253.6.30=
 {
+
 #liege="k_lithuania"
+
 }
 1263.9.12=
 {

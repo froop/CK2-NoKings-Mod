@@ -3,7 +3,9 @@
 	holder = 91490 #VULFARD, historical placeholder
 }
 855.1.1={
-#	liege = "k_burgundy"
+	
+#liege = "k_burgundy"
+
 }
 855.1.1={
 	holder = 163062
@@ -34,7 +36,9 @@
 	holder = 212800 # Beatrix d'Albon
 }
 1187.1.1={
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1228.12.15={
 	holder = 206016 #André Guigues VIII d'Albon

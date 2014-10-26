@@ -1,6 +1,8 @@
 517.1.1={
 	holder = 166543
-#	liege="k_scotland"
+	
+#liege="k_scotland"
+
 }
 531.1.1={
 	holder = 166544
@@ -93,7 +95,9 @@
 	holder = 166607
 }
 839.1.1={
-#	liege="k_scotland"
+	
+#liege="k_scotland"
+
 }
 858.1.2={
 	holder = 6024

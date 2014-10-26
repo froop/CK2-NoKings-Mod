@@ -1,6 +1,8 @@
 811.1.1={
 	holding_dynasty = 1042809 #Tradonico - makes this a FAMILY_PALACE type Holding
-#	liege="k_venice"
+	
+#liege="k_venice"
+
 	holder = 184074
 }
 836.1.1={

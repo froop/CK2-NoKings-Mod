@@ -1,6 +1,8 @@
 769.1.1={
 	holder = 74415
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 820.1.1={
 	holder = 74633
@@ -12,7 +14,9 @@
 #Ruler Placeholder until something better#
 1042.1.1={
 	holder=74441
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1068.1.1={
 	holder=74442
@@ -53,7 +57,9 @@
 #End of Ruler Placeholder until something better#
 1190.1.1={
 	holder = 74654
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1192.1.1={
 	holder = 74655

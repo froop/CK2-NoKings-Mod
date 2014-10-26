@@ -2,10 +2,14 @@
 	holder = 190514 #Guillaume
 }
 769.1.1={
-#	liege=k_lotharingia
+	
+#liege=k_lotharingia
+
 }
 778.1.1={
-#	liege = "k_aquitaine"
+	
+#liege = "k_aquitaine"
+
 }
 790.1.1 = {
 	holder = 168130 #Guillaume I Gellones
@@ -36,7 +40,9 @@
 	holder = 40232 #Eudes de Toulouse
 }
 884.12.12={
-#	liege = "k_france"
+	
+#liege = "k_france"
+
 }
 918.6.17 = {
 	holder = 40234 #Raymond II de Toulouse

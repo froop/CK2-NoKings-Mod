@@ -1,5 +1,7 @@
 661.2.28={
-#	liege=e_arabia
+	
+#liege=e_arabia
+
 }
 
 764.1.1={
@@ -10,7 +12,9 @@
 }
 
 1066.1.1={
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 	holder=93269
 }
 1073.1.1=
@@ -47,7 +51,9 @@
 }
 1194.3.1=
 {
-#	liege="k_persia"
+	
+#liege="k_persia"
+
 } 
 1215.1.1=
 {
@@ -55,7 +61,9 @@
 }
 1221.1.1=
 {
-#	liege="e_mongol_empire"
+	
+#liege="e_mongol_empire"
+
 	holder=93278
 }
 1222.1.1=
@@ -79,7 +87,9 @@
 	holder=93285
 }
 1227.12.2={
-#	liege="e_il-khanate"
+	
+#liege="e_il-khanate"
+
 }
 1255.1.1=
 {

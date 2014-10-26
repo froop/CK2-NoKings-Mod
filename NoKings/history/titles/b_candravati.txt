@@ -37,7 +37,9 @@
 }
 1158.1.1={
 	holder = 191801 #Dharanivaraha
-#	liege = k_gujarat
+	
+#liege = k_gujarat
+
 }
 1200.1.1={
 	holder = 191803 #Praladana

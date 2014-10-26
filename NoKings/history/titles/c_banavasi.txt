@@ -1,6 +1,8 @@
 610.1.1={
 	holder = 192001 #Aluvarasa I Alupa
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 630.1.1={
 	holder = 192002 #Gunasagara
@@ -46,13 +48,17 @@
 	holder = 74786
 }
 1076.1.1={
-#	liege = k_maharastra
+	
+#liege = k_maharastra
+
 }
 1116.1.1={
 	holder = 74789
 }
 1120.1.1={
-#	liege = k_karnata
+	
+#liege = k_karnata
+
 }
 1130.1.1={
 	holder = 74790
@@ -83,5 +89,7 @@
 	holder = 74798
 }
 1337.1.1={
-#	liege = e_deccan
+	
+#liege = e_deccan
+
 }

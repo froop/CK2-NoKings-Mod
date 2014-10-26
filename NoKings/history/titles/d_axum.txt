@@ -1,5 +1,7 @@
 656.1.1 = {
-#	liege="k_abyssinia"
+	
+#liege="k_abyssinia"
+
 }
 
 # Solomonid
@@ -93,7 +95,9 @@ holder=145657
 
 1137.1.1=
 {
+
 #liege="k_abyssinia"
+
 holder=32244
 }
 1160.1.1=

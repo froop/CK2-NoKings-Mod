@@ -1,5 +1,7 @@
 758.1.1={
-#	liege=k_italy
+	
+#liege=k_italy
+
 }
 758.1.1={
 	holder = 190328 #Peter
@@ -12,7 +14,9 @@
 }
 1066.1.1=
 {
+
 #liege="k_papal_state"
+
 holder=20330
 }
 1095.1.1=

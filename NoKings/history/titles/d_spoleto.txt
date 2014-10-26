@@ -1,5 +1,7 @@
 763.1.1={
-#	liege=k_italy
+	
+#liege=k_italy
+
 }
 763.1.1={
 	holder = 190265 #Theodicus
@@ -9,7 +11,9 @@
 }
 822.1.1=
 {
+
 #liege="k_italy"
+
 holder=167879
 }
 824.3.5=
@@ -79,7 +83,9 @@ holder=71911
 	holder = 7925
 }
 1024.7.13={
-#	liege="e_hre"
+	
+#liege="e_hre"
+
 }
 1043.1.1={
 	holder = 7756
@@ -154,7 +160,9 @@ holder=213100
 1198.1.8=
 {
 holder=71814
-#	liege=k_papal_state
+	
+#liege=k_papal_state
+
 }
 1205.1.1=
 {

@@ -20,7 +20,9 @@
 1060.8.2=
 {
 	holder = 100522 # Stenkil
-#	liege="k_sweden"
+	
+#liege="k_sweden"
+
 }
 1066.9.25=
 {

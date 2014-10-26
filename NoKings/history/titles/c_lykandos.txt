@@ -2,7 +2,9 @@
 	liege="d_armenia_minor"
 }
 637.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 705.1.1={
 	liege="d_antioch"
@@ -29,7 +31,9 @@
 	holder=159725
 }
 908.1.1={
-#	liege="e_byzantium"
+	
+#liege="e_byzantium"
+
 }
 964.1.1={
 	liege="d_armenia_minor"
@@ -44,7 +48,9 @@
 	holder=232561 #Roupen I Rubenid
 }
 1084.2.1={
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	holder = 41701
 }
 1086.1.1={
@@ -71,7 +77,9 @@
 	holder=34198
 }
 1142.1.1={
-#	liege="k_rum"
+	
+#liege="k_rum"
+
 	holder = 7299
 }
 1155.4.1={
@@ -123,7 +131,9 @@
 	holder=34195
 }
 1307.1.1={
-#	liege="k_karaman"
+	
+#liege="k_karaman"
+
 	holder=71878
 }
 1308.1.1={
@@ -136,6 +146,8 @@
 	holder=476300
 }
 1335.1.1={
-#	liege="k_eretnid"
+	
+#liege="k_eretnid"
+
 	holder=71864
 }

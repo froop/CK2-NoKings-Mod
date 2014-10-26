@@ -16,7 +16,9 @@
 }
 867.1.1={
 	holder=73851 # A'id Aidid
-#	liege=k_andalusia
+	
+#liege=k_andalusia
+
 }
 892.1.1={
 	holder=73852 # Yahya Aidid
@@ -58,14 +60,18 @@
 }
 1099.1.1={
 	holder=73182 # Muhammad Hayyid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1110.5.31={
 	liege=d_zaragoza
 }
 1115.1.1={
 	holder=73183 # Tifilwit Tifilwitid
-#	liege=k_mauretania
+	
+#liege=k_mauretania
+
 }
 1116.1.1={
 	holder=210508 # Ramon Berenguer III de Barcelona
@@ -81,7 +87,9 @@
 	holder=210500 # Alfons II de Barcelona
 }
 1164.1.1={
-#	liege=k_aragon
+	
+#liege=k_aragon
+
 }
 1195.4.25={
 	holder=210501 # Pere II de Barcelona

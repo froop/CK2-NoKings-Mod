@@ -8,7 +8,9 @@
 	holder=180260
 }
 837.1.1={
-#	liege="k_cuman"
+	
+#liege="k_cuman"
+
 	holder=180262
 }
 

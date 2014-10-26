@@ -67,7 +67,9 @@
 }
 #conquered by the Crusaders
 1191.7.1={
-#	liege="k_jerusalem"
+	
+#liege="k_jerusalem"
+
 }
 1191.7.1={
 	holder = 223524 #Isabelle
