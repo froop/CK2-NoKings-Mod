@@ -23,7 +23,7 @@ Screenshot
 動作環境
 ----------------------------------------
 
-* Steam 版 Crusader Kings II Version 2.2
+* Crusader Kings II Version 2.2.1 Steam 版
 * Windows 8.1
 
 
@@ -74,7 +74,6 @@ find *.txt | xargs sed -r -b -i 's/(\bliege\s*=\s*"?[ek]_[a-z_-]+"?)/\r\n#\1\r\n
 ```text:
 name = "NoKings"
 path = "mod/NoKings"
-user_dir = "NoKings"
 replace_path = "history/titles"
 ```
 
