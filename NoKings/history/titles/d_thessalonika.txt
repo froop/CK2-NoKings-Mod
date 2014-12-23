@@ -57,7 +57,6 @@ holder=1732
 }
 1204.8.1=
 {
-vice_royalty = yes
 holder=213523 #Bonifazio I
 }
 1207.9.4=
@@ -72,7 +71,6 @@ holder=215514
 }
 1224.1.1=
 {
-vice_royalty = no
 liege=0
 }
 1230.3.9=

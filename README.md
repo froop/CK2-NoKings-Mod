@@ -23,7 +23,7 @@ Screenshot
 動作環境
 ----------------------------------------
 
-* Crusader Kings II Version 2.2.1 Steam 版
+* Crusader Kings II Version 2.3 Steam 版
 * Windows 8.1
 
 
