@@ -4,6 +4,9 @@
 759.1.1={
 	liege=d_gascogne
 }
+768.1.1={
+	holder = 168104 #Lope II de Vasconia
+}
 801.1.1={
 	holder = 31701
 	

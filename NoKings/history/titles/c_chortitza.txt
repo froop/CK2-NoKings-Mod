@@ -2,10 +2,12 @@
 	
 #liege = "k_magyar"
 
-	holder=146224
+	#holder=146224
+	holder=146228
 }
 808.1.1={
-	holder=146225
+	#holder=146225
+	holder=146229
 }
 845.1.1={
 	holder=6847
@@ -15,11 +17,14 @@
 }
 1066.1.1=
 {
-liege="d_crimea"
+#liege="d_crimea"
+
+#liege=k_cuman
+
 }
 1066.1.1=
 {
-holder=20648
+holder=34854
 }
 1089.1.1=
 {

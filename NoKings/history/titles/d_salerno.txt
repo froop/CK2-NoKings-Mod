@@ -64,7 +64,7 @@ law = cognatic_succession
 	holder=212507
 }
 1197.9.28={
-	holder=212513
+	holder=32550
 }
 1250.12.13={
 	holder=30760

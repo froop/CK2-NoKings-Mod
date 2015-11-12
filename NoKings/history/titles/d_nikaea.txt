@@ -50,6 +50,9 @@
 1190.1.2={
 	holder=215674
 }
+1204.5.16={
+	vice_royalty = no
+}
 1222.8.2=
 {
 	holder=125741
@@ -76,7 +79,6 @@
 
 #liege="k_ottoman"
 
-vice_royalty = no
 }
 1310.1.1=
 {

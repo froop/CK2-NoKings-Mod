@@ -55,8 +55,15 @@
 {
 	holder = 100546 # Erik the Heathen
 }
+1066.9.25=
+{
+	liege=0
+}
 1067.12.20=
 {
+	
+#liege="k_sweden"
+
 	holder=100523 # Halsten
 }
 1070.12.1=

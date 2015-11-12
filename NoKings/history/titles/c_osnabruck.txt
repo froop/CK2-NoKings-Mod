@@ -72,6 +72,9 @@ holder=30070 #Gerhard von Oldenburg
 {
 holder=30348 #Adolf von Tecklenburg
 }
+1220.1.1 = {
+	liege = d_brunswick
+}
 1224.6.30=
 {
 holder=30353 #Engelbert von Isenburg

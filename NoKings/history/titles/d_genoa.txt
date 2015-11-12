@@ -1,3 +1,9 @@
+#Associated patrician titles:
+#b_doria
+#b_embriaco
+#b_fieschi
+#b_grimaldi
+#b_spinola
 1066.1.1={
 	holder=20314 # Manfredo I Doria
 	

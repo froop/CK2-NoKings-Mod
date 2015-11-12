@@ -40,10 +40,12 @@ holder=204690 #William de Ferrers
 }
 1199.1.1=
 {
+liege = d_york
 holder = 204694 #William de Ferrers
 }
 1247.1.1=
 {
+liege = d_lancaster
 holder = 7429 #William de Ferrers
 }
 1254.3.28=

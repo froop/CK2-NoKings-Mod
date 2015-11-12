@@ -67,6 +67,9 @@
 {
 	holder = 93053
 }
+1220.1.1 = {
+	holder = 194303
+}
 1221.1.1=
 {
 	
@@ -81,7 +84,7 @@
 1227.12.2=
 {
 	
-#liege=k_khiva
+#liege=e_chagatai
 
 	holder = 93062
 }

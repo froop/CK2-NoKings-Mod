@@ -1,3 +1,6 @@
+20.1.1 = {
+	historical_nomad = yes
+}
 654.1.1= {
 	liege=d_itil
 	holder=74004
@@ -11,9 +14,9 @@
 731.1.1={
 	holder=74012
 }
-750.1.1={
-	holder=74018
-}
+#750.1.1={
+#	holder=74018
+#}
 788.1.1={
 	holder=74019
 }
@@ -30,23 +33,30 @@ holder=180236
 }
 1066.1.1=
 {
-liege="d_itil"
+#liege="d_itil"
+
+#liege=k_cuman
+
 }
-1066.1.1=
+1060.1.1=
 {
-holder=34945
+holder=806
 }
-1095.1.1=
+1110.1.1=
 {
-holder=34946
+holder=90143
 }
-1130.1.1=
+1120.1.1=
 {
-holder=34947
+holder=125401
 }
-1160.1.1=
+1146.1.1=
 {
-holder=34948
+holder=125402
+}
+1183.1.1=
+{
+holder=228030
 }
 1190.1.1=
 {
@@ -55,6 +65,9 @@ holder=34949
 1227.1.1=
 {
 holder=34950
+
+#liege=e_golden_horde
+
 }
 1255.1.1=
 {

@@ -74,6 +74,9 @@ holder=213011
 {
 holder=73516
 }
+1220.1.1 = {
+	liege = d_ferrara
+}
 1230.1.1=
 {
 holder=73517

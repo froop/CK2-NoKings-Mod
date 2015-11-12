@@ -114,7 +114,10 @@ holder=223597
 	holder = 212607 #Otto IV Welf
 }
 1212.7.5 = {
-	holder = 212513 #Friedrich II von Hohenstaufen
+	holder = 194181
+}
+1220.1.1 = {
+	liege = d_lombardia
 }
 1239.7.30 = {
 	holder = 71171

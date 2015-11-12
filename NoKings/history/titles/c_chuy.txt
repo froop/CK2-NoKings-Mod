@@ -1,6 +1,12 @@
-766.1.1={
-	holder=188772
+20.1.1 = {
+	historical_nomad = yes
 }
+766.1.1={
+	holder=188768
+}
+#766.1.1={
+#	holder=188772
+#}
 800.1.1={
 	holder=188830
 }
@@ -51,6 +57,9 @@
 1135.1.1={
 	holder=188846
 }
+1137.1.1={
+	liege=d_samarkand # Kara Khitan conquest
+}
 1160.1.1={
 	holder=188847
 }
@@ -60,11 +69,14 @@
 1210.1.1={
 	holder=188849
 }
+1218.1.1={
+	liege=0
+}
 1220.2.1={
 	
-#liege="e_mongol_empire"
+#liege=e_mongol_empire
 
-	holder = 125501
+	holder = 34852
 }
 1227.12.2={
 	liege = d_zhetysu

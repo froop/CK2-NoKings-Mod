@@ -1,3 +1,6 @@
+#20.1.1 = {
+#	historical_nomad = yes
+#}
 766.1.1={
 	holder=188768
 }
@@ -66,11 +69,14 @@
 1205.1.1={
 	holder=188857 # Muhammad
 }
-1220.2.1={
+1211.1.1={
+	holder = 188914 # Kuchlug
+}
+1218.1.1={
 	
 #liege="e_mongol_empire"
 
-	holder = 125501
+	holder=34852
 }
 1227.12.2=
 {

@@ -31,6 +31,7 @@
 	holder=32584 #Hugh III di Catanzaro
 }
 1220.1.1={
+	liege = d_calabria
 	holder=32545 #Giordano Ruffo
 }
 1221.1.1={

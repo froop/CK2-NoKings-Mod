@@ -15,13 +15,15 @@
 	holder=146205
 }
 762.1.1={
-	holder=146206
+#	holder=146206
+	holder=146210
 }
 779.1.1={
 	holder=146209
 }
 860.1.1={
-	holder = 183238
+#	holder = 183238
+	holder = 163118
 }
 900.1.1={
 	holder=183223
@@ -36,13 +38,17 @@
 	holder=146194
 }
 1016.1.1={
-	liege=0
-	holder=0
+	#liege=0
+	#holder=0
+	liege = d_alania
 }
 1066.1.1=
 {
-liege="d_alania"
-holder=93040
+holder=20662
+}
+1068.1.1=
+{
+holder=41594
 }
 1100.1.1=
 {

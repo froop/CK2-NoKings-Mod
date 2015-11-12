@@ -60,14 +60,20 @@
 	holder=91206 #Guerin II de Sens
 }
 
-#Capetians
 1175.1.1={
 	holder = 205500 #Louis VII le Jeune
 }
 1180.9.18={
 	holder=205506 # Philippe II Auguste
 }
+1201.5.24={
+	liege = d_champagne
+	holder = 205964 #Thibaut IV
+}
 1223.7.14={
+	
+#liege = k_france
+
 	holder = 455402 #Louis VIII le Lion
 }
 1226.11.8={

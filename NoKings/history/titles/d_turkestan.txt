@@ -1,3 +1,6 @@
+20.1.1 = {
+	historical_nomad = yes
+}
 762.1.1={
 	liege=0
 	holder=188767
@@ -19,6 +22,7 @@
 	
 #liege="k_persia"
 
+	historical_nomad = no
 }
 1066.1.1=
 {
@@ -46,7 +50,10 @@
 {
 	holder = 144101
 }
- 
+1157.5.8=
+{
+	liege=0
+}
 1172.3.1=
 {
 	holder=230000

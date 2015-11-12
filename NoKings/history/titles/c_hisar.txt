@@ -73,6 +73,9 @@
 #liege=e_rajastan
 
 }
+1220.1.1={
+	holder = 170291
+}
 1237.1.1={
 	holder = 170291
 }

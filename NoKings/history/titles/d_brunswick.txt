@@ -12,16 +12,10 @@
 	liege = 0
 	de_jure_liege = k_germany
 }
-1235.1.1=
-{
+1213.12.13 = {
+	
+#liege = e_hre
 
-#liege="e_hre"
-
-#law = agnatic_succession
-#law = succ_primogeniture
-}
-1235.1.1=
-{
 	holder = 462802
 }
 1252.1.1=

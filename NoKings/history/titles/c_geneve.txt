@@ -70,6 +70,9 @@ holder=212740
 {
 holder=212742
 }
+1220.1.1 = {
+	liege = d_savoie
+}
 1225.5.10=
 {
 holder=212745

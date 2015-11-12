@@ -52,7 +52,7 @@ holder=212370 #Walram von Nassau
 {
 holder=212372 #Heinrich II von Nassau
 }
-1241.1.1 = {
+1220.1.1 = {
 	liege = d_thuringia
 }
 1251.1.25=

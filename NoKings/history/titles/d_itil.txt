@@ -30,13 +30,11 @@
 }
 
 #Pechenegs
-860.1.1={
+860.1.1 = {
+	historical_nomad = yes
 	law = succ_gavelkind
 	holder=180174
-}
-889.1.1=
-{
-	liege=0
+	liege = 0
 }
 
 
@@ -44,6 +42,7 @@
 
 1066.1.1=
 {
+#historical_nomad = no
 
 #liege="k_cuman"
 

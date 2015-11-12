@@ -41,6 +41,12 @@ holder=1148
 {
 holder=0
 }
+1220.1.1 = {
+	
+#liege = e_hre
+
+	holder = 32768
+}
 1241.1.1 = {
 	holder = 32769
 }

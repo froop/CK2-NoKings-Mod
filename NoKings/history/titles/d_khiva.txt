@@ -7,6 +7,7 @@
 769.1.1={
 	holder=188603
 	liege = 0 # De facto
+	set_tribute_suzerain = { who = e_arabia percentage = 0.40 }
 }
 
 864.1.1={
@@ -14,6 +15,7 @@
 #liege="k_khiva"
 
 	holder = 163099
+	clear_tribute_suzerain = e_arabia
 }
 1052.1.1=
 {
@@ -112,7 +114,7 @@
 1227.12.2=
 {
 	
-#liege=k_khiva
+#liege=e_chagatai
 
 	holder = 93062
 }

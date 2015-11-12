@@ -1,3 +1,9 @@
+#Associated patrician titles:
+#b_gildehusen
+#b_guldsmed
+#b_hejnum
+#b_stenkyrka
+#b_strabain
 1066.1.1=
 {
 	
@@ -37,15 +43,16 @@
 	holder=0
 }
 
-1187.1.1=
-{
-	
-#liege="k_sweden"
-
+# Republic of Gotland
+1161.6.6={
+	liege = 0
+	holder=167352
+}
+1173.1.1={
+	holder=167372
 }
 1187.1.1=
 {
-
 	holder=167340 #Sverker Hejnum
 }
 1189.1.1=
@@ -64,7 +71,20 @@
 {
 	holder=167324 #Jedvard Guldsmed
 }
-1197.1.1=
-{
-	holder=0
+1197.1.1 = {
+	holder=167306
+}
+1200.1.1 = {
+	holder = 167310
+}
+1210.1.1 = {
+	holder = 194282
+}
+1255.1.1 = {
+	holder = 194278
+}
+#
+
+1285.1.1 = {
+	holder = 0
 }

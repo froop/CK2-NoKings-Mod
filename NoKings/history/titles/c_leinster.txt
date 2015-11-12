@@ -37,6 +37,12 @@
 728.7.1={
 	holder=83171  #Áed Ua Cheinnselaig son of Colcú
 }
+738.7.1 = {
+	holder = 217321 #Sechnusach au Cheinnselaig son of Colcú # assumed successor
+}
+747.4.1 = {
+	holder = 217322 #Forbasach au Cheinnselaig son of Sechnusach # assumed successor
+}
 850.7.1={
 	holder=83187  #Coirpre son of Diarmait
 }

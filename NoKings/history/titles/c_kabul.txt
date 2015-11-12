@@ -76,3 +76,6 @@
 #liege=k_persia
 
 }
+1220.1.1 = {
+	holder = 194302
+}

@@ -1,7 +1,15 @@
+#Associated patrician titles:
+#b_alliata
+#b_caetani
+#b_dappiono
+#b_della_gherardesca
+#b_visconti
 1060.1.1=
 {
 	holder=180023 #Tedice III della Gheradesca
-	liege="K_pisa"
+	
+#liege="k_pisa"
+
 }
 1078.1.1=
 {

@@ -102,14 +102,14 @@ liege="d_franconia"
 1207.1.1={
 	holder = 144548
 }
+1220.1.1 = {
+	liege = d_franconia
+}
 1223.1.1={
 	holder = 144549
 }
 1225.1.1={
 	holder = 144550
-}
-1241.1.1 = {
-	liege = d_franconia
 }
 1254.1.1={
 	holder = 144551

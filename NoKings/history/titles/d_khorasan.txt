@@ -1,5 +1,5 @@
 661.2.28={
-	
+	#
 #liege=e_arabia
 
 }
@@ -9,7 +9,7 @@
 }
 768.1.1={
 	holder = 188602 # Homayd ibn Qahtaba
-	liege = 0 # De facto
+	set_tribute_suzerain = { who = e_arabia percentage = 0.40 }
 }
 
 
@@ -28,6 +28,7 @@
 862.1.1={
 	liege=0
 	holder = 163100
+	clear_tribute_suzerain = e_arabia
 }
 
 1066.1.1=
@@ -70,9 +71,6 @@
 }
 1161.1.1=
 {
-	
-#liege ="k_khiva"
-
 	holder = 144101
 }
  

@@ -38,6 +38,9 @@ holder=161735
 1227.1.1=
 {
 holder=34912
+
+#liege=e_golden_horde
+
 }
 1251.1.1=
 {

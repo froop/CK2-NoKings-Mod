@@ -62,7 +62,7 @@
 	holder = 188362 # Bhoongar II
 }
 1222.1.1={
-	holder = 188157 #
+	holder = 188363 # Gunero I
 }
 # Possibly some dynastic fighting with a Chamesar, or may be the same person as Gunero
 1242.1.1={
@@ -78,7 +78,7 @@
 	holder = 188162 #
 }
 1283.1.1={
-	holder = 188363 #
+	holder = 188368 # Chanesar
 }
 1300.1.1={
 	holder = 188369 # Bhoongar III

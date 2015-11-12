@@ -146,7 +146,8 @@
 	holder=202032 
 }
 1217.4.23={
-	holder=202509 
+	liege = d_orkney
+	holder=220042 
 }
 1263.12.15={
 	holder=6905 

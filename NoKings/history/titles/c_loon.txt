@@ -4,6 +4,9 @@
 #liege = k_france
 
 }
+760.1.1 = {
+	holder = 194450 #Robert II de Hesbaye
+}
 817.1.1={
 	
 #liege = "k_lotharingia"

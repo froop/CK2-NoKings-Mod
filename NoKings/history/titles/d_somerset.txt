@@ -34,3 +34,6 @@
 927.7.12={
 	law = succ_gavelkind # Formation of England
 }
+939.10.27 = {
+	holder = 0
+}

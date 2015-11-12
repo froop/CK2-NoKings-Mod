@@ -34,6 +34,12 @@
 #liege=k_maharastra
 
 }
+1220.1.1 = {
+	holder = 74657
+}
+1230.1.1 = {
+	holder = 0
+}
 1330.1.1={
 	holder=74723
 	

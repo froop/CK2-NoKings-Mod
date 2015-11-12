@@ -68,59 +68,26 @@ set_global_flag = norse_culture_flipping
 {
 	holder=200490 # Erik "the Holy"
 }
-1160.6.6=
-{
-	holder=100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
-}
-1161.6.6=
-{
-	holder=200602 # Karl Sverkersson, son of Sverker the Older
-}
-1167.4.12=
-{
-	holder=200608 # Kol Sverkersson, son of Sverker the Older
-}
-1173.1.1=
-{
-	holder=200500 # Knut Eriksson
-}
-1195.1.1=
-{
-	holder=200604 # Sverker den Yngre, son of 200602 - Karl Sverkersson
-}
-1208.1.31= 
-{
-	holder=200504 # Erik Knutsson, son of 200500, Knut Eriksson
-}
-1216.4.10= 
-{
-	holder=200609 # Johan, son of Sverker (200604)
-}
-1222.3.10=
-{
-	holder=200507 # Erik 'den Läspe och Halte'
-}
 
-1229.11.29=
-{
-	holder=200508 # Knut Holmgersson 'den Långe'
-}
+## Natt och Dag ancestors
+1160.6.6 = {
+	
+#liege=k_sweden
 
-1234.6.6=
-{
-	holder=200507 # Erik 'den Läspe och Halte', reinstated
+	holder=194253
 }
-
-1250.2.2={
-	holder=450506 # Valdemar Birgersson
+1210.1.1 = {
+	holder=194254
 }
-
-1275.7.22=
-{
-	holder=450502 # Magnus 'Ladulås'
+1250.1.1 = {
+	holder=194255
 }
+1290.1.1 = {
+	holder=194256
+}
+##
 
-1283.1.1={
+1300.1.1={
 	holder=450611
 }
 1322.1.1={
